@@ -1,0 +1,199 @@
+{
+ "basis": {
+  "aug-cc-pV5Z": {
+   "contracted_composition": "6s,6p,5d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 26,
+   "n_primitives": 42,
+   "primitive_composition": "14s,14p,5d,4f,3g,2h",
+   "source_file": "Pb.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "3s,3p,2d",
+   "max_L": "d",
+   "n_contracted": 8,
+   "n_primitives": 24,
+   "primitive_composition": "11s,11p,2d",
+   "source_file": "Pb.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "5s,5p,4d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 19,
+   "n_primitives": 35,
+   "primitive_composition": "13s,13p,4d,3f,2g",
+   "source_file": "Pb.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "4s,4p,3d,2f",
+   "max_L": "f",
+   "n_contracted": 13,
+   "n_primitives": 29,
+   "primitive_composition": "12s,12p,3d,2f",
+   "source_file": "Pb.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "5s,5p,4d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 20,
+   "n_primitives": 36,
+   "primitive_composition": "13s,13p,4d,3f,2g,1h",
+   "source_file": "Pb.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "2s,2p,1d",
+   "max_L": "d",
+   "n_contracted": 5,
+   "n_primitives": 21,
+   "primitive_composition": "10s,10p,1d",
+   "source_file": "Pb.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "4s,4p,3d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 14,
+   "n_primitives": 30,
+   "primitive_composition": "12s,12p,3d,2f,1g",
+   "source_file": "Pb.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "3s,3p,2d,1f",
+   "max_L": "f",
+   "n_contracted": 9,
+   "n_primitives": 25,
+   "primitive_composition": "11s,11p,2d,1f",
+   "source_file": "Pb.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "g",
+    [
+     [
+      "4.000000",
+      1,
+      "1.998442"
+     ],
+     [
+      "7.993766",
+      3,
+      "2.007475"
+     ],
+     [
+      "-12.707015",
+      2,
+      "1.988107"
+     ],
+     [
+      "-0.235863",
+      2,
+      "0.997975"
+     ]
+    ]
+   ],
+   [
+    "s-g",
+    [
+     [
+      "35.774361",
+      2,
+      "1.989794"
+     ],
+     [
+      "-0.564234",
+      2,
+      "0.254518"
+     ]
+    ]
+   ],
+   [
+    "p-g",
+    [
+     [
+      "8.163927",
+      2,
+      "0.922154"
+     ],
+     [
+      "-0.252977",
+      2,
+      "0.227206"
+     ]
+    ]
+   ],
+   [
+    "d-g",
+    [
+     [
+      "2.960413",
+      2,
+      "0.601501"
+     ],
+     [
+      "4.248686",
+      2,
+      "0.530396"
+     ]
+    ]
+   ],
+   [
+    "f-g",
+    [
+     [
+      "-2.145000",
+      2,
+      "0.813526"
+     ],
+     [
+      "-2.666419",
+      2,
+      "0.778976"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 4,
+  "local_channel": "g",
+  "n_explicit_electrons": 4,
+  "n_terms_per_channel": {
+   "d-g": 2,
+   "f-g": 2,
+   "g": 4,
+   "p-g": 2,
+   "s-g": 2
+  },
+  "ncore": 78,
+  "nonlocal_channels": [
+   "s-g",
+   "p-g",
+   "d-g",
+   "f-g"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Pb.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 6,
+  "validation": "PASS"
+ }
+}

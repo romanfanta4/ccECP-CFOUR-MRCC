@@ -1,0 +1,122 @@
+{
+ "elements_found": 65,
+ "ecpdata_entries": 65,
+ "genbas_entries": 841,
+ "ri_entries": 841,
+ "ri_from_library": 833,
+ "ri_from_extra": 8,
+ "ri_missing": 0,
+ "collisions": {
+  "host_labels": 5261,
+  "orbital": 0,
+  "orbital_bare": 290,
+  "ri": 0,
+  "ri_bare": 187
+ },
+ "distinct_basis_names": [
+  "aug-cc-pCV5Z",
+  "aug-cc-pCV6Z",
+  "aug-cc-pCVDZ",
+  "aug-cc-pCVQZ",
+  "aug-cc-pCVTZ",
+  "aug-cc-pV5Z",
+  "aug-cc-pV6Z",
+  "aug-cc-pVDZ",
+  "aug-cc-pVQZ",
+  "aug-cc-pVTZ",
+  "cc-pCV5Z",
+  "cc-pCV6Z",
+  "cc-pCVDZ",
+  "cc-pCVQZ",
+  "cc-pCVTZ",
+  "cc-pV5Z",
+  "cc-pV6Z",
+  "cc-pVDZ",
+  "cc-pVQZ",
+  "cc-pVTZ"
+ ],
+ "distinct_basis_labels": [
+  "aug-cc-pCV5Z-ccECP",
+  "aug-cc-pCV6Z-ccECP",
+  "aug-cc-pCVDZ-ccECP",
+  "aug-cc-pCVQZ-ccECP",
+  "aug-cc-pCVTZ-ccECP",
+  "aug-cc-pV5Z-ccECP",
+  "aug-cc-pV6Z-ccECP",
+  "aug-cc-pVDZ-ccECP",
+  "aug-cc-pVQZ-ccECP",
+  "aug-cc-pVTZ-ccECP",
+  "cc-pCV5Z-ccECP",
+  "cc-pCV6Z-ccECP",
+  "cc-pCVDZ-ccECP",
+  "cc-pCVQZ-ccECP",
+  "cc-pCVTZ-ccECP",
+  "cc-pV5Z-ccECP",
+  "cc-pV6Z-ccECP",
+  "cc-pVDZ-ccECP",
+  "cc-pVQZ-ccECP",
+  "cc-pVTZ-ccECP"
+ ],
+ "naming_failures": [],
+ "duplicate_labels": {},
+ "failed_ecp": [],
+ "failed_basis": [],
+ "convention_checks": [],
+ "hierarchy": {
+  "PASS": 510,
+  "INFO": 46
+ },
+ "source_formats_used": {
+  "ecp": {
+   "gamess": 65
+  },
+  "basis": {
+   "gamess": 841
+  },
+  "ecp_maxprec": {
+   "plain": 16,
+   "gamess": 40,
+   "molpro": 9
+  }
+ },
+ "library_commit": "0e81cb49cbf817558d9a4930dea8b461cc1ca2bd",
+ "library_commit_date": "2026-06-29 14:40:38 -0400",
+ "generated": "2026-09-02T11:00:34-07:00",
+ "library_path": "/home/rfanta/ccECP_for_CFOUR/pseudopotentiallibrary",
+ "output_path": "/home/rfanta/ccECP_for_CFOUR/ri_out",
+ "python": "3.12.3",
+ "bse": null,
+ "basis_source_selection": "auto",
+ "ecp_source_selection": "gamess",
+ "excluded_recipe_families": {
+  "ccECP_He_core": 8,
+  "ccECP.S": 2,
+  "CEPP": 14,
+  "eCEPP": 15,
+  "ccECP_reg": 2,
+  "RRKJ_PRB_93_075143": 10,
+  "TM_PRB_93_075143": 10,
+  "ccECP-soft": 7,
+  "soft-ccECP-deprecated": 4,
+  "ccECP_28_core": 2,
+  "ccECP_46_core": 1,
+  "ccECP_36_core": 1,
+  "Au": 1,
+  "Br": 1,
+  "C": 1,
+  "Cu": 1,
+  "Fe": 1,
+  "I": 1,
+  "O": 1,
+  "Si": 1
+ },
+ "elements_without_ccECP": [
+  "In",
+  "Sr",
+  "test_ORCA_conversion"
+ ],
+ "validation_counts": {
+  "PASS": 10556,
+  "INFO": 46
+ }
+}

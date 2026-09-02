@@ -1,0 +1,20 @@
+*
+Cs:ccECP
+# canonical ccECP for Cs: Z=55 NCORE=46 Zeff=9 LMAX=3 local=f | source recipes/Cs/ccECP/Cs.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 3
+f
+      9.000000    1       2.999986
+     26.999875    3       2.999542
+     -9.999908    2       3.000404
+    -34.269488    2       3.324776
+s-f
+     85.047793    2       4.077065
+     16.654293    2       2.417524
+p-f
+    156.549042    2       5.521131
+     26.422928    2       2.202089
+d-f
+     13.672640    2       2.010196
+      3.342155    2       0.865141
+*

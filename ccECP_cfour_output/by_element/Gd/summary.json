@@ -1,0 +1,239 @@
+{
+ "basis": {
+  "aug-cc-pCVDZ": {
+   "contracted_composition": "6s,6p,5d,5f,3g",
+   "max_L": "g",
+   "n_contracted": 25,
+   "n_primitives": 145,
+   "primitive_composition": "15s,15p,15d,15f,3g",
+   "source_file": "Gd.aug-cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVQZ": {
+   "contracted_composition": "8s,8p,7d,7f,5g,4h,3i",
+   "max_L": "i",
+   "n_contracted": 42,
+   "n_primitives": 258,
+   "primitive_composition": "15s,15p,15d,15f,5g,4h,3i",
+   "source_file": "Gd.aug-cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVTZ": {
+   "contracted_composition": "7s,7p,6d,6f,4g,3h",
+   "max_L": "h",
+   "n_contracted": 33,
+   "n_primitives": 201,
+   "primitive_composition": "15s,15p,15d,15f,4g,3h",
+   "source_file": "Gd.aug-cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "5s,5p,4d,4f,2g",
+   "max_L": "g",
+   "n_contracted": 20,
+   "n_primitives": 140,
+   "primitive_composition": "14s,14p,14d,14f,2g",
+   "source_file": "Gd.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "7s,7p,6d,6f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 35,
+   "n_primitives": 251,
+   "primitive_composition": "14s,14p,14d,14f,4g,3h,2i",
+   "source_file": "Gd.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "6s,6p,5d,5f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 27,
+   "n_primitives": 195,
+   "primitive_composition": "14s,14p,14d,14f,3g,2h",
+   "source_file": "Gd.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVDZ": {
+   "contracted_composition": "5s,5p,4d,4f,2g",
+   "max_L": "g",
+   "n_contracted": 20,
+   "n_primitives": 140,
+   "primitive_composition": "14s,14p,14d,14f,2g",
+   "source_file": "Gd.cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVQZ": {
+   "contracted_composition": "7s,7p,6d,6f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 35,
+   "n_primitives": 251,
+   "primitive_composition": "14s,14p,14d,14f,4g,3h,2i",
+   "source_file": "Gd.cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVTZ": {
+   "contracted_composition": "6s,6p,5d,5f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 27,
+   "n_primitives": 195,
+   "primitive_composition": "14s,14p,14d,14f,3g,2h",
+   "source_file": "Gd.cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "4s,4p,3d,3f,1g",
+   "max_L": "g",
+   "n_contracted": 15,
+   "n_primitives": 135,
+   "primitive_composition": "13s,13p,13d,13f,1g",
+   "source_file": "Gd.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "6s,6p,5d,5f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 28,
+   "n_primitives": 244,
+   "primitive_composition": "13s,13p,13d,13f,3g,2h,1i",
+   "source_file": "Gd.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "5s,5p,4d,4f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 21,
+   "n_primitives": 189,
+   "primitive_composition": "13s,13p,13d,13f,2g,1h",
+   "source_file": "Gd.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "g",
+    [
+     [
+      "18.000000",
+      1,
+      "4.482335"
+     ],
+     [
+      "82.168015",
+      3,
+      "4.564890"
+     ],
+     [
+      "-92.949026",
+      2,
+      "5.667120"
+     ],
+     [
+      "-4.588504",
+      2,
+      "3.161461"
+     ]
+    ]
+   ],
+   [
+    "s-g",
+    [
+     [
+      "158.751573",
+      2,
+      "11.958743"
+     ],
+     [
+      "75.338628",
+      2,
+      "4.575020"
+     ]
+    ]
+   ],
+   [
+    "p-g",
+    [
+     [
+      "85.299703",
+      2,
+      "9.327027"
+     ],
+     [
+      "55.148896",
+      2,
+      "3.727309"
+     ]
+    ]
+   ],
+   [
+    "d-g",
+    [
+     [
+      "55.315114",
+      2,
+      "9.142398"
+     ],
+     [
+      "27.587515",
+      2,
+      "2.410263"
+     ]
+    ]
+   ],
+   [
+    "f-g",
+    [
+     [
+      "-24.952915",
+      2,
+      "3.496091"
+     ],
+     [
+      "-2.920504",
+      2,
+      "6.162299"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 4,
+  "local_channel": "g",
+  "n_explicit_electrons": 18,
+  "n_terms_per_channel": {
+   "d-g": 2,
+   "f-g": 2,
+   "g": 4,
+   "p-g": 2,
+   "s-g": 2
+  },
+  "ncore": 46,
+  "nonlocal_channels": [
+   "s-g",
+   "p-g",
+   "d-g",
+   "f-g"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Gd.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 6,
+  "validation": "PASS"
+ }
+}

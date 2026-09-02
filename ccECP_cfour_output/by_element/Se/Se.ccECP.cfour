@@ -1,0 +1,23 @@
+# Se:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Se:ccECP
+# canonical ccECP for Se: Z=34 NCORE=28 Zeff=6 LMAX=3 local=f | source recipes/Se/ccECP/Se.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 28    LMAX = 3
+f
+                 6.0    1   2.97705189898323
+  17.862311393899380    3   7.01667360591764
+  -20.00913150638712    2   3.96066255032528
+   10.00573531473560    2   5.02826321004214
+s-f
+   71.37928031464314    2   4.17536331935161
+    0.42619859321245    2   2.14491059745542
+p-f
+   50.94828961394475    2   4.28772186507645
+    5.54288117697892    2   2.09538253707367
+d-f
+    6.20469719059516    2   1.39403720595047
+    0.53395702862692    2   1.69659923150419
+*

@@ -1,0 +1,20 @@
+*
+Zr:ccECP
+# canonical ccECP for Zr: Z=40 NCORE=28 Zeff=12 LMAX=3 local=f | source recipes/Zr/ccECP/Zr.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 28    LMAX = 3
+f
+     12.000000    1      23.999012
+    287.988139    3      25.971764
+     -5.987178    2       4.926614
+     -7.922580    2       4.801388
+s-f
+    150.262314    2       8.765091
+     30.213713    2       3.928322
+p-f
+     99.301910    2       7.417907
+     25.356026    2       3.768733
+d-f
+      5.625707    2       2.250556
+     46.916833    2       5.355356
+*

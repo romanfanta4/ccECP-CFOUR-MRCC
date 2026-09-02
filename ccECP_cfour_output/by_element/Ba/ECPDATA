@@ -1,0 +1,23 @@
+*
+Ba:ccECP
+# canonical ccECP for Ba: Z=56 NCORE=46 Zeff=10 LMAX=4 local=g | source recipes/Ba/ccECP/Ba.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 4
+g
+     10.000000    1       9.999991
+     99.999090    3       9.998491
+    120.999962    2       9.997459
+     -7.579943    2       2.263468
+s-g
+     84.785943    2       4.046183
+     17.375717    2       2.258112
+p-g
+    157.532338    2       6.361827
+     25.777693    2       2.002936
+d-g
+     12.467708    2       1.863849
+      3.415276    2       0.848671
+f-g
+    -46.100000    2       6.200000
+     -5.320000    2       1.620000
+*

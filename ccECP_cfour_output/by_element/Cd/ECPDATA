@@ -1,0 +1,20 @@
+*
+Cd:ccECP
+# canonical ccECP for Cd: Z=48 NCORE=28 Zeff=20 LMAX=3 local=f | source recipes/Cd/ccECP/Cd.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 28    LMAX = 3
+f
+     20.000000    1      10.991393
+    219.827863    3      10.838913
+   -124.388048    2      11.419750
+    -29.369023    2      11.576062
+s-f
+    270.035778    2      13.621456
+     38.856504    2       7.523456
+p-f
+    193.825168    2      12.674501
+     31.857429    2       6.826303
+d-f
+     79.186521    2      10.715569
+     12.823090    2       5.031907
+*

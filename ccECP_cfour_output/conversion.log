@@ -1,0 +1,198 @@
+convert_ccecp_to_cfour.py v1.2.0
+conversion date              : 2026-09-02T11:00:34-07:00
+python                       : 3.12.3
+library root                 : /home/rfanta/ccECP_for_CFOUR/pseudopotentiallibrary
+recipes                      : /home/rfanta/ccECP_for_CFOUR/pseudopotentiallibrary/recipes
+output                       : /home/rfanta/ccECP_for_CFOUR/ri_out
+library commit               : 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd (2026-06-29 14:40:38 -0400)
+basis_set_exchange           : not used
+basis source selection       : auto
+ECP   source selection       : gamess
+
+MRCC fixed-column NCORE/LMAX record self-test:
+    H   NCORE=0   LMAX=1  cols 12-14='  0' col 26='1'  -> MRCC reads (0, 1)  PASS
+    C   NCORE=2   LMAX=1  cols 12-14='  2' col 26='1'  -> MRCC reads (2, 1)  PASS
+    Fe  NCORE=10  LMAX=2  cols 12-14=' 10' col 26='2'  -> MRCC reads (10, 2)  PASS
+    Ru  NCORE=28  LMAX=3  cols 12-14=' 28' col 26='3'  -> MRCC reads (28, 3)  PASS
+    Pt  NCORE=60  LMAX=4  cols 12-14=' 60' col 26='4'  -> MRCC reads (60, 4)  PASS
+
+convention check: basis_set_exchange unavailable -- SKIPPED
+
+canonical ccECP elements found : 65
+recipe families present in the library but EXCLUDED by the ccECP rule:
+    Au                           (1 elements)
+    Br                           (1 elements)
+    C                            (1 elements)
+    CEPP                         (14 elements)
+    Cu                           (1 elements)
+    Fe                           (1 elements)
+    I                            (1 elements)
+    O                            (1 elements)
+    RRKJ_PRB_93_075143           (10 elements)
+    Si                           (1 elements)
+    TM_PRB_93_075143             (10 elements)
+    ccECP-soft                   (7 elements)
+    ccECP.S                      (2 elements)
+    ccECP_28_core                (2 elements)
+    ccECP_36_core                (1 elements)
+    ccECP_46_core                (1 elements)
+    ccECP_He_core                (8 elements)
+    ccECP_reg                    (2 elements)
+    eCEPP                        (15 elements)
+    soft-ccECP-deprecated        (4 elements)
+
+ECP  Ag  Z=47  NCORE=28  Zeff=19  LMAX=3 local=f   src=.gamess   PASS
+ECP  Al  Z=13  NCORE=10  Zeff=3   LMAX=2 local=d   src=.gamess   PASS
+ECP  Ar  Z=18  NCORE=10  Zeff=8   LMAX=2 local=d   src=.gamess   PASS
+ECP  As  Z=33  NCORE=28  Zeff=5   LMAX=3 local=f   src=.gamess   PASS
+ECP  Au  Z=79  NCORE=60  Zeff=19  LMAX=4 local=g   src=.gamess   PASS
+ECP  B   Z=5   NCORE=2   Zeff=3   LMAX=1 local=p   src=.gamess   PASS
+ECP  Ba  Z=56  NCORE=46  Zeff=10  LMAX=4 local=g   src=.gamess   PASS
+ECP  Be  Z=4   NCORE=2   Zeff=2   LMAX=1 local=p   src=.gamess   PASS
+ECP  Bi  Z=83  NCORE=78  Zeff=5   LMAX=4 local=g   src=.gamess   PASS
+ECP  Br  Z=35  NCORE=28  Zeff=7   LMAX=3 local=f   src=.gamess   PASS
+ECP  C   Z=6   NCORE=2   Zeff=4   LMAX=1 local=p   src=.gamess   PASS
+ECP  Ca  Z=20  NCORE=10  Zeff=10  LMAX=2 local=d   src=.gamess   PASS
+ECP  Cd  Z=48  NCORE=28  Zeff=20  LMAX=3 local=f   src=.gamess   PASS
+ECP  Ce  Z=58  NCORE=46  Zeff=12  LMAX=4 local=g   src=.gamess   PASS
+ECP  Cl  Z=17  NCORE=10  Zeff=7   LMAX=2 local=d   src=.gamess   PASS
+ECP  Co  Z=27  NCORE=10  Zeff=17  LMAX=2 local=d   src=.gamess   PASS
+ECP  Cr  Z=24  NCORE=10  Zeff=14  LMAX=2 local=d   src=.gamess   PASS
+ECP  Cs  Z=55  NCORE=46  Zeff=9   LMAX=3 local=f   src=.gamess   PASS
+ECP  Cu  Z=29  NCORE=10  Zeff=19  LMAX=2 local=d   src=.gamess   PASS
+ECP  Eu  Z=63  NCORE=46  Zeff=17  LMAX=4 local=g   src=.gamess   PASS
+ECP  F   Z=9   NCORE=2   Zeff=7   LMAX=1 local=p   src=.gamess   PASS
+ECP  Fe  Z=26  NCORE=10  Zeff=16  LMAX=2 local=d   src=.gamess   PASS
+ECP  Ga  Z=31  NCORE=28  Zeff=3   LMAX=3 local=f   src=.gamess   PASS
+ECP  Gd  Z=64  NCORE=46  Zeff=18  LMAX=4 local=g   src=.gamess   PASS
+ECP  Ge  Z=32  NCORE=28  Zeff=4   LMAX=3 local=f   src=.gamess   PASS
+ECP  H   Z=1   NCORE=0   Zeff=1   LMAX=1 local=p   src=.gamess   PASS
+ECP  He  Z=2   NCORE=0   Zeff=2   LMAX=1 local=p   src=.gamess   PASS
+ECP  I   Z=53  NCORE=46  Zeff=7   LMAX=3 local=f   src=.gamess   PASS
+ECP  Ir  Z=77  NCORE=60  Zeff=17  LMAX=4 local=g   src=.gamess   PASS
+ECP  K   Z=19  NCORE=10  Zeff=9   LMAX=2 local=d   src=.gamess   PASS
+ECP  Kr  Z=36  NCORE=28  Zeff=8   LMAX=3 local=f   src=.gamess   PASS
+ECP  La  Z=57  NCORE=46  Zeff=11  LMAX=4 local=g   src=.gamess   PASS
+ECP  Li  Z=3   NCORE=2   Zeff=1   LMAX=1 local=p   src=.gamess   PASS
+ECP  Mg  Z=12  NCORE=10  Zeff=2   LMAX=2 local=d   src=.gamess   PASS
+ECP  Mn  Z=25  NCORE=10  Zeff=15  LMAX=2 local=d   src=.gamess   PASS
+ECP  Mo  Z=42  NCORE=28  Zeff=14  LMAX=3 local=f   src=.gamess   PASS
+ECP  N   Z=7   NCORE=2   Zeff=5   LMAX=1 local=p   src=.gamess   PASS
+ECP  Na  Z=11  NCORE=10  Zeff=1   LMAX=2 local=d   src=.gamess   PASS
+ECP  Nb  Z=41  NCORE=28  Zeff=13  LMAX=3 local=f   src=.gamess   PASS
+ECP  Ne  Z=10  NCORE=2   Zeff=8   LMAX=1 local=p   src=.gamess   PASS
+ECP  Ni  Z=28  NCORE=10  Zeff=18  LMAX=2 local=d   src=.gamess   PASS
+ECP  O   Z=8   NCORE=2   Zeff=6   LMAX=1 local=p   src=.gamess   PASS
+ECP  P   Z=15  NCORE=10  Zeff=5   LMAX=2 local=d   src=.gamess   PASS
+ECP  Pb  Z=82  NCORE=78  Zeff=4   LMAX=4 local=g   src=.gamess   PASS
+ECP  Pd  Z=46  NCORE=28  Zeff=18  LMAX=3 local=f   src=.gamess   PASS
+ECP  Pt  Z=78  NCORE=60  Zeff=18  LMAX=4 local=g   src=.gamess   PASS
+ECP  Rb  Z=37  NCORE=28  Zeff=9   LMAX=3 local=f   src=.gamess   PASS
+ECP  Re  Z=75  NCORE=60  Zeff=15  LMAX=4 local=g   src=.gamess   PASS
+ECP  Rh  Z=45  NCORE=28  Zeff=17  LMAX=3 local=f   src=.gamess   PASS
+ECP  Ru  Z=44  NCORE=28  Zeff=16  LMAX=3 local=f   src=.gamess   PASS
+ECP  S   Z=16  NCORE=10  Zeff=6   LMAX=2 local=d   src=.gamess   PASS
+ECP  Sb  Z=51  NCORE=46  Zeff=5   LMAX=3 local=f   src=.gamess   PASS
+ECP  Sc  Z=21  NCORE=10  Zeff=11  LMAX=2 local=d   src=.gamess   PASS
+ECP  Se  Z=34  NCORE=28  Zeff=6   LMAX=3 local=f   src=.gamess   PASS
+ECP  Si  Z=14  NCORE=10  Zeff=4   LMAX=2 local=d   src=.gamess   PASS
+ECP  Sn  Z=50  NCORE=46  Zeff=4   LMAX=3 local=f   src=.gamess   PASS
+ECP  Ta  Z=73  NCORE=60  Zeff=13  LMAX=4 local=g   src=.gamess   PASS
+ECP  Tb  Z=65  NCORE=46  Zeff=19  LMAX=4 local=g   src=.gamess   PASS
+ECP  Te  Z=52  NCORE=46  Zeff=6   LMAX=3 local=f   src=.gamess   PASS
+ECP  Ti  Z=22  NCORE=10  Zeff=12  LMAX=2 local=d   src=.gamess   PASS
+ECP  V   Z=23  NCORE=10  Zeff=13  LMAX=2 local=d   src=.gamess   PASS
+ECP  W   Z=74  NCORE=60  Zeff=14  LMAX=4 local=g   src=.gamess   PASS
+ECP  Y   Z=39  NCORE=28  Zeff=11  LMAX=3 local=f   src=.gamess   PASS
+ECP  Zn  Z=30  NCORE=10  Zeff=20  LMAX=2 local=d   src=.gamess   PASS
+ECP  Zr  Z=40  NCORE=28  Zeff=12  LMAX=3 local=f   src=.gamess   PASS
+
+BASIS Ag  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Al  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ar  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS As  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Au  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS B   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ba  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Be  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Bi  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Br  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS C   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ca  20 sets  aug-cc-pCV5Z aug-cc-pCV6Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCV6Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Cd  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ce  12 sets  aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Cl  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Co  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Cr  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Cs  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Cu  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Eu  12 sets  aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS F   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Fe  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ga  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Gd  12 sets  aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ge  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS H   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS He  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS I   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ir  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS K   20 sets  aug-cc-pCV5Z aug-cc-pCV6Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCV6Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Kr  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS La  12 sets  aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Li   8 sets  aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Mg  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Mn  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Mo  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS N   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Na   8 sets  aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Nb  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ne   5 sets  cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ni  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS O   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS P   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Pb   8 sets  aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Pd  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Pt  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Rb  20 sets  aug-cc-pCV5Z aug-cc-pCV6Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCV6Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Re  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Rh  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ru  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS S   10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Sb  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Sc  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Se  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Si  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Sn  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ta  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Tb  12 sets  aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Te  10 sets  aug-cc-pV5Z aug-cc-pV6Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pV5Z cc-pV6Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Ti  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS V   16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS W   16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Y   16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Zn  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+BASIS Zr  16 sets  aug-cc-pCV5Z aug-cc-pCVDZ aug-cc-pCVQZ aug-cc-pCVTZ aug-cc-pV5Z aug-cc-pVDZ aug-cc-pVQZ aug-cc-pVTZ cc-pCV5Z cc-pCVDZ cc-pCVQZ cc-pCVTZ cc-pV5Z cc-pVDZ cc-pVQZ cc-pVTZ
+
+cross-basis hierarchy checks: {'PASS': 510, 'INFO': 46}
+extra auxiliary sets supplied  : 8 from /home/rfanta/ccECP_for_CFOUR/autoauxc_generated
+host basis library             : /home/rfanta/codes/mrcc.26.1.1/BASIS
+  labels in host library       : 5261
+  collisions, orbital labels   : 0 (290 without the suffix)
+  collisions, auxiliary labels : 0 (187 without the suffix)
+
+==============================================================================
+Canonical ccECP elements found : 65
+Successfully converted (ECP)   : 65
+Failed (ECP)                   : 0 
+GENBAS entries                 : 841
+auxiliary (RI) entries         : 841
+Failed (basis)                 : 0 
+Distinct basis-set names       : 20
+Duplicate ELEM:NAME labels     : 0
+Naming-audit failures          : 0
+Validation rows                : 10602 {'PASS': 10556, 'INFO': 46}
+Convention-check failures      : 0
+NCORE/LMAX fixed-column tests  : 5/5 PASS (cols 12-14 and 26)
+Source formats used (ECP)      : {'gamess': 65}
+Source formats used (basis)    : {'gamess': 841}
+==============================================================================

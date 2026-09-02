@@ -1,0 +1,202 @@
+{
+ "basis": {
+  "aug-cc-pV5Z": {
+   "contracted_composition": "6s,6p,5d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 26,
+   "n_primitives": 44,
+   "primitive_composition": "15s,15p,5d,4f,3g,2h",
+   "source_file": "Sb.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV6Z": {
+   "contracted_composition": "7s,7p,6d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 34,
+   "n_primitives": 52,
+   "primitive_composition": "16s,16p,6d,5f,4g,3h,2i",
+   "source_file": "Sb.aug-cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "3s,3p,2d",
+   "max_L": "d",
+   "n_contracted": 8,
+   "n_primitives": 26,
+   "primitive_composition": "12s,12p,2d",
+   "source_file": "Sb.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "5s,5p,4d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 19,
+   "n_primitives": 37,
+   "primitive_composition": "14s,14p,4d,3f,2g",
+   "source_file": "Sb.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "4s,4p,3d,2f",
+   "max_L": "f",
+   "n_contracted": 13,
+   "n_primitives": 31,
+   "primitive_composition": "13s,13p,3d,2f",
+   "source_file": "Sb.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "5s,5p,4d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 20,
+   "n_primitives": 38,
+   "primitive_composition": "14s,14p,4d,3f,2g,1h",
+   "source_file": "Sb.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV6Z": {
+   "contracted_composition": "6s,6p,5d,4f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 27,
+   "n_primitives": 45,
+   "primitive_composition": "15s,15p,5d,4f,3g,2h,1i",
+   "source_file": "Sb.cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "2s,2p,1d",
+   "max_L": "d",
+   "n_contracted": 5,
+   "n_primitives": 23,
+   "primitive_composition": "11s,11p,1d",
+   "source_file": "Sb.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "4s,4p,3d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 14,
+   "n_primitives": 32,
+   "primitive_composition": "13s,13p,3d,2f,1g",
+   "source_file": "Sb.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "3s,3p,2d,1f",
+   "max_L": "f",
+   "n_contracted": 9,
+   "n_primitives": 27,
+   "primitive_composition": "12s,12p,2d,1f",
+   "source_file": "Sb.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "f",
+    [
+     [
+      "5.000000",
+      1,
+      "1.500000"
+     ],
+     [
+      "7.500000",
+      3,
+      "1.500000"
+     ],
+     [
+      "-14.984235",
+      2,
+      "1.619327"
+     ],
+     [
+      "-1.950880",
+      2,
+      "1.500000"
+     ]
+    ]
+   ],
+   [
+    "s-f",
+    [
+     [
+      "68.292881",
+      2,
+      "2.332041"
+     ],
+     [
+      "-7.220586",
+      2,
+      "1.376531"
+     ]
+    ]
+   ],
+   [
+    "p-f",
+    [
+     [
+      "54.497670",
+      2,
+      "2.161816"
+     ],
+     [
+      "-1.963704",
+      2,
+      "1.219158"
+     ]
+    ]
+   ],
+   [
+    "d-f",
+    [
+     [
+      "3.774218",
+      2,
+      "0.930013"
+     ],
+     [
+      "5.637552",
+      2,
+      "0.912651"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 3,
+  "local_channel": "f",
+  "n_explicit_electrons": 5,
+  "n_terms_per_channel": {
+   "d-f": 2,
+   "f": 4,
+   "p-f": 2,
+   "s-f": 2
+  },
+  "ncore": 46,
+  "nonlocal_channels": [
+   "s-f",
+   "p-f",
+   "d-f"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Sb.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 4,
+  "validation": "PASS"
+ }
+}

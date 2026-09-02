@@ -1,0 +1,12 @@
+*
+O:ccECP
+# canonical ccECP for O: Z=8 NCORE=2 Zeff=6 LMAX=1 local=p | source recipes/O/ccECP/O.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 147, 224106 (2017) https://doi.org/10.1063/1.4995643
+*
+    NCORE =  2    LMAX = 1
+p
+      6.000000    1       12.30997
+      73.85984    3       14.76962
+     -47.87600    2       13.71419
+s-p
+      85.86406    2       13.65512
+*

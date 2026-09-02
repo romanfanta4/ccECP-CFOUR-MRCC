@@ -1,0 +1,245 @@
+{
+ "basis": {
+  "aug-cc-pCV5Z": {
+   "contracted_composition": "10s,10p,9d,6f,5g,4h,3i",
+   "max_L": "i",
+   "n_contracted": 47,
+   "n_primitives": 241,
+   "primitive_composition": "16s,16p,14d,6f,5g,4h,3i",
+   "source_file": "Fe.aug-cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVDZ": {
+   "contracted_composition": "7s,7p,6d,3f",
+   "max_L": "f",
+   "n_contracted": 23,
+   "n_primitives": 115,
+   "primitive_composition": "16s,16p,14d,3f",
+   "source_file": "Fe.aug-cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVQZ": {
+   "contracted_composition": "9s,9p,8d,5f,4g,3h",
+   "max_L": "h",
+   "n_contracted": 38,
+   "n_primitives": 198,
+   "primitive_composition": "16s,16p,14d,5f,4g,3h",
+   "source_file": "Fe.aug-cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVTZ": {
+   "contracted_composition": "8s,8p,7d,4f,3g",
+   "max_L": "g",
+   "n_contracted": 30,
+   "n_primitives": 156,
+   "primitive_composition": "16s,16p,14d,4f,3g",
+   "source_file": "Fe.aug-cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV5Z": {
+   "contracted_composition": "8s,8p,7d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 37,
+   "n_primitives": 231,
+   "primitive_composition": "14s,14p,12d,5f,4g,3h,2i",
+   "source_file": "Fe.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "5s,5p,4d,2f",
+   "max_L": "f",
+   "n_contracted": 16,
+   "n_primitives": 108,
+   "primitive_composition": "14s,14p,12d,2f",
+   "source_file": "Fe.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "7s,7p,6d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 29,
+   "n_primitives": 189,
+   "primitive_composition": "14s,14p,12d,4f,3g,2h",
+   "source_file": "Fe.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "6s,6p,5d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 22,
+   "n_primitives": 148,
+   "primitive_composition": "14s,14p,12d,3f,2g",
+   "source_file": "Fe.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCV5Z": {
+   "contracted_composition": "9s,9p,8d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 40,
+   "n_primitives": 234,
+   "primitive_composition": "15s,15p,13d,5f,4g,3h,2i",
+   "source_file": "Fe.cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVDZ": {
+   "contracted_composition": "6s,6p,5d,2f",
+   "max_L": "f",
+   "n_contracted": 19,
+   "n_primitives": 111,
+   "primitive_composition": "15s,15p,13d,2f",
+   "source_file": "Fe.cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVQZ": {
+   "contracted_composition": "8s,8p,7d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 32,
+   "n_primitives": 192,
+   "primitive_composition": "15s,15p,13d,4f,3g,2h",
+   "source_file": "Fe.cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVTZ": {
+   "contracted_composition": "7s,7p,6d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 25,
+   "n_primitives": 151,
+   "primitive_composition": "15s,15p,13d,3f,2g",
+   "source_file": "Fe.cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "7s,7p,6d,4f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 30,
+   "n_primitives": 224,
+   "primitive_composition": "13s,13p,11d,4f,3g,2h,1i",
+   "source_file": "Fe.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "4s,4p,3d,1f",
+   "max_L": "f",
+   "n_contracted": 12,
+   "n_primitives": 104,
+   "primitive_composition": "13s,13p,11d,1f",
+   "source_file": "Fe.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "6s,6p,5d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 23,
+   "n_primitives": 183,
+   "primitive_composition": "13s,13p,11d,3f,2g,1h",
+   "source_file": "Fe.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "5s,5p,4d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 17,
+   "n_primitives": 143,
+   "primitive_composition": "13s,13p,11d,2f,1g",
+   "source_file": "Fe.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "d",
+    [
+     [
+      "16.00000000",
+      1,
+      "23.22091713"
+     ],
+     [
+      "371.53467417",
+      3,
+      "23.54714679"
+     ],
+     [
+      "-181.22603445",
+      2,
+      "23.47256344"
+     ],
+     [
+      "-2.37305236",
+      2,
+      "9.85238815"
+     ]
+    ]
+   ],
+   [
+    "s-d",
+    [
+     [
+      "277.50032547",
+      2,
+      "22.21062697"
+     ],
+     [
+      "46.20495585",
+      2,
+      "9.51515800"
+     ]
+    ]
+   ],
+   [
+    "p-d",
+    [
+     [
+      "194.99875056",
+      2,
+      "24.57000871"
+     ],
+     [
+      "31.67945132",
+      2,
+      "8.86648776"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 2,
+  "local_channel": "d",
+  "n_explicit_electrons": 16,
+  "n_terms_per_channel": {
+   "d": 4,
+   "p-d": 2,
+   "s-d": 2
+  },
+  "ncore": 10,
+  "nonlocal_channels": [
+   "s-d",
+   "p-d"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Fe.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 0,
+  "validation": "PASS"
+ }
+}

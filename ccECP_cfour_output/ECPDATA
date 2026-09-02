@@ -1,0 +1,1192 @@
+# ---------------------------------------------------------------------------
+# CFOUR/MRCC ECPDATA
+# canonical ccECP data from PseudopotentialLibrary.org
+# ---------------------------------------------------------------------------
+# This file contains ONLY the canonical ccECP family, i.e. exactly the entries
+# found under  recipes/<ELEMENT>/ccECP/  in the Pseudopotential Library
+# repository.  No other recipe family (ccECP-soft, soft-ccECP-deprecated,
+# eCEPP, CEPP, BFD, RRKJ, TM, ...) is present, and no spin-orbit (SOREP) data
+# is present: only the scalar-relativistic canonical ccECP is converted.
+#
+# Naming: ECP entries use  <Element>:ccECP.  Orbital-basis entries use
+# <Element>:<SOURCE BASIS NAME>-ccECP.  The optional basis-label suffix prevents
+# collisions with installed basis libraries; it does not alter any numerical data.
+# Optional *.upper companion files uppercase only the element symbol.
+#
+# ECP convention:  U_l(r) = sum_m c_m r**(N_m - 2) exp(-alpha_m r**2)
+#                  columns are   coefficient   N   alpha
+#                  local channel first (labelled l = LMAX), then s-<l>, p-<l>...
+#
+# Pseudopotential Library commit : 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd  (2026-06-29 14:40:38 -0400)
+# generated                      : 2026-09-02T11:00:34-07:00
+# generator                      : convert_ccecp_to_cfour.py v1.2.0
+# python                         : 3.12.3
+# basis_set_exchange             : not used
+# basis source selection         : auto
+# ECP   source selection         : gamess
+#
+# The orbital basis sets are pure spherical-harmonic sets (5d/7f/9g/...):
+# run CFOUR with SPHERICAL=ON and MRCC without cartesian d functions.
+# ---------------------------------------------------------------------------
+*
+Ag:ccECP
+# canonical ccECP for Ag: Z=47 NCORE=28 Zeff=19 LMAX=3 local=f | source recipes/Ag/ccECP/Ag.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 28    LMAX = 3
+f
+     19.000000    1      11.116996
+    211.222924    3      11.307067
+   -111.385674    2      10.887465
+    -10.049234    2       6.050896
+s-f
+    281.004418    2      12.570677
+     40.246565    2       7.075228
+p-f
+    210.992439    2      11.402841
+     30.829872    2       6.504915
+d-f
+    101.033610    2      10.792675
+     14.813640    2       4.485396
+*
+Al:ccECP
+# canonical ccECP for Al: Z=13 NCORE=10 Zeff=3 LMAX=2 local=d | source recipes/Al/ccECP/Al.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      3.000000    1       5.073893
+     15.221680    3       8.607001
+    -11.165685    2       3.027490
+s-d
+     14.879513    2       7.863954
+     20.746863    2       2.061358
+p-d
+      7.786227    2       3.125175
+      7.109015    2       1.414930
+*
+Ar:ccECP
+# canonical ccECP for Ar: Z=18 NCORE=10 Zeff=8 LMAX=2 local=d | source recipes/Ar/ccECP/Ar.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      8.000000    1       8.317181
+     66.537451    3      13.124648
+    -24.100393    2       6.503132
+s-d
+     18.910152    2      27.068139
+     53.040012    2       4.801263
+p-d
+      8.015534    2      11.135735
+     28.220208    2       4.126631
+*
+As:ccECP
+# canonical ccECP for As: Z=33 NCORE=28 Zeff=5 LMAX=3 local=f | source recipes/As/ccECP/As.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 28    LMAX = 3
+f
+                 5.0    1   1.28593131534589
+   6.429656576729450    3   9.93487432688877
+  -15.01243900647766    2   1.89568153750512
+    2.89881363078702    2   1.72825641453405
+s-f
+   75.65519437230579    2   3.47938697518409
+   -3.31145348709338    2   1.63747973017064
+p-f
+   67.96186740640852    2   3.22936389274538
+   -3.09455795155570    2   1.66636575135787
+d-f
+   24.30473448724631    2   2.06816256325470
+    0.93945624468575    2   1.54699940726544
+*
+Au:ccECP
+# canonical ccECP for Au: Z=79 NCORE=60 Zeff=19 LMAX=4 local=g | source recipes/Au/ccECP/Au.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 60    LMAX = 4
+g
+     19.000000    1       9.985262
+    189.719980    3       9.536259
+   -140.528643    2      10.882390
+     -8.417696    2       3.792290
+s-g
+    423.151508    2      13.809175
+     23.880430    2       6.576682
+     12.729619    2       4.315266
+p-g
+    260.255986    2      11.806942
+     32.797931    2       5.843816
+     14.975886    2       4.462109
+d-g
+    135.277395    2       8.633228
+     12.464658    2       3.946753
+     13.920475    2       4.081605
+f-g
+     12.317560    2       3.467163
+     14.877722    2       3.593635
+     15.143598    2       3.613935
+*
+B:ccECP
+# canonical ccECP for B: Z=5 NCORE=2 Zeff=3 LMAX=1 local=p | source recipes/B/ccECP/B.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 147, 224106 (2017) https://doi.org/10.1063/1.4995643
+*
+    NCORE =  2    LMAX = 1
+p
+       3.00000    1       31.49298
+      94.47895    3       22.56509
+      -9.74800    2        8.64669
+s-p
+      20.74800    2        4.06246
+*
+Ba:ccECP
+# canonical ccECP for Ba: Z=56 NCORE=46 Zeff=10 LMAX=4 local=g | source recipes/Ba/ccECP/Ba.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 4
+g
+     10.000000    1       9.999991
+     99.999090    3       9.998491
+    120.999962    2       9.997459
+     -7.579943    2       2.263468
+s-g
+     84.785943    2       4.046183
+     17.375717    2       2.258112
+p-g
+    157.532338    2       6.361827
+     25.777693    2       2.002936
+d-g
+     12.467708    2       1.863849
+      3.415276    2       0.848671
+f-g
+    -46.100000    2       6.200000
+     -5.320000    2       1.620000
+*
+Be:ccECP
+# canonical ccECP for Be: Z=4 NCORE=2 Zeff=2 LMAX=1 local=p | source recipes/Be/ccECP/Be.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  2    LMAX = 1
+p
+                   2    1   17.94900205362972
+   35.89800410725944    3   24.13200289331664
+  -12.77499846818315    2   20.13800265282147
+   -2.96001382478467    2   4.333170937885760
+s-p
+   12.66391859014478    2   2.487403700772570
+*
+Bi:ccECP
+# canonical ccECP for Bi: Z=83 NCORE=78 Zeff=5 LMAX=4 local=g | source recipes/Bi/ccECP/Bi.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 78    LMAX = 4
+g
+      5.000000    1       8.029160
+     40.145802    3       7.481551
+     -6.251215    2       1.775683
+     -0.286410    2       0.698085
+s-g
+    137.072914    2       3.398563
+     34.391642    2       2.236391
+     -1.801931    4       1.063682
+p-g
+     39.826968    2       1.245620
+      0.844734    2       0.366762
+     -4.391855    4       0.823760
+d-g
+     -3.787918    2       0.924628
+     24.096314    2       0.835034
+      0.456375    4       1.239855
+f-g
+     -0.382962    2       1.847446
+     -0.546444    2       1.069842
+     -0.236708    4       0.862193
+*
+Br:ccECP
+# canonical ccECP for Br: Z=35 NCORE=28 Zeff=7 LMAX=3 local=f | source recipes/Br/ccECP/Br.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 28    LMAX = 3
+f
+  7.00000000000000    1   3.665770450000000
+  25.6603931500000    3   5.293022720000000
+  13.0402619252684    2   3.176376149835153
+  -21.908838668870    2   2.897543523376016
+s-f
+  85.8843473075379    2   4.971806723636273
+  4.62125463404037    2   2.042687217782981
+p-f
+  55.3617154916148    2   4.711839367430644
+  11.0314096124871    2   2.384292508891309
+d-f
+  26.4104098578207    2   3.412863477885576
+  5.46873883641966    2   1.530284946887900
+*
+C:ccECP
+# canonical ccECP for C: Z=6 NCORE=2 Zeff=4 LMAX=1 local=p | source recipes/C/ccECP/C.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 147, 224106 (2017) https://doi.org/10.1063/1.4995643
+*
+    NCORE =  2    LMAX = 1
+p
+       4.00000    1       14.43502
+      57.74008    3        8.39889
+     -25.81955    2        7.38188
+s-p
+      52.13345    2        7.76079
+*
+Ca:ccECP
+# canonical ccECP for Ca: Z=20 NCORE=10 Zeff=10 LMAX=2 local=d | source recipes/Ca/ccECP/Ca.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 10    LMAX = 2
+d
+              10.000    1   7.041331745291820
+   70.41331745291820    3   14.01444871170631
+  -92.87298019372959    2   13.76936244330539
+  -5.753568238854550    2   4.717259669813990
+s-d
+   149.3026232361631    2   11.24016734279034
+   23.75932943609596    2   5.353611600469730
+p-d
+   99.20411436357747    2   13.06654848325639
+   13.45216129084917    2   4.027484971490170
+*
+Cd:ccECP
+# canonical ccECP for Cd: Z=48 NCORE=28 Zeff=20 LMAX=3 local=f | source recipes/Cd/ccECP/Cd.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 28    LMAX = 3
+f
+     20.000000    1      10.991393
+    219.827863    3      10.838913
+   -124.388048    2      11.419750
+    -29.369023    2      11.576062
+s-f
+    270.035778    2      13.621456
+     38.856504    2       7.523456
+p-f
+    193.825168    2      12.674501
+     31.857429    2       6.826303
+d-f
+     79.186521    2      10.715569
+     12.823090    2       5.031907
+*
+Ce:ccECP
+# canonical ccECP for Ce: Z=58 NCORE=46 Zeff=12 LMAX=4 local=g | source recipes/Ce/ccECP/Ce.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 4
+g
+     12.000000    1       4.599500
+     55.194000    3       4.599500
+    -54.149500    2       4.600500
+     -0.099500    2       1.050500
+s-g
+    119.422791    2       4.002550
+     -2.011480    2       2.091227
+p-g
+     76.606896    2       3.164558
+     -0.431335    2       1.664888
+d-g
+     68.864684    2       2.474120
+     -3.746970    2       2.275651
+f-g
+    -23.335057    2       5.524740
+    -17.340566    2       3.716386
+*
+Cl:ccECP
+# canonical ccECP for Cl: Z=17 NCORE=10 Zeff=7 LMAX=2 local=d | source recipes/Cl/ccECP/Cl.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      7.000000    1       7.944352
+     55.610463    3      12.801261
+    -22.860784    2       6.296744
+s-d
+     15.839234    2      17.908432
+     44.469504    2       4.159880
+p-d
+      8.321946    2       7.931763
+     24.044745    2       3.610412
+*
+Co:ccECP
+# canonical ccECP for Co: Z=27 NCORE=10 Zeff=17 LMAX=2 local=d | source recipes/Co/ccECP/Co.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    17.00000000    1    25.00124115
+   425.02109971    3    22.83490096
+  -195.48211282    2    23.47468155
+    -2.81572866    2    10.33794825
+s-d
+   271.77708486    2    23.41427030
+    54.26461121    2    10.76931694
+p-d
+   201.53430745    2    25.47446316
+    38.99231927    2    10.68404901
+*
+Cr:ccECP
+# canonical ccECP for Cr: Z=24 NCORE=10 Zeff=14 LMAX=2 local=d | source recipes/Cr/ccECP/Cr.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    14.00000000    1    18.28091074
+   255.93275041    3    17.09800655
+  -132.01826317    2    16.72267276
+    -0.77388761    2     5.02865105
+s-d
+   219.48146209    2    16.90078760
+    28.07933176    2     7.33662150
+p-d
+   139.98396871    2    17.31974516
+    19.54835786    2     6.92409757
+*
+Cs:ccECP
+# canonical ccECP for Cs: Z=55 NCORE=46 Zeff=9 LMAX=3 local=f | source recipes/Cs/ccECP/Cs.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 3
+f
+      9.000000    1       2.999986
+     26.999875    3       2.999542
+     -9.999908    2       3.000404
+    -34.269488    2       3.324776
+s-f
+     85.047793    2       4.077065
+     16.654293    2       2.417524
+p-f
+    156.549042    2       5.521131
+     26.422928    2       2.202089
+d-f
+     13.672640    2       2.010196
+      3.342155    2       0.865141
+*
+Cu:ccECP
+# canonical ccECP for Cu: Z=29 NCORE=10 Zeff=19 LMAX=2 local=d | source recipes/Cu/ccECP/Cu.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    19.00000000    1    31.53811263
+   599.22413997    3    31.06925531
+  -244.68915484    2    30.59035868
+    -1.29349525    2    14.05141063
+s-d
+   370.71371824    2    29.35562242
+    66.27560813    2    12.77235919
+p-d
+   271.66281028    2    33.51694543
+    49.76265057    2    12.52471484
+*
+Eu:ccECP
+# canonical ccECP for Eu: Z=63 NCORE=46 Zeff=17 LMAX=4 local=g | source recipes/Eu/ccECP/Eu.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 4
+g
+     17.000000    1       4.815119
+     81.857021    3       3.257988
+    -87.860926    2       3.506979
+     -0.758172    2       0.810346
+s-g
+    250.008840    2       5.876250
+      9.138778    2       3.840729
+p-g
+     13.515653    2      10.107840
+     49.494929    2       2.849340
+d-g
+    249.551278    2       7.465373
+      8.542164    2       1.323958
+f-g
+     -8.757847    2       3.604610
+     11.191962    2      11.104512
+*
+F:ccECP
+# canonical ccECP for F: Z=9 NCORE=2 Zeff=7 LMAX=1 local=p | source recipes/F/ccECP/F.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  2    LMAX = 1
+p
+                 7.0    1   12.08758490486192
+   84.61309433403344    3   12.83806306400466
+  -53.02751706539332    2   12.31234562699041
+s-p
+   78.90177172847011    2   14.78076492090162
+*
+Fe:ccECP
+# canonical ccECP for Fe: Z=26 NCORE=10 Zeff=16 LMAX=2 local=d | source recipes/Fe/ccECP/Fe.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    16.00000000    1    23.22091713
+   371.53467417    3    23.54714679
+  -181.22603445    2    23.47256344
+    -2.37305236    2     9.85238815
+s-d
+   277.50032547    2    22.21062697
+    46.20495585    2     9.51515800
+p-d
+   194.99875056    2    24.57000871
+    31.67945132    2     8.86648776
+*
+Ga:ccECP
+# canonical ccECP for Ga: Z=31 NCORE=28 Zeff=3 LMAX=3 local=f | source recipes/Ga/ccECP/Ga.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 28    LMAX = 3
+f
+                 3.0    1   17.00473938158134
+   51.01421814474402    3   14.99961796477555
+  -39.00062591247301    2   11.99279249750992
+   35.44659356093000    2   14.99282276192415
+s-f
+   21.78930966695012    2    1.85781132082231
+   -2.86685089713932    2    0.91950586478827
+p-f
+   18.63985979160424    2    1.92030166263971
+   -1.63369679761927    2    1.00895888918239
+d-f
+    2.03523714898590    2    0.62750876923831
+   -0.08532375682035    2    0.32619029984635
+*
+Gd:ccECP
+# canonical ccECP for Gd: Z=64 NCORE=46 Zeff=18 LMAX=4 local=g | source recipes/Gd/ccECP/Gd.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 46    LMAX = 4
+g
+     18.000000    1       4.482335
+     82.168015    3       4.564890
+    -92.949026    2       5.667120
+     -4.588504    2       3.161461
+s-g
+    158.751573    2      11.958743
+     75.338628    2       4.575020
+p-g
+     85.299703    2       9.327027
+     55.148896    2       3.727309
+d-g
+     55.315114    2       9.142398
+     27.587515    2       2.410263
+f-g
+    -24.952915    2       3.496091
+     -2.920504    2       6.162299
+*
+Ge:ccECP
+# canonical ccECP for Ge: Z=32 NCORE=28 Zeff=4 LMAX=3 local=f | source recipes/Ge/ccECP/Ge.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 28    LMAX = 3
+f
+               4.0    1   1.478962662442
+   5.9158506497680    3   3.188905647765
+  -12.033712959815    2   1.927438978253
+    1.283543489065    2   1.545539235916
+s-f
+   43.265429324814    2   2.894473589836
+   -1.909339873965    2   1.550339816290
+p-f
+   35.263014141211    2   2.986528872039
+    0.963439928853    2   1.283381203893
+d-f
+    2.339019442484    2   1.043001142249
+    0.541380654081    2   0.554562729807
+*
+H:ccECP
+# canonical ccECP for H: Z=1 NCORE=0 Zeff=1 LMAX=1 local=p | source recipes/H/ccECP/H.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE =  0    LMAX = 1
+p
+    1.00000000000000    1   21.24359508259891
+   21.24359508259891    3   21.24359508259891
+  -10.85192405303825    2   21.77696655044365
+s-p
+    0.00000000000000    2   1.000000000000000
+*
+He:ccECP
+# canonical ccECP for He: Z=2 NCORE=0 Zeff=2 LMAX=1 local=p | source recipes/He/ccECP/He.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  0    LMAX = 1
+p
+      2.000000    1      32.000000
+      64.00000    3      32.000000
+     -27.70084    2      33.713355
+s-p
+      0.000000    2      1.0000000
+*
+I:ccECP
+# canonical ccECP for I: Z=53 NCORE=46 Zeff=7 LMAX=3 local=f | source recipes/I/ccECP/I.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 46    LMAX = 3
+f
+      7.000000    1      12.001337
+     84.009359    3      12.035882
+     -3.998559    2       3.022296
+     -3.050310    2       0.977906
+s-f
+    114.023762    2       3.150276
+      1.974146    2       1.008080
+p-f
+    111.466589    2       2.954190
+      1.710240    2       0.730822
+d-f
+     45.300844    2       2.604979
+      8.704290    2       0.899593
+*
+Ir:ccECP
+# canonical ccECP for Ir: Z=77 NCORE=60 Zeff=17 LMAX=4 local=g | source recipes/Ir/ccECP/Ir.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 60    LMAX = 4
+g
+     17.000000    1      12.171070
+    206.908194    3      12.170139
+    -23.157042    2       5.602984
+   -143.208379    2      12.320343
+s-g
+     76.599511    2       6.284095
+    438.873879    2      13.826287
+p-g
+     61.991944    2       5.346383
+    262.750135    2      11.264188
+d-g
+     31.123654    2       4.766746
+    123.955993    2       6.815210
+f-g
+     10.329276    2       2.786350
+     11.885698    2       2.592946
+*
+K:ccECP
+# canonical ccECP for K: Z=19 NCORE=10 Zeff=9 LMAX=2 local=d | source recipes/K/ccECP/K.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 10    LMAX = 2
+d
+               9.000    1   7.27386331637373
+   65.46476984736357    3   11.1729834540799
+  -10.84433558416271    2   7.70617523948938
+  -15.96316084113368    2   5.62491694962345
+s-d
+   11.86687269408012    2   11.4425076498453
+   90.07677060151201    2   6.53712447768095
+p-d
+   11.53420167311457    2   9.63121897030662
+   27.72023517356577    2   4.50881062128081
+*
+Kr:ccECP
+# canonical ccECP for Kr: Z=36 NCORE=28 Zeff=8 LMAX=3 local=f | source recipes/Kr/ccECP/Kr.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 28    LMAX = 3
+f
+                 8.0    1   10.79423805030976
+  86.353904402478080    3   13.32338941541937
+  -11.11453291523170    2   9.292050205053670
+   10.22951903851239    2   20.14895793077237
+s-f
+   92.88955174083402    2    5.49072858263344
+   12.92947788650997    2    3.86301190150576
+p-f
+   43.09952401633328    2    4.03857692489950
+    9.50975957670500    2    3.30678898758958
+d-f
+   17.80494496367218    2    4.21348003421066
+    4.58911494794530    2    1.54989721316990
+*
+La:ccECP
+# canonical ccECP for La: Z=57 NCORE=46 Zeff=11 LMAX=4 local=g | source recipes/La/ccECP/La.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 4
+g
+     11.000000    1       8.000000
+     88.000000    3       8.000000
+    -70.000000    2       6.000000
+     -2.000000    2       6.000000
+s-g
+     92.871354    2       3.484509
+     -2.537248    2       4.565291
+p-g
+     64.778647    2       2.889889
+      1.893740    2       2.506829
+d-g
+     37.129096    2       2.018727
+      1.372449    2       2.002775
+f-g
+    -34.104154    2       5.826438
+      1.281856    2       4.749713
+*
+Li:ccECP
+# canonical ccECP for Li: Z=3 NCORE=2 Zeff=1 LMAX=1 local=p | source recipes/Li/ccECP/Li.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  2    LMAX = 1
+p
+              1.000    1   15.0000000000000
+   15.0000000000000    3   15.0479971422127
+  -1.24272969818004    2   1.80605426846072
+s-p
+   6.75286789026804    2   1.33024777689591
+*
+Mg:ccECP
+# canonical ccECP for Mg: Z=12 NCORE=10 Zeff=2 LMAX=2 local=d | source recipes/Mg/ccECP/Mg.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      2.000000    1       6.048538
+     12.097075    3       2.796989
+    -17.108313    2       2.547408
+s-d
+      6.428631    2       5.936017
+     14.195491    2       1.592891
+p-d
+      3.315069    2       1.583969
+      4.403025    2       1.077297
+*
+Mn:ccECP
+# canonical ccECP for Mn: Z=25 NCORE=10 Zeff=15 LMAX=2 local=d | source recipes/Mn/ccECP/Mn.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    15.00000000    1    21.91937433
+   328.79061500    3    21.35527127
+  -162.05172805    2    21.27162653
+    -1.82694272    2     7.93913962
+s-d
+   244.66870492    2    18.92044965
+    33.54162717    2     8.32764757
+p-d
+   162.35033685    2    20.17347020
+    24.17956695    2     7.80047874
+*
+Mo:ccECP
+# canonical ccECP for Mo: Z=42 NCORE=28 Zeff=14 LMAX=3 local=f | source recipes/Mo/ccECP/Mo.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 28    LMAX = 3
+f
+     14.000000    1      10.993527
+    153.909378    3      11.015078
+    -91.434311    2      10.365343
+    -16.945728    2       6.281056
+s-f
+    180.089303    2      10.079375
+     24.723630    2       4.386730
+     16.961392    2       6.321328
+p-f
+    123.680940    2       9.027487
+     18.784314    2       3.910532
+     16.933336    2       6.340373
+d-f
+     48.289191    2       7.378964
+      7.940102    2       2.774830
+     16.932154    2       6.390417
+*
+N:ccECP
+# canonical ccECP for N: Z=7 NCORE=2 Zeff=5 LMAX=1 local=p | source recipes/N/ccECP/N.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 147, 224106 (2017) https://doi.org/10.1063/1.4995643
+*
+    NCORE =  2    LMAX = 1
+p
+       3.25000    1       12.91881
+       1.75000    1        9.22825
+      41.98612    3       12.96581
+      16.14945    3        8.05477
+     -26.09522    2       12.54876
+     -10.32626    2        7.53360
+s-p
+      34.77692    2        9.41609
+      15.20330    2        8.16694
+*
+Na:ccECP
+# canonical ccECP for Na: Z=11 NCORE=10 Zeff=1 LMAX=2 local=d | source recipes/Na/ccECP/Na.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      1.000000    1       4.311678
+      4.311678    3       1.925689
+     -2.083137    2       1.549498
+s-d
+      6.234064    2       5.377666
+      9.075931    2       1.408414
+p-d
+      3.232724    2       1.379949
+      2.494079    2       0.862453
+*
+Nb:ccECP
+# canonical ccECP for Nb: Z=41 NCORE=28 Zeff=13 LMAX=3 local=f | source recipes/Nb/ccECP/Nb.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 28    LMAX = 3
+f
+     13.000000    1      19.860892
+    258.191591    3      19.525927
+    -23.263128    2       7.388201
+     -4.887375    2       4.558641
+s-f
+    188.147277    2       8.451450
+     25.673881    2       4.655854
+p-f
+    134.298070    2       8.192024
+     17.381556    2       3.466263
+d-f
+     60.151219    2       6.825072
+     10.393369    2       2.858157
+*
+Ne:ccECP
+# canonical ccECP for Ne: Z=10 NCORE=2 Zeff=8 LMAX=1 local=p | source recipes/Ne/ccECP/Ne.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  2    LMAX = 1
+p
+               8.000    1   14.79351199705315
+  118.34809597642520    3   16.58203947626090
+  -70.27885884380557    2   16.08073529218220
+s-p
+   81.62205749824426    2   16.55441468334002
+*
+Ni:ccECP
+# canonical ccECP for Ni: Z=28 NCORE=10 Zeff=18 LMAX=2 local=d | source recipes/Ni/ccECP/Ni.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+             18.000    1   28.2630001015327
+  508.7340018275886    3   26.9360254587070
+  -220.099999296390    2   27.0860075292970
+  -2.13493270999809    2   12.2130001295874
+s-d
+   321.240002430625    2   26.4320193944270
+   60.3470084610628    2   11.7489696842121
+p-d
+   236.539998999428    2   29.4929998193907
+   44.3969887908906    2   11.5569831458722
+*
+O:ccECP
+# canonical ccECP for O: Z=8 NCORE=2 Zeff=6 LMAX=1 local=p | source recipes/O/ccECP/O.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 147, 224106 (2017) https://doi.org/10.1063/1.4995643
+*
+    NCORE =  2    LMAX = 1
+p
+      6.000000    1       12.30997
+      73.85984    3       14.76962
+     -47.87600    2       13.71419
+s-p
+      85.86406    2       13.65512
+*
+P:ccECP
+# canonical ccECP for P: Z=15 NCORE=10 Zeff=5 LMAX=2 local=d | source recipes/P/ccECP/P.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      5.000000    1       5.872694
+     29.363469    3       9.891298
+    -17.011136    2       4.692469
+s-d
+     15.259383    2      12.091334
+     31.707918    2       3.044535
+p-d
+      7.747190    2       4.310884
+     13.932528    2       2.426903
+*
+Pb:ccECP
+# canonical ccECP for Pb: Z=82 NCORE=78 Zeff=4 LMAX=4 local=g | source recipes/Pb/ccECP/Pb.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 78    LMAX = 4
+g
+      4.000000    1       1.998442
+      7.993766    3       2.007475
+    -12.707015    2       1.988107
+     -0.235863    2       0.997975
+s-g
+     35.774361    2       1.989794
+     -0.564234    2       0.254518
+p-g
+      8.163927    2       0.922154
+     -0.252977    2       0.227206
+d-g
+      2.960413    2       0.601501
+      4.248686    2       0.530396
+f-g
+     -2.145000    2       0.813526
+     -2.666419    2       0.778976
+*
+Pd:ccECP
+# canonical ccECP for Pd: Z=46 NCORE=28 Zeff=18 LMAX=3 local=f | source recipes/Pd/ccECP/Pd.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 28    LMAX = 3
+f
+     18.000000    1      15.997664
+    287.957945    3      15.964009
+   -176.382552    2      16.128878
+    -44.253623    2       9.592539
+s-f
+    222.004870    2      12.451647
+      4.624354    2       9.656958
+     55.838586    2       6.301508
+p-f
+    166.644960    2      12.376014
+     28.721347    2       9.850179
+     42.681167    2       5.706187
+d-f
+     57.976811    2       9.195344
+     53.576592    2       7.923467
+      4.674921    2       3.358692
+*
+Pt:ccECP
+# canonical ccECP for Pt: Z=78 NCORE=60 Zeff=18 LMAX=4 local=g | source recipes/Pt/ccECP/Pt.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 60    LMAX = 4
+g
+     18.000000    1      13.600000
+    244.800000    3      13.600000
+   -161.707117    2      13.600000
+    -19.530044    2       5.430186
+s-g
+    428.400991    2      14.604490
+     67.391235    2       7.218055
+     21.842450    2       5.429571
+p-g
+    255.947773    2      11.178990
+     52.709385    2       5.365413
+     13.379362    2       8.011118
+d-g
+    121.977058    2       7.615605
+      5.839996    2       3.904912
+     44.746892    2       5.446875
+f-g
+     13.308218    2       3.386257
+     19.517395    2       3.326489
+     25.350338    2       5.430616
+*
+Rb:ccECP
+# canonical ccECP for Rb: Z=37 NCORE=28 Zeff=9 LMAX=3 local=f | source recipes/Rb/ccECP/Rb.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 28    LMAX = 3
+f
+      9.000000    1       3.500301
+     31.502713    3       4.112875
+    -10.463215    2       3.366937
+     -2.167674    2       1.707218
+s-f
+     89.500251    2       5.462653
+      0.319840    2       2.056984
+p-f
+     48.545979    2       4.588244
+      0.790029    2       1.032037
+d-f
+     26.206712    2       3.413959
+      0.674894    2       1.024061
+*
+Re:ccECP
+# canonical ccECP for Re: Z=75 NCORE=60 Zeff=15 LMAX=4 local=g | source recipes/Re/ccECP/Re.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 60    LMAX = 4
+g
+     15.000000    1      13.992911
+    209.893668    3      13.164906
+     -8.076852    2       3.873316
+     -9.999694    2       3.654226
+s-g
+    471.040560    2      11.527415
+     17.808887    2       3.521939
+p-g
+    265.269318    2       9.670534
+     48.515418    2       4.693214
+d-g
+    107.920979    2       6.202607
+     31.437969    2       4.054883
+f-g
+     16.905644    2       2.502922
+     17.858142    2       4.013976
+*
+Rh:ccECP
+# canonical ccECP for Rh: Z=45 NCORE=28 Zeff=17 LMAX=3 local=f | source recipes/Rh/ccECP/Rh.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 28    LMAX = 3
+f
+     17.000000    1      22.806206
+    387.705494    3      32.710006
+    -10.571967    2      14.048587
+    -14.594461    2      11.838335
+s-f
+    245.387919    2      11.968516
+     27.285840    2       5.125760
+p-f
+    180.589423    2       9.739600
+     28.411628    2       6.564776
+d-f
+     83.487044    2      11.425921
+     21.380372    2       4.502521
+*
+Ru:ccECP
+# canonical ccECP for Ru: Z=44 NCORE=28 Zeff=16 LMAX=3 local=f | source recipes/Ru/ccECP/Ru.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 28    LMAX = 3
+f
+     16.000000    1      11.999981
+    191.999691    3      12.003052
+    -49.381269    2      11.998013
+    -20.647860    2       7.820339
+s-f
+    209.785831    2      11.528850
+     30.211243    2       5.091373
+p-f
+    146.247148    2      10.326472
+     22.565456    2       4.575025
+d-f
+     66.402019    2       8.830547
+      8.598081    2       3.215112
+*
+S:ccECP
+# canonical ccECP for S: Z=16 NCORE=10 Zeff=6 LMAX=2 local=d | source recipes/S/ccECP/S.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      6.000000    1       6.151144
+     36.906864    3      11.561575
+    -19.819533    2       5.390961
+s-d
+     15.925748    2      16.117687
+     38.515895    2       3.608629
+p-d
+      8.062221    2       6.228956
+     18.737525    2       2.978074
+*
+Sb:ccECP
+# canonical ccECP for Sb: Z=51 NCORE=46 Zeff=5 LMAX=3 local=f | source recipes/Sb/ccECP/Sb.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 3
+f
+      5.000000    1       1.500000
+      7.500000    3       1.500000
+    -14.984235    2       1.619327
+     -1.950880    2       1.500000
+s-f
+     68.292881    2       2.332041
+     -7.220586    2       1.376531
+p-f
+     54.497670    2       2.161816
+     -1.963704    2       1.219158
+d-f
+      3.774218    2       0.930013
+      5.637552    2       0.912651
+*
+Sc:ccECP
+# canonical ccECP for Sc: Z=21 NCORE=10 Zeff=11 LMAX=2 local=d | source recipes/Sc/ccECP/Sc.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+   11.00000000    1    16.02394388
+  176.26338271    3    14.08647403
+  -83.68149599    2    11.93985121
+    0.43282764    2     3.69440111
+s-d
+  153.96530175    2    11.49466541
+   14.93675657    2     5.01031394
+p-d
+   97.21725690    2    11.45126730
+   10.81704018    2     4.76798446
+*
+Se:ccECP
+# canonical ccECP for Se: Z=34 NCORE=28 Zeff=6 LMAX=3 local=f | source recipes/Se/ccECP/Se.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE = 28    LMAX = 3
+f
+                 6.0    1   2.97705189898323
+  17.862311393899380    3   7.01667360591764
+  -20.00913150638712    2   3.96066255032528
+   10.00573531473560    2   5.02826321004214
+s-f
+   71.37928031464314    2   4.17536331935161
+    0.42619859321245    2   2.14491059745542
+p-f
+   50.94828961394475    2   4.28772186507645
+    5.54288117697892    2   2.09538253707367
+d-f
+    6.20469719059516    2   1.39403720595047
+    0.53395702862692    2   1.69659923150419
+*
+Si:ccECP
+# canonical ccECP for Si: Z=14 NCORE=10 Zeff=4 LMAX=2 local=d | source recipes/Si/ccECP/Si.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      4.000000    1       5.168316
+     20.673264    3       8.861690
+    -14.818174    2       3.933474
+s-d
+     14.832760    2       9.447023
+     26.349664    2       2.553812
+p-d
+      7.621400    2       3.660001
+     10.331583    2       1.903653
+*
+Sn:ccECP
+# canonical ccECP for Sn: Z=50 NCORE=46 Zeff=4 LMAX=3 local=f | source recipes/Sn/ccECP/Sn.ccECP.gamess | ccECP from A. Annaberdiyev et al. npj Quantum Materials (2023) https://www.nature.com/articles/s41535-023-00583-6
+*
+    NCORE = 46    LMAX = 3
+f
+      4.000000    1       2.000000
+      8.000000    3       2.000000
+    -12.706546    2       2.000000
+     -0.237233    2       1.000000
+s-f
+     48.172258    2       2.000000
+     -4.559077    2       1.000000
+p-f
+     48.856272    2       2.000000
+     -1.913865    2       1.000000
+d-f
+      6.850466    2       0.666000
+     -0.247154    2       0.333000
+*
+Ta:ccECP
+# canonical ccECP for Ta: Z=73 NCORE=60 Zeff=13 LMAX=4 local=g | source recipes/Ta/ccECP/Ta.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 60    LMAX = 4
+g
+     13.000000    1       6.585798
+     85.615374    3       9.131928
+     -0.262937    2       7.991861
+     -2.273914    2       1.842639
+s-g
+    354.560780    2      16.084877
+     -3.189062    4       4.856689
+     15.434060    2       6.308029
+     17.921890    2       4.049118
+p-g
+    291.708719    2       9.219236
+    -10.543181    4       8.304225
+     -0.606327    2       3.160451
+      3.707560    2       2.276207
+d-g
+    119.434072    2       5.663931
+     -1.428753    4       6.804907
+      6.084632    2       5.867466
+     14.589293    2       5.458504
+f-g
+     13.741560    2       1.885697
+     12.967039    2       3.231234
+*
+Tb:ccECP
+# canonical ccECP for Tb: Z=65 NCORE=46 Zeff=19 LMAX=4 local=g | source recipes/Tb/ccECP/Tb.ccECP.gamess | ccECP from A. Annaberdiyev et al. npj Quantum Materials (2023) https://www.nature.com/articles/s41535-023-00583-6.
+*
+    NCORE = 46    LMAX = 4
+g
+     19.000000    1       4.526254
+     85.998831    3       3.879308
+    -85.722649    2       4.406058
+     -3.133952    2       1.899664
+s-g
+    161.119164    2       8.996757
+     89.334835    2       5.104371
+p-g
+     88.693021    2       7.640657
+     57.109488    2       3.878305
+d-g
+     55.901690    2       7.456305
+     29.364333    2       2.530445
+f-g
+    -23.952530    2       4.939345
+     -7.090915    2       3.912490
+*
+Te:ccECP
+# canonical ccECP for Te: Z=52 NCORE=46 Zeff=6 LMAX=3 local=f | source recipes/Te/ccECP/Te.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 46    LMAX = 3
+f
+      6.000000    1      12.000000
+     72.000000    3      12.000000
+    -50.505126    2      12.000000
+s-f
+     48.280562    2       2.656483
+     -1.021525    2       2.281974
+p-f
+     39.656024    2       2.946988
+     79.544830    2       2.790001
+     -2.600491    2       1.750168
+     -2.728455    2       1.909579
+d-f
+      6.846462    2       1.107233
+      9.411814    2       1.084059
+*
+Ti:ccECP
+# canonical ccECP for Ti: Z=22 NCORE=10 Zeff=12 LMAX=2 local=d | source recipes/Ti/ccECP/Ti.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+   12.00000000    1    18.41366202
+  220.96394426    3    15.92292414
+  -94.29025824    2    13.65000623
+    0.09791142    2     5.09555210
+s-d
+  173.94657235    2    12.70580613
+   18.83768333    2     6.11178551
+p-d
+  111.45672882    2    12.64091929
+   11.17702682    2     5.35437415
+*
+V:ccECP
+# canonical ccECP for V: Z=23 NCORE=10 Zeff=13 LMAX=2 local=d | source recipes/V/ccECP/V.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    13.00000000    1    20.32168914
+   264.18195885    3    19.59698040
+  -115.29293208    2    17.33147348
+    -0.66288726    2     5.12320657
+s-d
+   195.56713891    2    15.12502150
+    22.88642834    2     6.29898914
+p-d
+   126.42119500    2    15.93855113
+    16.03597127    2     5.74006266
+*
+W:ccECP
+# canonical ccECP for W: Z=74 NCORE=60 Zeff=14 LMAX=4 local=g | source recipes/W/ccECP/W.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 60    LMAX = 4
+g
+     14.000000    1      10.188960
+    142.645440    3       9.478240
+   -100.078727    2      10.146880
+     -0.941578    2       5.491651
+s-g
+    420.479803    2      11.273956
+     39.584943    2       8.410924
+p-g
+    320.877235    2       8.517824
+     -0.472821    2       1.608091
+      0.112929    4      10.073490
+d-g
+    158.077959    2       6.059286
+     -0.283299    2       1.104853
+     -0.459490    4       6.262477
+f-g
+      7.745405    2       2.075342
+      6.916005    2       1.845947
+*
+Y:ccECP
+# canonical ccECP for Y: Z=39 NCORE=28 Zeff=11 LMAX=3 local=f | source recipes/Y/ccECP/Y.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 28    LMAX = 3
+f
+     11.000000    1      11.322164
+    124.543799    3      15.695824
+    -20.049244    2       5.067912
+     -5.929487    2       4.444526
+s-f
+    154.159199    2       6.868325
+     18.389590    2       3.830900
+p-f
+    106.095839    2       6.193744
+     10.237893    2       2.739296
+d-f
+     48.146429    2       5.301404
+      7.592843    2       2.236852
+*
+Zn:ccECP
+# canonical ccECP for Zn: Z=30 NCORE=10 Zeff=20 LMAX=2 local=d | source recipes/Zn/ccECP/Zn.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    20.00000000    1    35.80797616
+   716.15952323    3    34.53646083
+  -204.68393323    2    28.62830178
+     0.76026614    2     7.96239682
+s-d
+   431.70804302    2    35.02141356
+    95.87640437    2    14.63498691
+p-d
+   313.57770563    2    42.22979234
+    74.01270048    2    14.57429304
+*
+Zr:ccECP
+# canonical ccECP for Zr: Z=40 NCORE=28 Zeff=12 LMAX=3 local=f | source recipes/Zr/ccECP/Zr.ccECP.gamess | ccECP from Haihan Zhou et al. Journal of Chemical Physics (2024) https://doi.org/10.1063/5.0180057
+*
+    NCORE = 28    LMAX = 3
+f
+     12.000000    1      23.999012
+    287.988139    3      25.971764
+     -5.987178    2       4.926614
+     -7.922580    2       4.801388
+s-f
+    150.262314    2       8.765091
+     30.213713    2       3.928322
+p-f
+     99.301910    2       7.417907
+     25.356026    2       3.768733
+d-f
+      5.625707    2       2.250556
+     46.916833    2       5.355356
+*

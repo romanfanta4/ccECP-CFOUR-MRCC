@@ -1,0 +1,12 @@
+*
+H:ccECP
+# canonical ccECP for H: Z=1 NCORE=0 Zeff=1 LMAX=1 local=p | source recipes/H/ccECP/H.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE =  0    LMAX = 1
+p
+    1.00000000000000    1   21.24359508259891
+   21.24359508259891    3   21.24359508259891
+  -10.85192405303825    2   21.77696655044365
+s-p
+    0.00000000000000    2   1.000000000000000
+*

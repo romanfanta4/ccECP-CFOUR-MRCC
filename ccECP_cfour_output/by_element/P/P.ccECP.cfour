@@ -1,0 +1,19 @@
+# P:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+P:ccECP
+# canonical ccECP for P: Z=15 NCORE=10 Zeff=5 LMAX=2 local=d | source recipes/P/ccECP/P.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      5.000000    1       5.872694
+     29.363469    3       9.891298
+    -17.011136    2       4.692469
+s-d
+     15.259383    2      12.091334
+     31.707918    2       3.044535
+p-d
+      7.747190    2       4.310884
+     13.932528    2       2.426903
+*

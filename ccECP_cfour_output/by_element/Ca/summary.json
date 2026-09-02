@@ -1,0 +1,285 @@
+{
+ "basis": {
+  "aug-cc-pCV5Z": {
+   "contracted_composition": "13s,13p,10d,7f,5g,3h",
+   "max_L": "h",
+   "n_contracted": 51,
+   "n_primitives": 107,
+   "primitive_composition": "24s,23p,20d,7f,5g,3h",
+   "source_file": "Ca.aug-cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCV6Z": {
+   "contracted_composition": "15s,15p,12d,9f,7g,5h,3i",
+   "max_L": "i",
+   "n_contracted": 66,
+   "n_primitives": 122,
+   "primitive_composition": "26s,25p,22d,9f,7g,5h,3i",
+   "source_file": "Ca.aug-cc-pCV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVDZ": {
+   "contracted_composition": "7s,7p,4d",
+   "max_L": "d",
+   "n_contracted": 18,
+   "n_primitives": 74,
+   "primitive_composition": "18s,17p,14d",
+   "source_file": "Ca.aug-cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVQZ": {
+   "contracted_composition": "11s,11p,8d,5f,3g",
+   "max_L": "g",
+   "n_contracted": 38,
+   "n_primitives": 94,
+   "primitive_composition": "22s,21p,18d,5f,3g",
+   "source_file": "Ca.aug-cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVTZ": {
+   "contracted_composition": "9s,9p,6d,3f",
+   "max_L": "f",
+   "n_contracted": 27,
+   "n_primitives": 83,
+   "primitive_composition": "20s,19p,16d,3f",
+   "source_file": "Ca.aug-cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV5Z": {
+   "contracted_composition": "8s,8p,6d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 31,
+   "n_primitives": 87,
+   "primitive_composition": "19s,18p,16d,4f,3g,2h",
+   "source_file": "Ca.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV6Z": {
+   "contracted_composition": "9s,9p,7d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 39,
+   "n_primitives": 95,
+   "primitive_composition": "20s,19p,17d,5f,4g,3h,2i",
+   "source_file": "Ca.aug-cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "5s,5p,3d",
+   "max_L": "d",
+   "n_contracted": 13,
+   "n_primitives": 69,
+   "primitive_composition": "16s,15p,13d",
+   "source_file": "Ca.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "7s,7p,5d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 24,
+   "n_primitives": 80,
+   "primitive_composition": "18s,17p,15d,3f,2g",
+   "source_file": "Ca.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "6s,6p,4d,2f",
+   "max_L": "f",
+   "n_contracted": 18,
+   "n_primitives": 74,
+   "primitive_composition": "17s,16p,14d,2f",
+   "source_file": "Ca.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCV5Z": {
+   "contracted_composition": "12s,12p,9d,6f,4g,2h",
+   "max_L": "h",
+   "n_contracted": 45,
+   "n_primitives": 101,
+   "primitive_composition": "23s,22p,19d,6f,4g,2h",
+   "source_file": "Ca.cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCV6Z": {
+   "contracted_composition": "14s,14p,11d,8f,6g,4h,2i",
+   "max_L": "i",
+   "n_contracted": 59,
+   "n_primitives": 115,
+   "primitive_composition": "25s,24p,21d,8f,6g,4h,2i",
+   "source_file": "Ca.cc-pCV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVDZ": {
+   "contracted_composition": "6s,6p,3d",
+   "max_L": "d",
+   "n_contracted": 15,
+   "n_primitives": 71,
+   "primitive_composition": "17s,16p,13d",
+   "source_file": "Ca.cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVQZ": {
+   "contracted_composition": "10s,10p,7d,4f,2g",
+   "max_L": "g",
+   "n_contracted": 33,
+   "n_primitives": 89,
+   "primitive_composition": "21s,20p,17d,4f,2g",
+   "source_file": "Ca.cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVTZ": {
+   "contracted_composition": "8s,8p,5d,2f",
+   "max_L": "f",
+   "n_contracted": 23,
+   "n_primitives": 79,
+   "primitive_composition": "19s,18p,15d,2f",
+   "source_file": "Ca.cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "7s,7p,5d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 25,
+   "n_primitives": 81,
+   "primitive_composition": "18s,17p,15d,3f,2g,1h",
+   "source_file": "Ca.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV6Z": {
+   "contracted_composition": "8s,8p,6d,4f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 32,
+   "n_primitives": 88,
+   "primitive_composition": "19s,18p,16d,4f,3g,2h,1i",
+   "source_file": "Ca.cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "4s,4p,2d",
+   "max_L": "d",
+   "n_contracted": 10,
+   "n_primitives": 66,
+   "primitive_composition": "15s,14p,12d",
+   "source_file": "Ca.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "6s,6p,4d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 19,
+   "n_primitives": 75,
+   "primitive_composition": "17s,16p,14d,2f,1g",
+   "source_file": "Ca.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "5s,5p,3d,1f",
+   "max_L": "f",
+   "n_contracted": 14,
+   "n_primitives": 70,
+   "primitive_composition": "16s,15p,13d,1f",
+   "source_file": "Ca.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "d",
+    [
+     [
+      "10.000",
+      1,
+      "7.041331745291820"
+     ],
+     [
+      "70.41331745291820",
+      3,
+      "14.01444871170631"
+     ],
+     [
+      "-92.87298019372959",
+      2,
+      "13.76936244330539"
+     ],
+     [
+      "-5.753568238854550",
+      2,
+      "4.717259669813990"
+     ]
+    ]
+   ],
+   [
+    "s-d",
+    [
+     [
+      "149.3026232361631",
+      2,
+      "11.24016734279034"
+     ],
+     [
+      "23.75932943609596",
+      2,
+      "5.353611600469730"
+     ]
+    ]
+   ],
+   [
+    "p-d",
+    [
+     [
+      "99.20411436357747",
+      2,
+      "13.06654848325639"
+     ],
+     [
+      "13.45216129084917",
+      2,
+      "4.027484971490170"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 2,
+  "local_channel": "d",
+  "n_explicit_electrons": 10,
+  "n_terms_per_channel": {
+   "d": 4,
+   "p-d": 2,
+   "s-d": 2
+  },
+  "ncore": 10,
+  "nonlocal_channels": [
+   "s-d",
+   "p-d"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Ca.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 0,
+  "validation": "PASS"
+ }
+}

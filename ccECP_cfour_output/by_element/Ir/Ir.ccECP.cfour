@@ -1,0 +1,26 @@
+# Ir:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Ir:ccECP
+# canonical ccECP for Ir: Z=77 NCORE=60 Zeff=17 LMAX=4 local=g | source recipes/Ir/ccECP/Ir.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 60    LMAX = 4
+g
+     17.000000    1      12.171070
+    206.908194    3      12.170139
+    -23.157042    2       5.602984
+   -143.208379    2      12.320343
+s-g
+     76.599511    2       6.284095
+    438.873879    2      13.826287
+p-g
+     61.991944    2       5.346383
+    262.750135    2      11.264188
+d-g
+     31.123654    2       4.766746
+    123.955993    2       6.815210
+f-g
+     10.329276    2       2.786350
+     11.885698    2       2.592946
+*

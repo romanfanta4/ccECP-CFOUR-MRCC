@@ -1,0 +1,23 @@
+# Sb:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Sb:ccECP
+# canonical ccECP for Sb: Z=51 NCORE=46 Zeff=5 LMAX=3 local=f | source recipes/Sb/ccECP/Sb.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 46    LMAX = 3
+f
+      5.000000    1       1.500000
+      7.500000    3       1.500000
+    -14.984235    2       1.619327
+     -1.950880    2       1.500000
+s-f
+     68.292881    2       2.332041
+     -7.220586    2       1.376531
+p-f
+     54.497670    2       2.161816
+     -1.963704    2       1.219158
+d-f
+      3.774218    2       0.930013
+      5.637552    2       0.912651
+*

@@ -1,0 +1,12 @@
+*
+F:ccECP
+# canonical ccECP for F: Z=9 NCORE=2 Zeff=7 LMAX=1 local=p | source recipes/F/ccECP/F.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  2    LMAX = 1
+p
+                 7.0    1   12.08758490486192
+   84.61309433403344    3   12.83806306400466
+  -53.02751706539332    2   12.31234562699041
+s-p
+   78.90177172847011    2   14.78076492090162
+*

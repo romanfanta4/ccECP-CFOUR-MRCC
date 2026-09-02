@@ -1,0 +1,31 @@
+! He:aug-cc-pVDZ-ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+! CFOUR/MRCC GENBAS format; append to your GENBAS file, or use as is.
+! library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+
+He:aug-cc-pVDZ-ccECP
+ccECP aug-cc-pVDZ for He | source recipes/He/ccECP/He.aug-cc-pVDZ.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+
+  2
+    0    1
+    3    2
+   10    2
+
+   39.320931   17.174528    7.501461    3.276475    1.431093
+    0.625070    0.320560    0.273017    0.119248    0.112477
+
+   0.01006570   0.00000000   0.00000000
+   0.02487620   0.00000000   0.00000000
+   0.05825370   0.00000000   0.00000000
+   0.13445960   0.00000000   0.00000000
+   0.24431180   0.00000000   0.00000000
+   0.34250610   0.00000000   0.00000000
+   0.00000000   1.00000000   0.00000000
+   0.28264700   0.00000000   0.00000000
+   0.07392530   0.00000000   0.00000000
+   0.00000000   0.00000000   1.00000000
+
+    1.272523    0.257075
+
+   1.00000000   0.00000000
+   0.00000000   1.00000000
+

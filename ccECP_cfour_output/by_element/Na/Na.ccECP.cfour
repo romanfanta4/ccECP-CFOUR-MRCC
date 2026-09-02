@@ -1,0 +1,19 @@
+# Na:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Na:ccECP
+# canonical ccECP for Na: Z=11 NCORE=10 Zeff=1 LMAX=2 local=d | source recipes/Na/ccECP/Na.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      1.000000    1       4.311678
+      4.311678    3       1.925689
+     -2.083137    2       1.549498
+s-d
+      6.234064    2       5.377666
+      9.075931    2       1.408414
+p-d
+      3.232724    2       1.379949
+      2.494079    2       0.862453
+*

@@ -1,0 +1,17 @@
+*
+V:ccECP
+# canonical ccECP for V: Z=23 NCORE=10 Zeff=13 LMAX=2 local=d | source recipes/V/ccECP/V.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    13.00000000    1    20.32168914
+   264.18195885    3    19.59698040
+  -115.29293208    2    17.33147348
+    -0.66288726    2     5.12320657
+s-d
+   195.56713891    2    15.12502150
+    22.88642834    2     6.29898914
+p-d
+   126.42119500    2    15.93855113
+    16.03597127    2     5.74006266
+*

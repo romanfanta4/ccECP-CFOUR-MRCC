@@ -1,0 +1,23 @@
+# Ru:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Ru:ccECP
+# canonical ccECP for Ru: Z=44 NCORE=28 Zeff=16 LMAX=3 local=f | source recipes/Ru/ccECP/Ru.ccECP.gamess | ccECP from Omar Madany et al. Journal of Chemical Physics (2025) https://doi.org/10.1063/5.0285320
+*
+    NCORE = 28    LMAX = 3
+f
+     16.000000    1      11.999981
+    191.999691    3      12.003052
+    -49.381269    2      11.998013
+    -20.647860    2       7.820339
+s-f
+    209.785831    2      11.528850
+     30.211243    2       5.091373
+p-f
+    146.247148    2      10.326472
+     22.565456    2       4.575025
+d-f
+     66.402019    2       8.830547
+      8.598081    2       3.215112
+*

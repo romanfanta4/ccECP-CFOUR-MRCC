@@ -1,0 +1,15 @@
+# Li:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Li:ccECP
+# canonical ccECP for Li: Z=3 NCORE=2 Zeff=1 LMAX=1 local=p | source recipes/Li/ccECP/Li.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  2    LMAX = 1
+p
+              1.000    1   15.0000000000000
+   15.0000000000000    3   15.0479971422127
+  -1.24272969818004    2   1.80605426846072
+s-p
+   6.75286789026804    2   1.33024777689591
+*

@@ -1,0 +1,158 @@
+{
+ "basis": {
+  "aug-cc-pV5Z": {
+   "contracted_composition": "6s,5p,4d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 20,
+   "n_primitives": 27,
+   "primitive_composition": "13s,5p,4d,3f,2g",
+   "source_file": "He.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV6Z": {
+   "contracted_composition": "7s,6p,5d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 27,
+   "n_primitives": 34,
+   "primitive_composition": "14s,6p,5d,4f,3g,2h",
+   "source_file": "He.aug-cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "3s,2p",
+   "max_L": "p",
+   "n_contracted": 5,
+   "n_primitives": 12,
+   "primitive_composition": "10s,2p",
+   "source_file": "He.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "5s,4p,3d,2f",
+   "max_L": "f",
+   "n_contracted": 14,
+   "n_primitives": 21,
+   "primitive_composition": "12s,4p,3d,2f",
+   "source_file": "He.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "4s,3p,2d",
+   "max_L": "d",
+   "n_contracted": 9,
+   "n_primitives": 16,
+   "primitive_composition": "11s,3p,2d",
+   "source_file": "He.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "5s,4p,3d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 15,
+   "n_primitives": 22,
+   "primitive_composition": "12s,4p,3d,2f,1g",
+   "source_file": "He.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV6Z": {
+   "contracted_composition": "6s,5p,4d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 21,
+   "n_primitives": 28,
+   "primitive_composition": "13s,5p,4d,3f,2g,1h",
+   "source_file": "He.cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "2s,1p",
+   "max_L": "p",
+   "n_contracted": 3,
+   "n_primitives": 10,
+   "primitive_composition": "9s,1p",
+   "source_file": "He.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "4s,3p,2d,1f",
+   "max_L": "f",
+   "n_contracted": 10,
+   "n_primitives": 17,
+   "primitive_composition": "11s,3p,2d,1f",
+   "source_file": "He.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "3s,2p,1d",
+   "max_L": "d",
+   "n_contracted": 6,
+   "n_primitives": 13,
+   "primitive_composition": "10s,2p,1d",
+   "source_file": "He.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "p",
+    [
+     [
+      "2.000000",
+      1,
+      "32.000000"
+     ],
+     [
+      "64.00000",
+      3,
+      "32.000000"
+     ],
+     [
+      "-27.70084",
+      2,
+      "33.713355"
+     ]
+    ]
+   ],
+   [
+    "s-p",
+    [
+     [
+      "0.000000",
+      2,
+      "1.0000000"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 1,
+  "local_channel": "p",
+  "n_explicit_electrons": 2,
+  "n_terms_per_channel": {
+   "p": 3,
+   "s-p": 1
+  },
+  "ncore": 0,
+  "nonlocal_channels": [
+   "s-p"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "He.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 0,
+  "validation": "PASS"
+ }
+}

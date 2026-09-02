@@ -1,0 +1,19 @@
+# Al:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Al:ccECP
+# canonical ccECP for Al: Z=13 NCORE=10 Zeff=3 LMAX=2 local=d | source recipes/Al/ccECP/Al.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      3.000000    1       5.073893
+     15.221680    3       8.607001
+    -11.165685    2       3.027490
+s-d
+     14.879513    2       7.863954
+     20.746863    2       2.061358
+p-d
+      7.786227    2       3.125175
+      7.109015    2       1.414930
+*

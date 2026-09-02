@@ -1,0 +1,20 @@
+# Ni:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Ni:ccECP
+# canonical ccECP for Ni: Z=28 NCORE=10 Zeff=18 LMAX=2 local=d | source recipes/Ni/ccECP/Ni.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+             18.000    1   28.2630001015327
+  508.7340018275886    3   26.9360254587070
+  -220.099999296390    2   27.0860075292970
+  -2.13493270999809    2   12.2130001295874
+s-d
+   321.240002430625    2   26.4320193944270
+   60.3470084610628    2   11.7489696842121
+p-d
+   236.539998999428    2   29.4929998193907
+   44.3969887908906    2   11.5569831458722
+*

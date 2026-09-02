@@ -1,0 +1,15 @@
+# He:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+He:ccECP
+# canonical ccECP for He: Z=2 NCORE=0 Zeff=2 LMAX=1 local=p | source recipes/He/ccECP/He.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  0    LMAX = 1
+p
+      2.000000    1      32.000000
+      64.00000    3      32.000000
+     -27.70084    2      33.713355
+s-p
+      0.000000    2      1.0000000
+*

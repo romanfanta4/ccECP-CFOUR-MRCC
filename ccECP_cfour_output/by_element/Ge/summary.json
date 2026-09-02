@@ -1,0 +1,202 @@
+{
+ "basis": {
+  "aug-cc-pV5Z": {
+   "contracted_composition": "6s,6p,5d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 26,
+   "n_primitives": 42,
+   "primitive_composition": "14s,14p,5d,4f,3g,2h",
+   "source_file": "Ge.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV6Z": {
+   "contracted_composition": "7s,7p,6d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 34,
+   "n_primitives": 50,
+   "primitive_composition": "15s,15p,6d,5f,4g,3h,2i",
+   "source_file": "Ge.aug-cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "3s,3p,2d",
+   "max_L": "d",
+   "n_contracted": 8,
+   "n_primitives": 24,
+   "primitive_composition": "11s,11p,2d",
+   "source_file": "Ge.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "5s,5p,4d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 19,
+   "n_primitives": 35,
+   "primitive_composition": "13s,13p,4d,3f,2g",
+   "source_file": "Ge.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "4s,4p,3d,2f",
+   "max_L": "f",
+   "n_contracted": 13,
+   "n_primitives": 29,
+   "primitive_composition": "12s,12p,3d,2f",
+   "source_file": "Ge.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "5s,5p,4d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 20,
+   "n_primitives": 36,
+   "primitive_composition": "13s,13p,4d,3f,2g,1h",
+   "source_file": "Ge.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV6Z": {
+   "contracted_composition": "6s,6p,5d,4f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 27,
+   "n_primitives": 43,
+   "primitive_composition": "14s,14p,5d,4f,3g,2h,1i",
+   "source_file": "Ge.cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "2s,2p,1d",
+   "max_L": "d",
+   "n_contracted": 5,
+   "n_primitives": 21,
+   "primitive_composition": "10s,10p,1d",
+   "source_file": "Ge.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "4s,4p,3d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 14,
+   "n_primitives": 30,
+   "primitive_composition": "12s,12p,3d,2f,1g",
+   "source_file": "Ge.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "3s,3p,2d,1f",
+   "max_L": "f",
+   "n_contracted": 9,
+   "n_primitives": 25,
+   "primitive_composition": "11s,11p,2d,1f",
+   "source_file": "Ge.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "f",
+    [
+     [
+      "4.0",
+      1,
+      "1.478962662442"
+     ],
+     [
+      "5.9158506497680",
+      3,
+      "3.188905647765"
+     ],
+     [
+      "-12.033712959815",
+      2,
+      "1.927438978253"
+     ],
+     [
+      "1.283543489065",
+      2,
+      "1.545539235916"
+     ]
+    ]
+   ],
+   [
+    "s-f",
+    [
+     [
+      "43.265429324814",
+      2,
+      "2.894473589836"
+     ],
+     [
+      "-1.909339873965",
+      2,
+      "1.550339816290"
+     ]
+    ]
+   ],
+   [
+    "p-f",
+    [
+     [
+      "35.263014141211",
+      2,
+      "2.986528872039"
+     ],
+     [
+      "0.963439928853",
+      2,
+      "1.283381203893"
+     ]
+    ]
+   ],
+   [
+    "d-f",
+    [
+     [
+      "2.339019442484",
+      2,
+      "1.043001142249"
+     ],
+     [
+      "0.541380654081",
+      2,
+      "0.554562729807"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 3,
+  "local_channel": "f",
+  "n_explicit_electrons": 4,
+  "n_terms_per_channel": {
+   "d-f": 2,
+   "f": 4,
+   "p-f": 2,
+   "s-f": 2
+  },
+  "ncore": 28,
+  "nonlocal_channels": [
+   "s-f",
+   "p-f",
+   "d-f"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Ge.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 0,
+  "validation": "PASS"
+ }
+}

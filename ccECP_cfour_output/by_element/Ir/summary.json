@@ -1,0 +1,279 @@
+{
+ "basis": {
+  "aug-cc-pCV5Z": {
+   "contracted_composition": "10s,10p,9d,6f,5g,4h,3i",
+   "max_L": "i",
+   "n_contracted": 47,
+   "n_primitives": 251,
+   "primitive_composition": "16s,16p,16d,6f,5g,4h,3i",
+   "source_file": "Ir.aug-cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVDZ": {
+   "contracted_composition": "6s,6p,5d,3f",
+   "max_L": "f",
+   "n_contracted": 20,
+   "n_primitives": 116,
+   "primitive_composition": "15s,15p,15d,3f",
+   "source_file": "Ir.aug-cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVQZ": {
+   "contracted_composition": "8s,9p,8d,5f,4g,3h",
+   "max_L": "h",
+   "n_contracted": 37,
+   "n_primitives": 205,
+   "primitive_composition": "15s,16p,16d,5f,4g,3h",
+   "source_file": "Ir.aug-cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVTZ": {
+   "contracted_composition": "7s,8p,7d,4f,3g",
+   "max_L": "g",
+   "n_contracted": 29,
+   "n_primitives": 161,
+   "primitive_composition": "15s,16p,16d,4f,3g",
+   "source_file": "Ir.aug-cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV5Z": {
+   "contracted_composition": "8s,8p,7d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 37,
+   "n_primitives": 241,
+   "primitive_composition": "14s,14p,14d,5f,4g,3h,2i",
+   "source_file": "Ir.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "5s,5p,4d,2f",
+   "max_L": "f",
+   "n_contracted": 16,
+   "n_primitives": 112,
+   "primitive_composition": "14s,14p,14d,2f",
+   "source_file": "Ir.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "7s,7p,6d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 29,
+   "n_primitives": 197,
+   "primitive_composition": "14s,14p,14d,4f,3g,2h",
+   "source_file": "Ir.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "6s,6p,5d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 22,
+   "n_primitives": 154,
+   "primitive_composition": "14s,14p,14d,3f,2g",
+   "source_file": "Ir.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCV5Z": {
+   "contracted_composition": "9s,9p,8d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 40,
+   "n_primitives": 244,
+   "primitive_composition": "15s,15p,15d,5f,4g,3h,2i",
+   "source_file": "Ir.cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVDZ": {
+   "contracted_composition": "5s,5p,4d,2f",
+   "max_L": "f",
+   "n_contracted": 16,
+   "n_primitives": 112,
+   "primitive_composition": "14s,14p,14d,2f",
+   "source_file": "Ir.cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVQZ": {
+   "contracted_composition": "7s,8p,7d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 31,
+   "n_primitives": 199,
+   "primitive_composition": "14s,15p,15d,4f,3g,2h",
+   "source_file": "Ir.cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVTZ": {
+   "contracted_composition": "6s,7p,6d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 24,
+   "n_primitives": 156,
+   "primitive_composition": "14s,15p,15d,3f,2g",
+   "source_file": "Ir.cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "7s,7p,6d,4f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 30,
+   "n_primitives": 234,
+   "primitive_composition": "13s,13p,13d,4f,3g,2h,1i",
+   "source_file": "Ir.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "4s,4p,3d,1f",
+   "max_L": "f",
+   "n_contracted": 12,
+   "n_primitives": 108,
+   "primitive_composition": "13s,13p,13d,1f",
+   "source_file": "Ir.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "6s,6p,5d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 23,
+   "n_primitives": 191,
+   "primitive_composition": "13s,13p,13d,3f,2g,1h",
+   "source_file": "Ir.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "5s,5p,4d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 17,
+   "n_primitives": 149,
+   "primitive_composition": "13s,13p,13d,2f,1g",
+   "source_file": "Ir.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "g",
+    [
+     [
+      "17.000000",
+      1,
+      "12.171070"
+     ],
+     [
+      "206.908194",
+      3,
+      "12.170139"
+     ],
+     [
+      "-23.157042",
+      2,
+      "5.602984"
+     ],
+     [
+      "-143.208379",
+      2,
+      "12.320343"
+     ]
+    ]
+   ],
+   [
+    "s-g",
+    [
+     [
+      "76.599511",
+      2,
+      "6.284095"
+     ],
+     [
+      "438.873879",
+      2,
+      "13.826287"
+     ]
+    ]
+   ],
+   [
+    "p-g",
+    [
+     [
+      "61.991944",
+      2,
+      "5.346383"
+     ],
+     [
+      "262.750135",
+      2,
+      "11.264188"
+     ]
+    ]
+   ],
+   [
+    "d-g",
+    [
+     [
+      "31.123654",
+      2,
+      "4.766746"
+     ],
+     [
+      "123.955993",
+      2,
+      "6.815210"
+     ]
+    ]
+   ],
+   [
+    "f-g",
+    [
+     [
+      "10.329276",
+      2,
+      "2.786350"
+     ],
+     [
+      "11.885698",
+      2,
+      "2.592946"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 4,
+  "local_channel": "g",
+  "n_explicit_electrons": 17,
+  "n_terms_per_channel": {
+   "d-g": 2,
+   "f-g": 2,
+   "g": 4,
+   "p-g": 2,
+   "s-g": 2
+  },
+  "ncore": 60,
+  "nonlocal_channels": [
+   "s-g",
+   "p-g",
+   "d-g",
+   "f-g"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Ir.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 6,
+  "validation": "PASS"
+ }
+}

@@ -1,0 +1,20 @@
+# Fe:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Fe:ccECP
+# canonical ccECP for Fe: Z=26 NCORE=10 Zeff=16 LMAX=2 local=d | source recipes/Fe/ccECP/Fe.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    16.00000000    1    23.22091713
+   371.53467417    3    23.54714679
+  -181.22603445    2    23.47256344
+    -2.37305236    2     9.85238815
+s-d
+   277.50032547    2    22.21062697
+    46.20495585    2     9.51515800
+p-d
+   194.99875056    2    24.57000871
+    31.67945132    2     8.86648776
+*

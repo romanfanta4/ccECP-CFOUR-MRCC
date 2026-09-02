@@ -1,0 +1,202 @@
+{
+ "basis": {
+  "aug-cc-pV5Z": {
+   "contracted_composition": "6s,6p,5d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 26,
+   "n_primitives": 42,
+   "primitive_composition": "14s,14p,5d,4f,3g,2h",
+   "source_file": "Kr.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV6Z": {
+   "contracted_composition": "7s,7p,6d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 34,
+   "n_primitives": 50,
+   "primitive_composition": "15s,15p,6d,5f,4g,3h,2i",
+   "source_file": "Kr.aug-cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "3s,3p,2d",
+   "max_L": "d",
+   "n_contracted": 8,
+   "n_primitives": 24,
+   "primitive_composition": "11s,11p,2d",
+   "source_file": "Kr.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "5s,5p,4d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 19,
+   "n_primitives": 35,
+   "primitive_composition": "13s,13p,4d,3f,2g",
+   "source_file": "Kr.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "4s,4p,3d,2f",
+   "max_L": "f",
+   "n_contracted": 13,
+   "n_primitives": 29,
+   "primitive_composition": "12s,12p,3d,2f",
+   "source_file": "Kr.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "5s,5p,4d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 20,
+   "n_primitives": 36,
+   "primitive_composition": "13s,13p,4d,3f,2g,1h",
+   "source_file": "Kr.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV6Z": {
+   "contracted_composition": "6s,6p,5d,4f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 27,
+   "n_primitives": 43,
+   "primitive_composition": "14s,14p,5d,4f,3g,2h,1i",
+   "source_file": "Kr.cc-pV6Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "2s,2p,1d",
+   "max_L": "d",
+   "n_contracted": 5,
+   "n_primitives": 21,
+   "primitive_composition": "10s,10p,1d",
+   "source_file": "Kr.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "4s,4p,3d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 14,
+   "n_primitives": 30,
+   "primitive_composition": "12s,12p,3d,2f,1g",
+   "source_file": "Kr.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "3s,3p,2d,1f",
+   "max_L": "f",
+   "n_contracted": 9,
+   "n_primitives": 25,
+   "primitive_composition": "11s,11p,2d,1f",
+   "source_file": "Kr.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "f",
+    [
+     [
+      "8.0",
+      1,
+      "10.79423805030976"
+     ],
+     [
+      "86.353904402478080",
+      3,
+      "13.32338941541937"
+     ],
+     [
+      "-11.11453291523170",
+      2,
+      "9.292050205053670"
+     ],
+     [
+      "10.22951903851239",
+      2,
+      "20.14895793077237"
+     ]
+    ]
+   ],
+   [
+    "s-f",
+    [
+     [
+      "92.88955174083402",
+      2,
+      "5.49072858263344"
+     ],
+     [
+      "12.92947788650997",
+      2,
+      "3.86301190150576"
+     ]
+    ]
+   ],
+   [
+    "p-f",
+    [
+     [
+      "43.09952401633328",
+      2,
+      "4.03857692489950"
+     ],
+     [
+      "9.50975957670500",
+      2,
+      "3.30678898758958"
+     ]
+    ]
+   ],
+   [
+    "d-f",
+    [
+     [
+      "17.80494496367218",
+      2,
+      "4.21348003421066"
+     ],
+     [
+      "4.58911494794530",
+      2,
+      "1.54989721316990"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 3,
+  "local_channel": "f",
+  "n_explicit_electrons": 8,
+  "n_terms_per_channel": {
+   "d-f": 2,
+   "f": 4,
+   "p-f": 2,
+   "s-f": 2
+  },
+  "ncore": 28,
+  "nonlocal_channels": [
+   "s-f",
+   "p-f",
+   "d-f"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Kr.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 0,
+  "validation": "PASS"
+ }
+}

@@ -1,0 +1,6 @@
+# upstream data: not redistributed here, fetch it from the source repository
+pseudopotentiallibrary/
+# scratch
+*.tar.gz
+__pycache__/
+*.pyc

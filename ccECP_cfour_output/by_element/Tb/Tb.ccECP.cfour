@@ -1,0 +1,26 @@
+# Tb:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Tb:ccECP
+# canonical ccECP for Tb: Z=65 NCORE=46 Zeff=19 LMAX=4 local=g | source recipes/Tb/ccECP/Tb.ccECP.gamess | ccECP from A. Annaberdiyev et al. npj Quantum Materials (2023) https://www.nature.com/articles/s41535-023-00583-6.
+*
+    NCORE = 46    LMAX = 4
+g
+     19.000000    1       4.526254
+     85.998831    3       3.879308
+    -85.722649    2       4.406058
+     -3.133952    2       1.899664
+s-g
+    161.119164    2       8.996757
+     89.334835    2       5.104371
+p-g
+     88.693021    2       7.640657
+     57.109488    2       3.878305
+d-g
+     55.901690    2       7.456305
+     29.364333    2       2.530445
+f-g
+    -23.952530    2       4.939345
+     -7.090915    2       3.912490
+*

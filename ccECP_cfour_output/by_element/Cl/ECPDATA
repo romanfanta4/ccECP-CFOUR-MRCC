@@ -1,0 +1,16 @@
+*
+Cl:ccECP
+# canonical ccECP for Cl: Z=17 NCORE=10 Zeff=7 LMAX=2 local=d | source recipes/Cl/ccECP/Cl.ccECP.gamess | ccECP from Chandler Bennett et al. Journal of Chemical Physics 149, 104108 (2018) https://doi.org/10.1063/1.5038135
+*
+    NCORE = 10    LMAX = 2
+d
+      7.000000    1       7.944352
+     55.610463    3      12.801261
+    -22.860784    2       6.296744
+s-d
+     15.839234    2      17.908432
+     44.469504    2       4.159880
+p-d
+      8.321946    2       7.931763
+     24.044745    2       3.610412
+*

@@ -1,0 +1,17 @@
+*
+Co:ccECP
+# canonical ccECP for Co: Z=27 NCORE=10 Zeff=17 LMAX=2 local=d | source recipes/Co/ccECP/Co.ccECP.gamess | ccECP from A. Annaberdiyev et al. Journal of Chemical Physics 149, 134108 (2018) https://doi.org/10.1063/1.5040472
+*
+    NCORE = 10    LMAX = 2
+d
+    17.00000000    1    25.00124115
+   425.02109971    3    22.83490096
+  -195.48211282    2    23.47468155
+    -2.81572866    2    10.33794825
+s-d
+   271.77708486    2    23.41427030
+    54.26461121    2    10.76931694
+p-d
+   201.53430745    2    25.47446316
+    38.99231927    2    10.68404901
+*

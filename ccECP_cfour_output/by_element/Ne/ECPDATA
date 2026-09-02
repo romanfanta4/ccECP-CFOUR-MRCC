@@ -1,0 +1,12 @@
+*
+Ne:ccECP
+# canonical ccECP for Ne: Z=10 NCORE=2 Zeff=8 LMAX=1 local=p | source recipes/Ne/ccECP/Ne.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics 151, 144110 (2019) https://doi.org/10.1063/1.5121006
+*
+    NCORE =  2    LMAX = 1
+p
+               8.000    1   14.79351199705315
+  118.34809597642520    3   16.58203947626090
+  -70.27885884380557    2   16.08073529218220
+s-p
+   81.62205749824426    2   16.55441468334002
+*

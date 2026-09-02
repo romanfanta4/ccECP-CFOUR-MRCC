@@ -1,0 +1,277 @@
+{
+ "basis": {
+  "aug-cc-pCV5Z": {
+   "contracted_composition": "10s,10p,9d,6f,5g,4h,3i",
+   "max_L": "i",
+   "n_contracted": 47,
+   "n_primitives": 251,
+   "primitive_composition": "16s,16p,16d,6f,5g,4h,3i",
+   "source_file": "Mo.aug-cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVDZ": {
+   "contracted_composition": "6s,6p,5d,3f",
+   "max_L": "f",
+   "n_contracted": 20,
+   "n_primitives": 116,
+   "primitive_composition": "15s,15p,15d,3f",
+   "source_file": "Mo.aug-cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVQZ": {
+   "contracted_composition": "9s,9p,8d,5f,4g,3h",
+   "max_L": "h",
+   "n_contracted": 38,
+   "n_primitives": 206,
+   "primitive_composition": "16s,16p,16d,5f,4g,3h",
+   "source_file": "Mo.aug-cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pCVTZ": {
+   "contracted_composition": "8s,8p,7d,4f,3g",
+   "max_L": "g",
+   "n_contracted": 30,
+   "n_primitives": 162,
+   "primitive_composition": "16s,16p,16d,4f,3g",
+   "source_file": "Mo.aug-cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pV5Z": {
+   "contracted_composition": "8s,8p,7d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 37,
+   "n_primitives": 241,
+   "primitive_composition": "14s,14p,14d,5f,4g,3h,2i",
+   "source_file": "Mo.aug-cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVDZ": {
+   "contracted_composition": "5s,5p,4d,2f",
+   "max_L": "f",
+   "n_contracted": 16,
+   "n_primitives": 112,
+   "primitive_composition": "14s,14p,14d,2f",
+   "source_file": "Mo.aug-cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVQZ": {
+   "contracted_composition": "7s,7p,6d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 29,
+   "n_primitives": 197,
+   "primitive_composition": "14s,14p,14d,4f,3g,2h",
+   "source_file": "Mo.aug-cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "aug-cc-pVTZ": {
+   "contracted_composition": "6s,6p,5d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 22,
+   "n_primitives": 154,
+   "primitive_composition": "14s,14p,14d,3f,2g",
+   "source_file": "Mo.aug-cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCV5Z": {
+   "contracted_composition": "9s,9p,8d,5f,4g,3h,2i",
+   "max_L": "i",
+   "n_contracted": 40,
+   "n_primitives": 244,
+   "primitive_composition": "15s,15p,15d,5f,4g,3h,2i",
+   "source_file": "Mo.cc-pCV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVDZ": {
+   "contracted_composition": "5s,5p,4d,2f",
+   "max_L": "f",
+   "n_contracted": 16,
+   "n_primitives": 112,
+   "primitive_composition": "14s,14p,14d,2f",
+   "source_file": "Mo.cc-pCVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVQZ": {
+   "contracted_composition": "8s,8p,7d,4f,3g,2h",
+   "max_L": "h",
+   "n_contracted": 32,
+   "n_primitives": 200,
+   "primitive_composition": "15s,15p,15d,4f,3g,2h",
+   "source_file": "Mo.cc-pCVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pCVTZ": {
+   "contracted_composition": "7s,7p,6d,3f,2g",
+   "max_L": "g",
+   "n_contracted": 25,
+   "n_primitives": 157,
+   "primitive_composition": "15s,15p,15d,3f,2g",
+   "source_file": "Mo.cc-pCVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pV5Z": {
+   "contracted_composition": "7s,7p,6d,4f,3g,2h,1i",
+   "max_L": "i",
+   "n_contracted": 30,
+   "n_primitives": 234,
+   "primitive_composition": "13s,13p,13d,4f,3g,2h,1i",
+   "source_file": "Mo.cc-pV5Z.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVDZ": {
+   "contracted_composition": "4s,4p,3d,1f",
+   "max_L": "f",
+   "n_contracted": 12,
+   "n_primitives": 108,
+   "primitive_composition": "13s,13p,13d,1f",
+   "source_file": "Mo.cc-pVDZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVQZ": {
+   "contracted_composition": "6s,6p,5d,3f,2g,1h",
+   "max_L": "h",
+   "n_contracted": 23,
+   "n_primitives": 191,
+   "primitive_composition": "13s,13p,13d,3f,2g,1h",
+   "source_file": "Mo.cc-pVQZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  },
+  "cc-pVTZ": {
+   "contracted_composition": "5s,5p,4d,2f,1g",
+   "max_L": "g",
+   "n_contracted": 17,
+   "n_primitives": 149,
+   "primitive_composition": "13s,13p,13d,2f,1g",
+   "source_file": "Mo.cc-pVTZ.gamess",
+   "source_format": "gamess",
+   "validation": "PASS"
+  }
+ },
+ "ecp": {
+  "channels": [
+   [
+    "f",
+    [
+     [
+      "14.000000",
+      1,
+      "10.993527"
+     ],
+     [
+      "153.909378",
+      3,
+      "11.015078"
+     ],
+     [
+      "-91.434311",
+      2,
+      "10.365343"
+     ],
+     [
+      "-16.945728",
+      2,
+      "6.281056"
+     ]
+    ]
+   ],
+   [
+    "s-f",
+    [
+     [
+      "180.089303",
+      2,
+      "10.079375"
+     ],
+     [
+      "24.723630",
+      2,
+      "4.386730"
+     ],
+     [
+      "16.961392",
+      2,
+      "6.321328"
+     ]
+    ]
+   ],
+   [
+    "p-f",
+    [
+     [
+      "123.680940",
+      2,
+      "9.027487"
+     ],
+     [
+      "18.784314",
+      2,
+      "3.910532"
+     ],
+     [
+      "16.933336",
+      2,
+      "6.340373"
+     ]
+    ]
+   ],
+   [
+    "d-f",
+    [
+     [
+      "48.289191",
+      2,
+      "7.378964"
+     ],
+     [
+      "7.940102",
+      2,
+      "2.774830"
+     ],
+     [
+      "16.932154",
+      2,
+      "6.390417"
+     ]
+    ]
+   ]
+  ],
+  "lmax": 3,
+  "local_channel": "f",
+  "n_explicit_electrons": 14,
+  "n_terms_per_channel": {
+   "d-f": 3,
+   "f": 4,
+   "p-f": 3,
+   "s-f": 3
+  },
+  "ncore": 28,
+  "nonlocal_channels": [
+   "s-f",
+   "p-f",
+   "d-f"
+  ],
+  "radial_powers": [
+   1,
+   2,
+   3
+  ],
+  "source_file": "Mo.ccECP.gamess",
+  "source_format": "gamess",
+  "spin_orbit_blocks_discarded": 4,
+  "validation": "PASS"
+ }
+}

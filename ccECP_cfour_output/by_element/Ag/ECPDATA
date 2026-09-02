@@ -1,0 +1,20 @@
+*
+Ag:ccECP
+# canonical ccECP for Ag: Z=47 NCORE=28 Zeff=19 LMAX=3 local=f | source recipes/Ag/ccECP/Ag.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 28    LMAX = 3
+f
+     19.000000    1      11.116996
+    211.222924    3      11.307067
+   -111.385674    2      10.887465
+    -10.049234    2       6.050896
+s-f
+    281.004418    2      12.570677
+     40.246565    2       7.075228
+p-f
+    210.992439    2      11.402841
+     30.829872    2       6.504915
+d-f
+    101.033610    2      10.792675
+     14.813640    2       4.485396
+*

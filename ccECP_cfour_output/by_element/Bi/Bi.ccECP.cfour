@@ -1,0 +1,30 @@
+# Bi:ccECP -- canonical ccECP data from PseudopotentialLibrary.org
+# CFOUR/MRCC ECPDATA format; append to your ECPDATA file, or use as is.
+# library commit 0e81cb49cbf817558d9a4930dea8b461cc1ca2bd | generated 2026-09-02T11:00:34-07:00 by convert_ccecp_to_cfour.py v1.2.0
+*
+Bi:ccECP
+# canonical ccECP for Bi: Z=83 NCORE=78 Zeff=5 LMAX=4 local=g | source recipes/Bi/ccECP/Bi.ccECP.gamess | ccECP from Guangming Wang et al. Journal of Chemical Physics (2022) https://doi.org/10.1063/5.0087300
+*
+    NCORE = 78    LMAX = 4
+g
+      5.000000    1       8.029160
+     40.145802    3       7.481551
+     -6.251215    2       1.775683
+     -0.286410    2       0.698085
+s-g
+    137.072914    2       3.398563
+     34.391642    2       2.236391
+     -1.801931    4       1.063682
+p-g
+     39.826968    2       1.245620
+      0.844734    2       0.366762
+     -4.391855    4       0.823760
+d-g
+     -3.787918    2       0.924628
+     24.096314    2       0.835034
+      0.456375    4       1.239855
+f-g
+     -0.382962    2       1.847446
+     -0.546444    2       1.069842
+     -0.236708    4       0.862193
+*
