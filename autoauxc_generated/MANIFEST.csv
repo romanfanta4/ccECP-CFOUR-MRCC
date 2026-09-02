@@ -1,0 +1,842 @@
+filename,element,orbital_basis,origin,source,n_functions,composition,max_L,sha256_16
+Ag.aug-cc-pCV5Z.AutoAuxC.orca,Ag,aug-cc-pCV5Z,library,recipes/Ag/ccECP/Ag.aug-cc-pCV5Z.AutoAuxC.orca,96,S18 P16 D16 F15 G14 H7 I5 K5,k,c80b3c4d836c54e1
+Ag.aug-cc-pCVDZ.AutoAuxC.orca,Ag,aug-cc-pCVDZ,library,recipes/Ag/ccECP/Ag.aug-cc-pCVDZ.AutoAuxC.orca,77,S17 P15 D14 F13 G13 H5,h,183079d7518dd132
+Ag.aug-cc-pCVQZ.AutoAuxC.orca,Ag,aug-cc-pCVQZ,library,recipes/Ag/ccECP/Ag.aug-cc-pCVQZ.AutoAuxC.orca,93,S18 P16 D15 F14 G14 H7 I5 K4,k,869b507c259d0c80
+Ag.aug-cc-pCVTZ.AutoAuxC.orca,Ag,aug-cc-pCVTZ,library,recipes/Ag/ccECP/Ag.aug-cc-pCVTZ.AutoAuxC.orca,83,S17 P15 D14 F14 G13 H6 I4,i,9f660cdc34b8a2d5
+Ag.aug-cc-pV5Z.AutoAuxC.orca,Ag,aug-cc-pV5Z,library,recipes/Ag/ccECP/Ag.aug-cc-pV5Z.AutoAuxC.orca,93,S18 P16 D15 F14 G14 H7 I5 K4,k,990902b213002529
+Ag.aug-cc-pVDZ.AutoAuxC.orca,Ag,aug-cc-pVDZ,library,recipes/Ag/ccECP/Ag.aug-cc-pVDZ.AutoAuxC.orca,67,S15 P13 D12 F12 G11 H4,h,5317b9028faeddd5
+Ag.aug-cc-pVQZ.AutoAuxC.orca,Ag,aug-cc-pVQZ,library,recipes/Ag/ccECP/Ag.aug-cc-pVQZ.AutoAuxC.orca,87,S17 P15 D14 F14 G13 H6 I4 K4,k,2aaeacf12c474a71
+Ag.aug-cc-pVTZ.AutoAuxC.orca,Ag,aug-cc-pVTZ,library,recipes/Ag/ccECP/Ag.aug-cc-pVTZ.AutoAuxC.orca,76,S16 P14 D13 F13 G12 H5 I3,i,f6d97769ac1f6100
+Ag.cc-pCV5Z.AutoAuxC.orca,Ag,cc-pCV5Z,library,recipes/Ag/ccECP/Ag.cc-pCV5Z.AutoAuxC.orca,87,S17 P15 D14 F13 G13 H6 I5 K4,k,48418bf51e8f14a7
+Ag.cc-pCVDZ.AutoAuxC.orca,Ag,cc-pCVDZ,library,recipes/Ag/ccECP/Ag.cc-pCVDZ.AutoAuxC.orca,67,S15 P13 D12 F12 G11 H4,h,1edb7b230205c4fa
+Ag.cc-pCVQZ.AutoAuxC.orca,Ag,cc-pCVQZ,library,recipes/Ag/ccECP/Ag.cc-pCVQZ.AutoAuxC.orca,80,S16 P14 D13 F13 G12 H5 I4 K3,k,d238858e1c031e1e
+Ag.cc-pCVTZ.AutoAuxC.orca,Ag,cc-pCVTZ,library,recipes/Ag/ccECP/Ag.cc-pCVTZ.AutoAuxC.orca,74,S15 P14 D13 F12 G12 H5 I3,i,fe65f87cc7f02cc4
+Ag.cc-pV5Z.AutoAuxC.orca,Ag,cc-pV5Z,library,recipes/Ag/ccECP/Ag.cc-pV5Z.AutoAuxC.orca,82,S16 P14 D13 F13 G12 H6 I4 K4,k,78c7adb9bf30cb11
+Ag.cc-pVDZ.AutoAuxC.orca,Ag,cc-pVDZ,library,recipes/Ag/ccECP/Ag.cc-pVDZ.AutoAuxC.orca,56,S13 P11 D11 F10 G9 H2,h,592bc0628256c4bb
+Ag.cc-pVQZ.AutoAuxC.orca,Ag,cc-pVQZ,library,recipes/Ag/ccECP/Ag.cc-pVQZ.AutoAuxC.orca,74,S15 P13 D12 F12 G11 H5 I3 K3,k,9a7c17aab541856a
+Ag.cc-pVTZ.AutoAuxC.orca,Ag,cc-pVTZ,library,recipes/Ag/ccECP/Ag.cc-pVTZ.AutoAuxC.orca,68,S14 P13 D12 F11 G11 H4 I3,i,738438fc41c82107
+Al.aug-cc-pV5Z.AutoAuxC.orca,Al,aug-cc-pV5Z,library,recipes/Al/ccECP/Al.aug-cc-pV5Z.AutoAuxC.orca,56,S12 P11 D11 F7 G6 H5 I4,i,1e4c6219bcdce5a1
+Al.aug-cc-pV6Z.AutoAuxC.orca,Al,aug-cc-pV6Z,library,recipes/Al/ccECP/Al.aug-cc-pV6Z.AutoAuxC.orca,64,S12 P12 D12 F7 G7 H6 I4 K4,k,1c93635049dc3e38
+Al.aug-cc-pVDZ.AutoAuxC.orca,Al,aug-cc-pVDZ,library,recipes/Al/ccECP/Al.aug-cc-pVDZ.AutoAuxC.orca,32,S11 P9 D8 F4,f,200d945f2e0017d2
+Al.aug-cc-pVQZ.AutoAuxC.orca,Al,aug-cc-pVQZ,library,recipes/Al/ccECP/Al.aug-cc-pVQZ.AutoAuxC.orca,49,S12 P11 D10 F6 G5 H5,h,382e47e01021ab65
+Al.aug-cc-pVTZ.AutoAuxC.orca,Al,aug-cc-pVTZ,library,recipes/Al/ccECP/Al.aug-cc-pVTZ.AutoAuxC.orca,40,S12 P10 D9 F5 G4,g,9d6f7d5c71d46af6
+Al.cc-pV5Z.AutoAuxC.orca,Al,cc-pV5Z,library,recipes/Al/ccECP/Al.cc-pV5Z.AutoAuxC.orca,52,S12 P11 D11 F6 G5 H4 I3,i,e830b95bc42a0d8b
+Al.cc-pV6Z.AutoAuxC.orca,Al,cc-pV6Z,library,recipes/Al/ccECP/Al.cc-pV6Z.AutoAuxC.orca,58,S12 P11 D11 F6 G6 H5 I4 K3,k,b87974b90ac09d1f
+Al.cc-pVDZ.AutoAuxC.orca,Al,cc-pVDZ,library,recipes/Al/ccECP/Al.cc-pVDZ.AutoAuxC.orca,30,S11 P9 D8 F2,f,14dfec2c4e4a1e00
+Al.cc-pVQZ.AutoAuxC.orca,Al,cc-pVQZ,library,recipes/Al/ccECP/Al.cc-pVQZ.AutoAuxC.orca,45,S12 P11 D10 F5 G4 H3,h,afef46f014a534fa
+Al.cc-pVTZ.AutoAuxC.orca,Al,cc-pVTZ,library,recipes/Al/ccECP/Al.cc-pVTZ.AutoAuxC.orca,37,S11 P10 D9 F4 G3,g,2d82c1077a4d0d46
+Ar.aug-cc-pV5Z.AutoAuxC.orca,Ar,aug-cc-pV5Z,library,recipes/Ar/ccECP/Ar.aug-cc-pV5Z.AutoAuxC.orca,52,S11 P10 D10 F6 G6 H5 I4,i,8a4eb55bc60a5457
+Ar.aug-cc-pV6Z.AutoAuxC.orca,Ar,aug-cc-pV6Z,library,recipes/Ar/ccECP/Ar.aug-cc-pV6Z.AutoAuxC.orca,61,S12 P11 D11 F7 G6 H6 I4 K4,k,d3cd5c5a797dc9f8
+Ar.aug-cc-pVDZ.AutoAuxC.orca,Ar,aug-cc-pVDZ,library,recipes/Ar/ccECP/Ar.aug-cc-pVDZ.AutoAuxC.orca,31,S11 P9 D8 F3,f,505c93da60bb7a29
+Ar.aug-cc-pVQZ.AutoAuxC.orca,Ar,aug-cc-pVQZ,library,recipes/Ar/ccECP/Ar.aug-cc-pVQZ.AutoAuxC.orca,46,S11 P10 D10 F6 G5 H4,h,ee754460a1e2728a
+Ar.aug-cc-pVTZ.AutoAuxC.orca,Ar,aug-cc-pVTZ,library,recipes/Ar/ccECP/Ar.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P10 D9 F5 G4,g,141bc94670f56a6d
+Ar.cc-pV5Z.AutoAuxC.orca,Ar,cc-pV5Z,library,recipes/Ar/ccECP/Ar.cc-pV5Z.AutoAuxC.orca,48,S11 P10 D10 F5 G5 H4 I3,i,ac451354c90d06c8
+Ar.cc-pV6Z.AutoAuxC.orca,Ar,cc-pV6Z,library,recipes/Ar/ccECP/Ar.cc-pV6Z.AutoAuxC.orca,53,S11 P10 D10 F6 G5 H4 I4 K3,k,a6d5fadfee5772ae
+Ar.cc-pVDZ.AutoAuxC.orca,Ar,cc-pVDZ,library,recipes/Ar/ccECP/Ar.cc-pVDZ.AutoAuxC.orca,30,S11 P9 D8 F2,f,32e6b6a545f6adff
+Ar.cc-pVQZ.AutoAuxC.orca,Ar,cc-pVQZ,library,recipes/Ar/ccECP/Ar.cc-pVQZ.AutoAuxC.orca,43,S11 P10 D10 F5 G4 H3,h,dca95d15bc8ac7bc
+Ar.cc-pVTZ.AutoAuxC.orca,Ar,cc-pVTZ,library,recipes/Ar/ccECP/Ar.cc-pVTZ.AutoAuxC.orca,37,S11 P10 D9 F4 G3,g,eba203b10a76335c
+As.aug-cc-pV5Z.AutoAuxC.orca,As,aug-cc-pV5Z,library,recipes/As/ccECP/As.aug-cc-pV5Z.AutoAuxC.orca,61,S13 P12 D11 F6 G6 H5 I4 K4,k,beb9541f1f8992b8
+As.aug-cc-pV6Z.AutoAuxC.orca,As,aug-cc-pV6Z,library,recipes/As/ccECP/As.aug-cc-pV6Z.AutoAuxC.orca,62,S14 P12 D11 F6 G6 H5 I4 K4,k,98a396e3eeca0866
+As.aug-cc-pVDZ.AutoAuxC.orca,As,aug-cc-pVDZ,library,recipes/As/ccECP/As.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,6cb690e9ef43f1ab
+As.aug-cc-pVQZ.AutoAuxC.orca,As,aug-cc-pVQZ,library,recipes/As/ccECP/As.aug-cc-pVQZ.AutoAuxC.orca,53,S13 P11 D10 F6 G5 H4 I4,i,cf4d79b033a3a124
+As.aug-cc-pVTZ.AutoAuxC.orca,As,aug-cc-pVTZ,library,recipes/As/ccECP/As.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P9 D8 F4 G4 H3,h,2e854ba6e2c8a124
+As.cc-pV5Z.AutoAuxC.orca,As,cc-pV5Z,library,recipes/As/ccECP/As.cc-pV5Z.AutoAuxC.orca,53,S12 P11 D10 F5 G5 H4 I3 K3,k,0a9bcf91f66c76ac
+As.cc-pV6Z.AutoAuxC.orca,As,cc-pV6Z,library,recipes/As/ccECP/As.cc-pV6Z.AutoAuxC.orca,54,S13 P11 D10 F5 G5 H4 I3 K3,k,f6f4d6a67b1e66f0
+As.cc-pVDZ.AutoAuxC.orca,As,cc-pVDZ,library,recipes/As/ccECP/As.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,db9b1aee1b5aedc2
+As.cc-pVQZ.AutoAuxC.orca,As,cc-pVQZ,library,recipes/As/ccECP/As.cc-pVQZ.AutoAuxC.orca,47,S12 P10 D10 F5 G4 H3 I3,i,2f71646dd80d85c4
+As.cc-pVTZ.AutoAuxC.orca,As,cc-pVTZ,library,recipes/As/ccECP/As.cc-pVTZ.AutoAuxC.orca,36,S11 P9 D8 F3 G3 H2,h,4b415bdcc299b2f6
+Au.aug-cc-pCV5Z.AutoAuxC.orca,Au,aug-cc-pCV5Z,library,recipes/Au/ccECP/Au.aug-cc-pCV5Z.AutoAuxC.orca,90,S17 P15 D14 F14 G13 H7 I5 K5,k,cc985597ae6972ec
+Au.aug-cc-pCVDZ.AutoAuxC.orca,Au,aug-cc-pCVDZ,library,recipes/Au/ccECP/Au.aug-cc-pCVDZ.AutoAuxC.orca,69,S15 P14 D12 F12 G12 H4,h,613f6acaa3e0486b
+Au.aug-cc-pCVQZ.AutoAuxC.orca,Au,aug-cc-pCVQZ,library,recipes/Au/ccECP/Au.aug-cc-pCVQZ.AutoAuxC.orca,83,S16 P14 D13 F13 G13 H6 I4 K4,k,726d3a044d3a52c7
+Au.aug-cc-pCVTZ.AutoAuxC.orca,Au,aug-cc-pCVTZ,library,recipes/Au/ccECP/Au.aug-cc-pCVTZ.AutoAuxC.orca,79,S16 P14 D13 F13 G13 H6 I4,i,e05131c369adb40b
+Au.aug-cc-pV5Z.AutoAuxC.orca,Au,aug-cc-pV5Z,library,recipes/Au/ccECP/Au.aug-cc-pV5Z.AutoAuxC.orca,82,S16 P14 D13 F13 G12 H6 I4 K4,k,81e3ea2bda9f63a7
+Au.aug-cc-pVDZ.AutoAuxC.orca,Au,aug-cc-pVDZ,library,recipes/Au/ccECP/Au.aug-cc-pVDZ.AutoAuxC.orca,61,S14 P12 D11 F11 G10 H3,h,97507026a191b060
+Au.aug-cc-pVQZ.AutoAuxC.orca,Au,aug-cc-pVQZ,library,recipes/Au/ccECP/Au.aug-cc-pVQZ.AutoAuxC.orca,76,S15 P13 D12 F12 G12 H5 I4 K3,k,30f65ee5a79c6b62
+Au.aug-cc-pVTZ.AutoAuxC.orca,Au,aug-cc-pVTZ,library,recipes/Au/ccECP/Au.aug-cc-pVTZ.AutoAuxC.orca,71,S15 P13 D12 F12 G11 H5 I3,i,35a04fbcf1569857
+Au.cc-pCV5Z.AutoAuxC.orca,Au,cc-pCV5Z,library,recipes/Au/ccECP/Au.cc-pCV5Z.AutoAuxC.orca,81,S16 P14 D13 F12 G12 H6 I4 K4,k,2ac0c60346e52b36
+Au.cc-pCVDZ.AutoAuxC.orca,Au,cc-pCVDZ,library,recipes/Au/ccECP/Au.cc-pCVDZ.AutoAuxC.orca,61,S14 P12 D11 F11 G10 H3,h,e7373370a74343bd
+Au.cc-pCVQZ.AutoAuxC.orca,Au,cc-pCVQZ,library,recipes/Au/ccECP/Au.cc-pCVQZ.AutoAuxC.orca,75,S15 P13 D12 F12 G11 H5 I4 K3,k,c8ea0685118e6e95
+Au.cc-pCVTZ.AutoAuxC.orca,Au,cc-pCVTZ,library,recipes/Au/ccECP/Au.cc-pCVTZ.AutoAuxC.orca,69,S15 P13 D12 F11 G11 H4 I3,i,e0e84bf48c55c64c
+Au.cc-pV5Z.AutoAuxC.orca,Au,cc-pV5Z,library,recipes/Au/ccECP/Au.cc-pV5Z.AutoAuxC.orca,71,S14 P12 D11 F11 G11 H5 I4 K3,k,f771511d84ebe610
+Au.cc-pVDZ.AutoAuxC.orca,Au,cc-pVDZ,library,recipes/Au/ccECP/Au.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,8fc4b1cae1c99bae
+Au.cc-pVQZ.AutoAuxC.orca,Au,cc-pVQZ,library,recipes/Au/ccECP/Au.cc-pVQZ.AutoAuxC.orca,67,S14 P12 D11 F10 G10 H4 I3 K3,k,19b076ade6629edc
+Au.cc-pVTZ.AutoAuxC.orca,Au,cc-pVTZ,library,recipes/Au/ccECP/Au.cc-pVTZ.AutoAuxC.orca,60,S13 P11 D10 F10 G10 H4 I2,i,67beb2f32f5d0e6e
+B.aug-cc-pV5Z.AutoAuxC.orca,B,aug-cc-pV5Z,library,recipes/B/ccECP/B.aug-cc-pV5Z.AutoAuxC.orca,53,S12 P11 D10 F6 G5 H5 I4,i,6291efb996b02c88
+B.aug-cc-pV6Z.AutoAuxC.orca,B,aug-cc-pV6Z,library,recipes/B/ccECP/B.aug-cc-pV6Z.AutoAuxC.orca,64,S12 P12 D11 F7 G7 H6 I5 K4,k,d505074da2b034a0
+B.aug-cc-pVDZ.AutoAuxC.orca,B,aug-cc-pVDZ,library,recipes/B/ccECP/B.aug-cc-pVDZ.AutoAuxC.orca,31,S11 P9 D8 F3,f,3d468656d112718c
+B.aug-cc-pVQZ.AutoAuxC.orca,B,aug-cc-pVQZ,library,recipes/B/ccECP/B.aug-cc-pVQZ.AutoAuxC.orca,48,S12 P11 D10 F6 G5 H4,h,c51127f7d183bd65
+B.aug-cc-pVTZ.AutoAuxC.orca,B,aug-cc-pVTZ,library,recipes/B/ccECP/B.aug-cc-pVTZ.AutoAuxC.orca,40,S12 P10 D9 F5 G4,g,f9a7d274b189d883
+B.cc-pV5Z.AutoAuxC.orca,B,cc-pV5Z,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,48,S12 P11 D10 F5 G4 H3 I3,i,8613f98111d098fb
+B.cc-pV6Z.AutoAuxC.orca,B,cc-pV6Z,library,recipes/B/ccECP/B.cc-pV6Z.AutoAuxC.orca,58,S12 P11 D11 F6 G6 H5 I4 K3,k,87124b17f5854d6e
+B.cc-pVDZ.AutoAuxC.orca,B,cc-pVDZ,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,30,S11 P9 D8 F2,f,1bea3e903417bcbf
+B.cc-pVQZ.AutoAuxC.orca,B,cc-pVQZ,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,45,S12 P11 D10 F5 G4 H3,h,170761b31100b9e8
+B.cc-pVTZ.AutoAuxC.orca,B,cc-pVTZ,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,38,S12 P10 D9 F4 G3,g,afa8713602dc3dcd
+Ba.aug-cc-pCV5Z.AutoAuxC.orca,Ba,aug-cc-pCV5Z,library,recipes/Ba/ccECP/Ba.aug-cc-pCV5Z.AutoAuxC.orca,93,S19 P18 D16 F10 G9 H8 I7 K6,k,cf53e689192626a3
+Ba.aug-cc-pCVDZ.AutoAuxC.orca,Ba,aug-cc-pCVDZ,library,recipes/Ba/ccECP/Ba.aug-cc-pCVDZ.AutoAuxC.orca,50,S15 P13 D11 F6 G5,g,fdbfba3ca17e6fba
+Ba.aug-cc-pCVQZ.AutoAuxC.orca,Ba,aug-cc-pCVQZ,library,recipes/Ba/ccECP/Ba.aug-cc-pCVQZ.AutoAuxC.orca,73,S18 P15 D13 F8 G7 H7 I5,i,a2d41ac9144c0e12
+Ba.aug-cc-pCVTZ.AutoAuxC.orca,Ba,aug-cc-pCVTZ,library,recipes/Ba/ccECP/Ba.aug-cc-pCVTZ.AutoAuxC.orca,65,S17 P15 D13 F8 G7 H5,h,cb95dd866148bb3c
+Ba.aug-cc-pV5Z.AutoAuxC.orca,Ba,aug-cc-pV5Z,library,recipes/Ba/ccECP/Ba.aug-cc-pV5Z.AutoAuxC.orca,71,S16 P14 D13 F7 G7 H5 I5 K4,k,7e409d2e58278d2d
+Ba.aug-cc-pVDZ.AutoAuxC.orca,Ba,aug-cc-pVDZ,library,recipes/Ba/ccECP/Ba.aug-cc-pVDZ.AutoAuxC.orca,40,S13 P11 D9 F4 G3,g,d760a7a129b54ece
+Ba.aug-cc-pVQZ.AutoAuxC.orca,Ba,aug-cc-pVQZ,library,recipes/Ba/ccECP/Ba.aug-cc-pVQZ.AutoAuxC.orca,57,S15 P12 D10 F6 G5 H5 I4,i,bcff7366199fc5e7
+Ba.aug-cc-pVTZ.AutoAuxC.orca,Ba,aug-cc-pVTZ,library,recipes/Ba/ccECP/Ba.aug-cc-pVTZ.AutoAuxC.orca,47,S13 P11 D9 F5 G5 H4,h,0637e777d7c71930
+Ba.cc-pCV5Z.AutoAuxC.orca,Ba,cc-pCV5Z,library,recipes/Ba/ccECP/Ba.cc-pCV5Z.AutoAuxC.orca,83,S17 P16 D15 F9 G8 H7 I6 K5,k,ea2f6121dc75116f
+Ba.cc-pCVDZ.AutoAuxC.orca,Ba,cc-pCVDZ,library,recipes/Ba/ccECP/Ba.cc-pCVDZ.AutoAuxC.orca,48,S15 P13 D11 F5 G4,g,c590a7a93776a1d8
+Ba.cc-pCVQZ.AutoAuxC.orca,Ba,cc-pCVQZ,library,recipes/Ba/ccECP/Ba.cc-pCVQZ.AutoAuxC.orca,66,S16 P14 D13 F7 G6 H6 I4,i,7c078d24ab15da3f
+Ba.cc-pCVTZ.AutoAuxC.orca,Ba,cc-pCVTZ,library,recipes/Ba/ccECP/Ba.cc-pCVTZ.AutoAuxC.orca,60,S16 P14 D13 F7 G6 H4,h,bc20db39a7a89981
+Ba.cc-pV5Z.AutoAuxC.orca,Ba,cc-pV5Z,library,recipes/Ba/ccECP/Ba.cc-pV5Z.AutoAuxC.orca,59,S14 P12 D11 F6 G5 H4 I4 K3,k,1f5d2417a5c3b20a
+Ba.cc-pVDZ.AutoAuxC.orca,Ba,cc-pVDZ,library,recipes/Ba/ccECP/Ba.cc-pVDZ.AutoAuxC.orca,35,S12 P10 D9 F3 G1,g,1cffc91346e3c0c2
+Ba.cc-pVQZ.AutoAuxC.orca,Ba,cc-pVQZ,library,recipes/Ba/ccECP/Ba.cc-pVQZ.AutoAuxC.orca,50,S13 P11 D10 F5 G4 H4 I3,i,23ee2a6146b5c9ee
+Ba.cc-pVTZ.AutoAuxC.orca,Ba,cc-pVTZ,library,recipes/Ba/ccECP/Ba.cc-pVTZ.AutoAuxC.orca,41,S12 P10 D9 F4 G4 H2,h,626078baaedd46e8
+Be.aug-cc-pV5Z.AutoAuxC.orca,Be,aug-cc-pV5Z,library,recipes/Be/ccECP/Be.aug-cc-pV5Z.AutoAuxC.orca,53,S16 P9 D7 F6 G6 H5 I4,i,0554de32d783d9be
+Be.aug-cc-pV6Z.AutoAuxC.orca,Be,aug-cc-pV6Z,library,recipes/Be/ccECP/Be.aug-cc-pV6Z.AutoAuxC.orca,57,S14 P9 D7 F7 G6 H6 I4 K4,k,56e8a55d8b134fd9
+Be.aug-cc-pVDZ.AutoAuxC.orca,Be,aug-cc-pVDZ,library,recipes/Be/ccECP/Be.aug-cc-pVDZ.AutoAuxC.orca,22,S10 P5 D4 F3,f,e5d4979c8eef35de
+Be.aug-cc-pVQZ.AutoAuxC.orca,Be,aug-cc-pVQZ,library,recipes/Be/ccECP/Be.aug-cc-pVQZ.AutoAuxC.orca,44,S13 P8 D7 F6 G5 H5,h,621d98f38bf5ae1b
+Be.aug-cc-pVTZ.AutoAuxC.orca,Be,aug-cc-pVTZ,library,recipes/Be/ccECP/Be.aug-cc-pVTZ.AutoAuxC.orca,36,S13 P7 D6 F5 G5,g,8e95290b6fff3624
+Be.cc-pV5Z.AutoAuxC.orca,Be,cc-pV5Z,library,recipes/Be/ccECP/Be.cc-pV5Z.AutoAuxC.orca,48,S14 P9 D7 F6 G5 H4 I3,i,c8f635d574ff03b7
+Be.cc-pV6Z.AutoAuxC.orca,Be,cc-pV6Z,library,recipes/Be/ccECP/Be.cc-pV6Z.AutoAuxC.orca,50,S12 P8 D7 F6 G5 H5 I4 K3,k,4db0914b4c25cb79
+Be.cc-pVDZ.AutoAuxC.orca,Be,cc-pVDZ,library,recipes/Be/ccECP/Be.cc-pVDZ.AutoAuxC.orca,21,S10 P5 D4 F2,f,37a5e64771179b1a
+Be.cc-pVQZ.AutoAuxC.orca,Be,cc-pVQZ,library,recipes/Be/ccECP/Be.cc-pVQZ.AutoAuxC.orca,41,S12 P8 D7 F5 G5 H4,h,2363a9d2a7f15790
+Be.cc-pVTZ.AutoAuxC.orca,Be,cc-pVTZ,library,recipes/Be/ccECP/Be.cc-pVTZ.AutoAuxC.orca,32,S12 P7 D6 F4 G3,g,d885b8f7c8fea35b
+Bi.aug-cc-pV5Z.AutoAuxC.orca,Bi,aug-cc-pV5Z,library,recipes/Bi/ccECP/Bi.aug-cc-pV5Z.AutoAuxC.orca,57,S13 P11 D10 F6 G5 H5 I4 K3,k,54f6a6ee02fdbe42
+Bi.aug-cc-pV6Z.AutoAuxC.orca,Bi,aug-cc-pV6Z,library,recipes/Bi/ccECP/Bi.aug-cc-pV6Z.AutoAuxC.orca,68,S15 P13 D12 F7 G6 H6 I5 K4,k,a749757afdf1c525
+Bi.aug-cc-pVDZ.AutoAuxC.orca,Bi,aug-cc-pVDZ,library,recipes/Bi/ccECP/Bi.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,1770a5a9fe8c9f35
+Bi.aug-cc-pVQZ.AutoAuxC.orca,Bi,aug-cc-pVQZ,library,recipes/Bi/ccECP/Bi.aug-cc-pVQZ.AutoAuxC.orca,49,S12 P10 D10 F5 G5 H4 I3,i,1856f26cf83e73f4
+Bi.aug-cc-pVTZ.AutoAuxC.orca,Bi,aug-cc-pVTZ,library,recipes/Bi/ccECP/Bi.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P9 D8 F4 G4 H3,h,48b4eb5542c8e973
+Bi.cc-pV5Z.AutoAuxC.orca,Bi,cc-pV5Z,library,recipes/Bi/ccECP/Bi.cc-pV5Z.AutoAuxC.orca,49,S12 P10 D9 F5 G4 H4 I3 K2,k,e8e5f22eb09fee2c
+Bi.cc-pV6Z.AutoAuxC.orca,Bi,cc-pV6Z,library,recipes/Bi/ccECP/Bi.cc-pV6Z.AutoAuxC.orca,57,S13 P11 D10 F6 G5 H5 I4 K3,k,ac8c38f0c0939a7b
+Bi.cc-pVDZ.AutoAuxC.orca,Bi,cc-pVDZ,library,recipes/Bi/ccECP/Bi.cc-pVDZ.AutoAuxC.orca,25,S9 P7 D6 F2 G1,g,b3a8fd111a8906ff
+Bi.cc-pVQZ.AutoAuxC.orca,Bi,cc-pVQZ,library,recipes/Bi/ccECP/Bi.cc-pVQZ.AutoAuxC.orca,41,S11 P9 D8 F4 G4 H3 I2,i,ebda0439d7d059a5
+Bi.cc-pVTZ.AutoAuxC.orca,Bi,cc-pVTZ,library,recipes/Bi/ccECP/Bi.cc-pVTZ.AutoAuxC.orca,32,S10 P8 D7 F3 G2 H2,h,9948f0cfbd57bcf3
+Br.aug-cc-pV5Z.AutoAuxC.orca,Br,aug-cc-pV5Z,library,recipes/Br/ccECP/Br.aug-cc-pV5Z.AutoAuxC.orca,62,S14 P12 D11 F6 G6 H5 I4 K4,k,3aef104321726cc9
+Br.aug-cc-pV6Z.AutoAuxC.orca,Br,aug-cc-pV6Z,library,recipes/Br/ccECP/Br.aug-cc-pV6Z.AutoAuxC.orca,62,S14 P12 D11 F6 G6 H5 I4 K4,k,1e42409788094ed8
+Br.aug-cc-pVDZ.AutoAuxC.orca,Br,aug-cc-pVDZ,library,recipes/Br/ccECP/Br.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,dc7851db5f9881dd
+Br.aug-cc-pVQZ.AutoAuxC.orca,Br,aug-cc-pVQZ,library,recipes/Br/ccECP/Br.aug-cc-pVQZ.AutoAuxC.orca,53,S13 P11 D10 F6 G5 H4 I4,i,b273974a9e49b623
+Br.aug-cc-pVTZ.AutoAuxC.orca,Br,aug-cc-pVTZ,library,recipes/Br/ccECP/Br.aug-cc-pVTZ.AutoAuxC.orca,42,S12 P10 D9 F4 G4 H3,h,33b73ac57bac1e9a
+Br.cc-pV5Z.AutoAuxC.orca,Br,cc-pV5Z,library,recipes/Br/ccECP/Br.cc-pV5Z.AutoAuxC.orca,54,S13 P11 D10 F5 G5 H4 I3 K3,k,6899f7ba35da79b7
+Br.cc-pV6Z.AutoAuxC.orca,Br,cc-pV6Z,library,recipes/Br/ccECP/Br.cc-pV6Z.AutoAuxC.orca,54,S13 P11 D10 F5 G5 H4 I3 K3,k,ddac7dadf07fad00
+Br.cc-pVDZ.AutoAuxC.orca,Br,cc-pVDZ,library,recipes/Br/ccECP/Br.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,9a33f614575b8b0d
+Br.cc-pVQZ.AutoAuxC.orca,Br,cc-pVQZ,library,recipes/Br/ccECP/Br.cc-pVQZ.AutoAuxC.orca,48,S12 P11 D10 F5 G4 H3 I3,i,a217a5ed3362f82f
+Br.cc-pVTZ.AutoAuxC.orca,Br,cc-pVTZ,library,recipes/Br/ccECP/Br.cc-pVTZ.AutoAuxC.orca,36,S11 P9 D8 F3 G3 H2,h,feabc2b9fd4f2dc5
+C.aug-cc-pV5Z.AutoAuxC.orca,C,aug-cc-pV5Z,library,recipes/C/ccECP/C.aug-cc-pV5Z.AutoAuxC.orca,55,S12 P12 D11 F6 G5 H5 I4,i,cabf0f5456f721f6
+C.aug-cc-pV6Z.AutoAuxC.orca,C,aug-cc-pV6Z,library,recipes/C/ccECP/C.aug-cc-pV6Z.AutoAuxC.orca,64,S12 P12 D11 F7 G7 H6 I5 K4,k,86d5b8e74157b617
+C.aug-cc-pVDZ.AutoAuxC.orca,C,aug-cc-pVDZ,library,recipes/C/ccECP/C.aug-cc-pVDZ.AutoAuxC.orca,34,S12 P10 D9 F3,f,51a72960ebbc6e82
+C.aug-cc-pVQZ.AutoAuxC.orca,C,aug-cc-pVQZ,library,recipes/C/ccECP/C.aug-cc-pVQZ.AutoAuxC.orca,50,S12 P12 D11 F6 G5 H4,h,4a6de779431b0b15
+C.aug-cc-pVTZ.AutoAuxC.orca,C,aug-cc-pVTZ,library,recipes/C/ccECP/C.aug-cc-pVTZ.AutoAuxC.orca,42,S12 P11 D10 F5 G4,g,83e9c387b748eb09
+C.cc-pV5Z.AutoAuxC.orca,C,cc-pV5Z,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,50,S12 P12 D11 F5 G4 H3 I3,i,86ef80819b6359bb
+C.cc-pV6Z.AutoAuxC.orca,C,cc-pV6Z,library,recipes/C/ccECP/C.cc-pV6Z.AutoAuxC.orca,59,S12 P12 D11 F6 G6 H5 I4 K3,k,e3c834d3b4779e59
+C.cc-pVDZ.AutoAuxC.orca,C,cc-pVDZ,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,33,S12 P10 D9 F2,f,95ecee8e50a3f984
+C.cc-pVQZ.AutoAuxC.orca,C,cc-pVQZ,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,47,S12 P12 D11 F5 G4 H3,h,cedf3390297229d9
+C.cc-pVTZ.AutoAuxC.orca,C,cc-pVTZ,local,generated with generate_orca_autoauxc.py; the library ships no AutoAuxC for this set,40,S12 P11 D10 F4 G3,g,3d192d6f7a1e1e4a
+Ca.aug-cc-pCV5Z.AutoAuxC.orca,Ca,aug-cc-pCV5Z,library,recipes/Ca/ccECP/Ca.aug-cc-pCV5Z.AutoAuxC.orca,94,S17 P17 D17 F11 G11 H8 I7 K6,k,7079dddfdd7213c7
+Ca.aug-cc-pCV6Z.AutoAuxC.orca,Ca,aug-cc-pCV6Z,library,recipes/Ca/ccECP/Ca.aug-cc-pCV6Z.AutoAuxC.orca,100,S17 P17 D17 F12 G12 H10 I8 K7,k,b7e9ac8f9fbd6bbb
+Ca.aug-cc-pCVDZ.AutoAuxC.orca,Ca,aug-cc-pCVDZ,library,recipes/Ca/ccECP/Ca.aug-cc-pCVDZ.AutoAuxC.orca,59,S16 P14 D13 F8 G8,g,97ae945141ea2624
+Ca.aug-cc-pCVQZ.AutoAuxC.orca,Ca,aug-cc-pCVQZ,library,recipes/Ca/ccECP/Ca.aug-cc-pCVQZ.AutoAuxC.orca,81,S17 P16 D15 F10 G9 H8 I6,i,5c7e2f5983cdc7f9
+Ca.aug-cc-pCVTZ.AutoAuxC.orca,Ca,aug-cc-pCVTZ,library,recipes/Ca/ccECP/Ca.aug-cc-pCVTZ.AutoAuxC.orca,71,S17 P15 D14 F9 G9 H7,h,3ceb9ab54cce2267
+Ca.aug-cc-pV5Z.AutoAuxC.orca,Ca,aug-cc-pV5Z,library,recipes/Ca/ccECP/Ca.aug-cc-pV5Z.AutoAuxC.orca,73,S15 P14 D13 F8 G8 H6 I5 K4,k,eb2c229a3923b5ba
+Ca.aug-cc-pV6Z.AutoAuxC.orca,Ca,aug-cc-pV6Z,library,recipes/Ca/ccECP/Ca.aug-cc-pV6Z.AutoAuxC.orca,79,S16 P14 D13 F9 G9 H7 I6 K5,k,96f2ad59a27104cc
+Ca.aug-cc-pVDZ.AutoAuxC.orca,Ca,aug-cc-pVDZ,library,recipes/Ca/ccECP/Ca.aug-cc-pVDZ.AutoAuxC.orca,52,S15 P13 D12 F7 G5,g,54ec190c5594ba04
+Ca.aug-cc-pVQZ.AutoAuxC.orca,Ca,aug-cc-pVQZ,library,recipes/Ca/ccECP/Ca.aug-cc-pVQZ.AutoAuxC.orca,64,S15 P13 D12 F7 G7 H6 I4,i,0741e2aeb1bcc817
+Ca.aug-cc-pVTZ.AutoAuxC.orca,Ca,aug-cc-pVTZ,library,recipes/Ca/ccECP/Ca.aug-cc-pVTZ.AutoAuxC.orca,58,S15 P13 D12 F7 G7 H4,h,f140c2695c5d32af
+Ca.cc-pCV5Z.AutoAuxC.orca,Ca,cc-pCV5Z,library,recipes/Ca/ccECP/Ca.cc-pCV5Z.AutoAuxC.orca,79,S15 P15 D14 F9 G9 H7 I5 K5,k,f0623ca05411a346
+Ca.cc-pCV6Z.AutoAuxC.orca,Ca,cc-pCV6Z,library,recipes/Ca/ccECP/Ca.cc-pCV6Z.AutoAuxC.orca,87,S15 P15 D15 F10 G10 H9 I7 K6,k,b0695a3667ca623c
+Ca.cc-pCVDZ.AutoAuxC.orca,Ca,cc-pCVDZ,library,recipes/Ca/ccECP/Ca.cc-pCVDZ.AutoAuxC.orca,53,S14 P13 D12 F7 G7,g,5007899f0bd81345
+Ca.cc-pCVQZ.AutoAuxC.orca,Ca,cc-pCVQZ,library,recipes/Ca/ccECP/Ca.cc-pCVQZ.AutoAuxC.orca,69,S15 P14 D13 F8 G8 H6 I5,i,ced76b8bcbf0fe36
+Ca.cc-pCVTZ.AutoAuxC.orca,Ca,cc-pCVTZ,library,recipes/Ca/ccECP/Ca.cc-pCVTZ.AutoAuxC.orca,61,S15 P13 D12 F8 G8 H5,h,dcb4b30218baba96
+Ca.cc-pV5Z.AutoAuxC.orca,Ca,cc-pV5Z,library,recipes/Ca/ccECP/Ca.cc-pV5Z.AutoAuxC.orca,58,S13 P11 D10 F6 G6 H5 I4 K3,k,2c0386c689688bd2
+Ca.cc-pV6Z.AutoAuxC.orca,Ca,cc-pV6Z,library,recipes/Ca/ccECP/Ca.cc-pV6Z.AutoAuxC.orca,65,S14 P12 D11 F7 G7 H6 I4 K4,k,d3ede2c01882e053
+Ca.cc-pVDZ.AutoAuxC.orca,Ca,cc-pVDZ,library,recipes/Ca/ccECP/Ca.cc-pVDZ.AutoAuxC.orca,44,S13 P11 D10 F6 G4,g,a6866d1858e445cd
+Ca.cc-pVQZ.AutoAuxC.orca,Ca,cc-pVQZ,library,recipes/Ca/ccECP/Ca.cc-pVQZ.AutoAuxC.orca,53,S13 P11 D10 F6 G6 H4 I3,i,e40752806986f239
+Ca.cc-pVTZ.AutoAuxC.orca,Ca,cc-pVTZ,library,recipes/Ca/ccECP/Ca.cc-pVTZ.AutoAuxC.orca,48,S13 P11 D10 F6 G6 H2,h,72fd1c299919a111
+Cd.aug-cc-pCV5Z.AutoAuxC.orca,Cd,aug-cc-pCV5Z,library,recipes/Cd/ccECP/Cd.aug-cc-pCV5Z.AutoAuxC.orca,90,S17 P15 D14 F14 G14 H7 I5 K4,k,cf4918c2adf8461c
+Cd.aug-cc-pCVDZ.AutoAuxC.orca,Cd,aug-cc-pCVDZ,library,recipes/Cd/ccECP/Cd.aug-cc-pCVDZ.AutoAuxC.orca,76,S16 P15 D14 F13 G13 H5,h,8a72e4083beb121f
+Cd.aug-cc-pCVQZ.AutoAuxC.orca,Cd,aug-cc-pCVQZ,library,recipes/Cd/ccECP/Cd.aug-cc-pCVQZ.AutoAuxC.orca,89,S18 P15 D14 F14 G14 H6 I4 K4,k,eb5a55fb577ce295
+Cd.aug-cc-pCVTZ.AutoAuxC.orca,Cd,aug-cc-pCVTZ,library,recipes/Cd/ccECP/Cd.aug-cc-pCVTZ.AutoAuxC.orca,83,S17 P15 D14 F14 G14 H5 I4,i,e3d521bd773b1963
+Cd.aug-cc-pV5Z.AutoAuxC.orca,Cd,aug-cc-pV5Z,library,recipes/Cd/ccECP/Cd.aug-cc-pV5Z.AutoAuxC.orca,90,S17 P15 D14 F14 G14 H7 I5 K4,k,cf4918c2adf8461c
+Cd.aug-cc-pVDZ.AutoAuxC.orca,Cd,aug-cc-pVDZ,library,recipes/Cd/ccECP/Cd.aug-cc-pVDZ.AutoAuxC.orca,66,S15 P13 D12 F12 G11 H3,h,1d32ec49df0ef128
+Cd.aug-cc-pVQZ.AutoAuxC.orca,Cd,aug-cc-pVQZ,library,recipes/Cd/ccECP/Cd.aug-cc-pVQZ.AutoAuxC.orca,85,S16 P15 D14 F13 G13 H6 I4 K4,k,5e0e3799efdc0bca
+Cd.aug-cc-pVTZ.AutoAuxC.orca,Cd,aug-cc-pVTZ,library,recipes/Cd/ccECP/Cd.aug-cc-pVTZ.AutoAuxC.orca,76,S16 P14 D13 F13 G12 H5 I3,i,55266d9931f428a2
+Cd.cc-pCV5Z.AutoAuxC.orca,Cd,cc-pCV5Z,library,recipes/Cd/ccECP/Cd.cc-pCV5Z.AutoAuxC.orca,81,S16 P14 D13 F13 G12 H5 I4 K4,k,7ab3cb6d3ffb8990
+Cd.cc-pCVDZ.AutoAuxC.orca,Cd,cc-pCVDZ,library,recipes/Cd/ccECP/Cd.cc-pCVDZ.AutoAuxC.orca,66,S15 P13 D12 F12 G11 H3,h,7e3b09eb973ff354
+Cd.cc-pCVQZ.AutoAuxC.orca,Cd,cc-pCVQZ,library,recipes/Cd/ccECP/Cd.cc-pCVQZ.AutoAuxC.orca,79,S16 P14 D13 F13 G12 H5 I3 K3,k,b843579e2bdc5071
+Cd.cc-pCVTZ.AutoAuxC.orca,Cd,cc-pCVTZ,library,recipes/Cd/ccECP/Cd.cc-pCVTZ.AutoAuxC.orca,74,S16 P14 D13 F12 G12 H4 I3,i,be279f0f523447f6
+Cd.cc-pV5Z.AutoAuxC.orca,Cd,cc-pV5Z,library,recipes/Cd/ccECP/Cd.cc-pV5Z.AutoAuxC.orca,80,S16 P14 D13 F13 G12 H5 I4 K3,k,393e377835d4738e
+Cd.cc-pVDZ.AutoAuxC.orca,Cd,cc-pVDZ,library,recipes/Cd/ccECP/Cd.cc-pVDZ.AutoAuxC.orca,56,S13 P11 D10 F10 G10 H2,h,3ff6747cb7537b2c
+Cd.cc-pVQZ.AutoAuxC.orca,Cd,cc-pVQZ,library,recipes/Cd/ccECP/Cd.cc-pVQZ.AutoAuxC.orca,74,S15 P13 D12 F12 G11 H5 I3 K3,k,6a8ac5e66b6d9205
+Cd.cc-pVTZ.AutoAuxC.orca,Cd,cc-pVTZ,library,recipes/Cd/ccECP/Cd.cc-pVTZ.AutoAuxC.orca,66,S14 P12 D11 F11 G11 H4 I3,i,d9b2dd47a178e8e6
+Ce.aug-cc-pCVDZ.AutoAuxC.orca,Ce,aug-cc-pCVDZ,library,recipes/Ce/ccECP/Ce.aug-cc-pCVDZ.AutoAuxC.orca,85,S15 P13 D12 F12 G12 H11 I10,i,0d293941a562a14a
+Ce.aug-cc-pCVQZ.AutoAuxC.orca,Ce,aug-cc-pCVQZ,library,recipes/Ce/ccECP/Ce.aug-cc-pCVQZ.AutoAuxC.orca,90,S15 P13 D12 F12 G12 H11 I10 K5,k,9c3266ba11781eb3
+Ce.aug-cc-pCVTZ.AutoAuxC.orca,Ce,aug-cc-pCVTZ,library,recipes/Ce/ccECP/Ce.aug-cc-pCVTZ.AutoAuxC.orca,90,S15 P13 D12 F12 G12 H11 I10 K5,k,cf8fc7f1c6dff826
+Ce.aug-cc-pVDZ.AutoAuxC.orca,Ce,aug-cc-pVDZ,library,recipes/Ce/ccECP/Ce.aug-cc-pVDZ.AutoAuxC.orca,85,S15 P13 D12 F12 G12 H11 I10,i,0d293941a562a14a
+Ce.aug-cc-pVQZ.AutoAuxC.orca,Ce,aug-cc-pVQZ,library,recipes/Ce/ccECP/Ce.aug-cc-pVQZ.AutoAuxC.orca,90,S15 P13 D12 F12 G12 H11 I10 K5,k,9c3266ba11781eb3
+Ce.aug-cc-pVTZ.AutoAuxC.orca,Ce,aug-cc-pVTZ,library,recipes/Ce/ccECP/Ce.aug-cc-pVTZ.AutoAuxC.orca,90,S15 P13 D12 F12 G12 H11 I10 K5,k,cf8fc7f1c6dff826
+Ce.cc-pCVDZ.AutoAuxC.orca,Ce,cc-pCVDZ,library,recipes/Ce/ccECP/Ce.cc-pCVDZ.AutoAuxC.orca,78,S14 P12 D11 F11 G11 H10 I9,i,9c01a9b246bdeda4
+Ce.cc-pCVQZ.AutoAuxC.orca,Ce,cc-pCVQZ,library,recipes/Ce/ccECP/Ce.cc-pCVQZ.AutoAuxC.orca,82,S14 P12 D11 F11 G11 H10 I9 K4,k,091e008ac69100bc
+Ce.cc-pCVTZ.AutoAuxC.orca,Ce,cc-pCVTZ,library,recipes/Ce/ccECP/Ce.cc-pCVTZ.AutoAuxC.orca,82,S14 P12 D11 F11 G11 H10 I9 K4,k,d1ca714162ea971b
+Ce.cc-pVDZ.AutoAuxC.orca,Ce,cc-pVDZ,library,recipes/Ce/ccECP/Ce.cc-pVDZ.AutoAuxC.orca,78,S14 P12 D11 F11 G11 H10 I9,i,9c01a9b246bdeda4
+Ce.cc-pVQZ.AutoAuxC.orca,Ce,cc-pVQZ,library,recipes/Ce/ccECP/Ce.cc-pVQZ.AutoAuxC.orca,82,S14 P12 D11 F11 G11 H10 I9 K4,k,091e008ac69100bc
+Ce.cc-pVTZ.AutoAuxC.orca,Ce,cc-pVTZ,library,recipes/Ce/ccECP/Ce.cc-pVTZ.AutoAuxC.orca,82,S14 P12 D11 F11 G11 H10 I9 K4,k,d1ca714162ea971b
+Cl.aug-cc-pV5Z.AutoAuxC.orca,Cl,aug-cc-pV5Z,library,recipes/Cl/ccECP/Cl.aug-cc-pV5Z.AutoAuxC.orca,52,S11 P10 D10 F6 G6 H5 I4,i,05a99e82414035ad
+Cl.aug-cc-pV6Z.AutoAuxC.orca,Cl,aug-cc-pV6Z,library,recipes/Cl/ccECP/Cl.aug-cc-pV6Z.AutoAuxC.orca,60,S12 P11 D11 F7 G6 H5 I4 K4,k,30317666a92a29b5
+Cl.aug-cc-pVDZ.AutoAuxC.orca,Cl,aug-cc-pVDZ,library,recipes/Cl/ccECP/Cl.aug-cc-pVDZ.AutoAuxC.orca,31,S11 P9 D8 F3,f,eff7b88b15866345
+Cl.aug-cc-pVQZ.AutoAuxC.orca,Cl,aug-cc-pVQZ,library,recipes/Cl/ccECP/Cl.aug-cc-pVQZ.AutoAuxC.orca,46,S11 P10 D10 F6 G5 H4,h,68850f30e8e9ea91
+Cl.aug-cc-pVTZ.AutoAuxC.orca,Cl,aug-cc-pVTZ,library,recipes/Cl/ccECP/Cl.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P10 D9 F5 G4,g,378fcd58357b2f1d
+Cl.cc-pV5Z.AutoAuxC.orca,Cl,cc-pV5Z,library,recipes/Cl/ccECP/Cl.cc-pV5Z.AutoAuxC.orca,48,S11 P10 D10 F5 G5 H4 I3,i,af696937ec9e86fc
+Cl.cc-pV6Z.AutoAuxC.orca,Cl,cc-pV6Z,library,recipes/Cl/ccECP/Cl.cc-pV6Z.AutoAuxC.orca,55,S11 P10 D10 F6 G6 H5 I4 K3,k,26b36513de5a0844
+Cl.cc-pVDZ.AutoAuxC.orca,Cl,cc-pVDZ,library,recipes/Cl/ccECP/Cl.cc-pVDZ.AutoAuxC.orca,30,S11 P9 D8 F2,f,ddca80cbda39fcb2
+Cl.cc-pVQZ.AutoAuxC.orca,Cl,cc-pVQZ,library,recipes/Cl/ccECP/Cl.cc-pVQZ.AutoAuxC.orca,43,S11 P10 D10 F5 G4 H3,h,82fe0f6d27794ed6
+Cl.cc-pVTZ.AutoAuxC.orca,Cl,cc-pVTZ,library,recipes/Cl/ccECP/Cl.cc-pVTZ.AutoAuxC.orca,37,S11 P10 D9 F4 G3,g,343a124a1d7508e0
+Co.aug-cc-pCV5Z.AutoAuxC.orca,Co,aug-cc-pCV5Z,library,recipes/Co/ccECP/Co.aug-cc-pCV5Z.AutoAuxC.orca,92,S18 P16 D14 F14 G13 H7 I5 K5,k,75de7940ae6e7071
+Co.aug-cc-pCVDZ.AutoAuxC.orca,Co,aug-cc-pCVDZ,library,recipes/Co/ccECP/Co.aug-cc-pCVDZ.AutoAuxC.orca,76,S17 P15 D14 F13 G12 H5,h,c03bbf20fb377efd
+Co.aug-cc-pCVQZ.AutoAuxC.orca,Co,aug-cc-pCVQZ,library,recipes/Co/ccECP/Co.aug-cc-pCVQZ.AutoAuxC.orca,88,S18 P15 D14 F13 G12 H7 I5 K4,k,db80208ae0b02beb
+Co.aug-cc-pCVTZ.AutoAuxC.orca,Co,aug-cc-pCVTZ,library,recipes/Co/ccECP/Co.aug-cc-pCVTZ.AutoAuxC.orca,84,S18 P15 D14 F13 G13 H6 I5,i,77f2ec81f0b31b3e
+Co.aug-cc-pV5Z.AutoAuxC.orca,Co,aug-cc-pV5Z,library,recipes/Co/ccECP/Co.aug-cc-pV5Z.AutoAuxC.orca,92,S18 P16 D14 F14 G13 H7 I5 K5,k,75de7940ae6e7071
+Co.aug-cc-pVDZ.AutoAuxC.orca,Co,aug-cc-pVDZ,library,recipes/Co/ccECP/Co.aug-cc-pVDZ.AutoAuxC.orca,65,S15 P13 D12 F11 G10 H4,h,19e000cbb8f47bed
+Co.aug-cc-pVQZ.AutoAuxC.orca,Co,aug-cc-pVQZ,library,recipes/Co/ccECP/Co.aug-cc-pVQZ.AutoAuxC.orca,86,S17 P15 D14 F13 G12 H6 I5 K4,k,5b169e193b7ee3a1
+Co.aug-cc-pVTZ.AutoAuxC.orca,Co,aug-cc-pVTZ,library,recipes/Co/ccECP/Co.aug-cc-pVTZ.AutoAuxC.orca,75,S16 P14 D13 F12 G11 H5 I4,i,db7304afe3600056
+Co.cc-pCV5Z.AutoAuxC.orca,Co,cc-pCV5Z,library,recipes/Co/ccECP/Co.cc-pCV5Z.AutoAuxC.orca,81,S16 P14 D13 F12 G12 H6 I4 K4,k,77b8c62447d54102
+Co.cc-pCVDZ.AutoAuxC.orca,Co,cc-pCVDZ,library,recipes/Co/ccECP/Co.cc-pCVDZ.AutoAuxC.orca,69,S16 P14 D12 F12 G11 H4,h,cda6228f2f68fbd5
+Co.cc-pCVQZ.AutoAuxC.orca,Co,cc-pCVQZ,library,recipes/Co/ccECP/Co.cc-pCVQZ.AutoAuxC.orca,78,S16 P14 D13 F12 G11 H5 I4 K3,k,7e725f6516fea75b
+Co.cc-pCVTZ.AutoAuxC.orca,Co,cc-pCVTZ,library,recipes/Co/ccECP/Co.cc-pCVTZ.AutoAuxC.orca,74,S16 P14 D13 F12 G11 H5 I3,i,d0a1cab1f700bf28
+Co.cc-pV5Z.AutoAuxC.orca,Co,cc-pV5Z,library,recipes/Co/ccECP/Co.cc-pV5Z.AutoAuxC.orca,81,S16 P14 D13 F12 G12 H6 I4 K4,k,77b8c62447d54102
+Co.cc-pVDZ.AutoAuxC.orca,Co,cc-pVDZ,library,recipes/Co/ccECP/Co.cc-pVDZ.AutoAuxC.orca,58,S14 P12 D11 F10 G9 H2,h,a41010b2ea94e5c0
+Co.cc-pVQZ.AutoAuxC.orca,Co,cc-pVQZ,library,recipes/Co/ccECP/Co.cc-pVQZ.AutoAuxC.orca,77,S16 P14 D12 F12 G11 H5 I4 K3,k,4a05011b86926c26
+Co.cc-pVTZ.AutoAuxC.orca,Co,cc-pVTZ,library,recipes/Co/ccECP/Co.cc-pVTZ.AutoAuxC.orca,68,S15 P13 D12 F11 G10 H4 I3,i,1f945d5fb9373c16
+Cr.aug-cc-pCV5Z.AutoAuxC.orca,Cr,aug-cc-pCV5Z,library,recipes/Cr/ccECP/Cr.aug-cc-pCV5Z.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,95aa6e05fa9a0f42
+Cr.aug-cc-pCVDZ.AutoAuxC.orca,Cr,aug-cc-pCVDZ,library,recipes/Cr/ccECP/Cr.aug-cc-pCVDZ.AutoAuxC.orca,74,S17 P14 D13 F13 G12 H5,h,8a5c76ac766658c4
+Cr.aug-cc-pCVQZ.AutoAuxC.orca,Cr,aug-cc-pCVQZ,library,recipes/Cr/ccECP/Cr.aug-cc-pCVQZ.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,f1ab07cffa2595e0
+Cr.aug-cc-pCVTZ.AutoAuxC.orca,Cr,aug-cc-pCVTZ,library,recipes/Cr/ccECP/Cr.aug-cc-pCVTZ.AutoAuxC.orca,84,S17 P15 D14 F13 G13 H7 I5,i,7011bdd292e099e2
+Cr.aug-cc-pV5Z.AutoAuxC.orca,Cr,aug-cc-pV5Z,library,recipes/Cr/ccECP/Cr.aug-cc-pV5Z.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,95aa6e05fa9a0f42
+Cr.aug-cc-pVDZ.AutoAuxC.orca,Cr,aug-cc-pVDZ,library,recipes/Cr/ccECP/Cr.aug-cc-pVDZ.AutoAuxC.orca,63,S15 P12 D11 F11 G10 H4,h,91f689f0f4955084
+Cr.aug-cc-pVQZ.AutoAuxC.orca,Cr,aug-cc-pVQZ,library,recipes/Cr/ccECP/Cr.aug-cc-pVQZ.AutoAuxC.orca,84,S17 P14 D13 F13 G12 H6 I5 K4,k,1a2aca98d420ef87
+Cr.aug-cc-pVTZ.AutoAuxC.orca,Cr,aug-cc-pVTZ,library,recipes/Cr/ccECP/Cr.aug-cc-pVTZ.AutoAuxC.orca,74,S16 P13 D12 F12 G11 H6 I4,i,55cf97adfc654720
+Cr.cc-pCV5Z.AutoAuxC.orca,Cr,cc-pCV5Z,library,recipes/Cr/ccECP/Cr.cc-pCV5Z.AutoAuxC.orca,81,S16 P14 D13 F12 G12 H6 I4 K4,k,cac033961f146fc4
+Cr.cc-pCVDZ.AutoAuxC.orca,Cr,cc-pCVDZ,library,recipes/Cr/ccECP/Cr.cc-pCVDZ.AutoAuxC.orca,66,S15 P13 D12 F11 G11 H4,h,f0f75aa17415bdb3
+Cr.cc-pCVQZ.AutoAuxC.orca,Cr,cc-pCVQZ,library,recipes/Cr/ccECP/Cr.cc-pCVQZ.AutoAuxC.orca,78,S16 P14 D12 F12 G11 H5 I4 K4,k,afa1715d35b611b2
+Cr.cc-pCVTZ.AutoAuxC.orca,Cr,cc-pCVTZ,library,recipes/Cr/ccECP/Cr.cc-pCVTZ.AutoAuxC.orca,74,S16 P14 D12 F12 G11 H5 I4,i,955492128b42435b
+Cr.cc-pV5Z.AutoAuxC.orca,Cr,cc-pV5Z,library,recipes/Cr/ccECP/Cr.cc-pV5Z.AutoAuxC.orca,80,S16 P14 D12 F12 G12 H6 I4 K4,k,f3eb5248066d83ee
+Cr.cc-pVDZ.AutoAuxC.orca,Cr,cc-pVDZ,library,recipes/Cr/ccECP/Cr.cc-pVDZ.AutoAuxC.orca,54,S13 P11 D10 F9 G9 H2,h,35f6b2ff9cfb23d8
+Cr.cc-pVQZ.AutoAuxC.orca,Cr,cc-pVQZ,library,recipes/Cr/ccECP/Cr.cc-pVQZ.AutoAuxC.orca,74,S15 P13 D12 F11 G11 H5 I4 K3,k,68937dde1e04cbc1
+Cr.cc-pVTZ.AutoAuxC.orca,Cr,cc-pVTZ,library,recipes/Cr/ccECP/Cr.cc-pVTZ.AutoAuxC.orca,65,S14 P12 D11 F11 G10 H4 I3,i,3eca0285215a0eb0
+Cs.aug-cc-pCV5Z.AutoAuxC.orca,Cs,aug-cc-pCV5Z,library,recipes/Cs/ccECP/Cs.aug-cc-pCV5Z.AutoAuxC.orca,81,S17 P15 D14 F9 G9 H7 I5 K5,k,9044b8c606ca0eb9
+Cs.aug-cc-pCVDZ.AutoAuxC.orca,Cs,aug-cc-pCVDZ,library,recipes/Cs/ccECP/Cs.aug-cc-pCVDZ.AutoAuxC.orca,46,S15 P13 D11 F4 G3,g,306bb305a3998939
+Cs.aug-cc-pCVQZ.AutoAuxC.orca,Cs,aug-cc-pCVQZ,library,recipes/Cs/ccECP/Cs.aug-cc-pCVQZ.AutoAuxC.orca,70,S18 P15 D13 F8 G7 H5 I4,i,944d9c44098ff650
+Cs.aug-cc-pCVTZ.AutoAuxC.orca,Cs,aug-cc-pCVTZ,library,recipes/Cs/ccECP/Cs.aug-cc-pCVTZ.AutoAuxC.orca,60,S17 P14 D13 F7 G5 H4,h,c8eb549049ffa9ca
+Cs.aug-cc-pV5Z.AutoAuxC.orca,Cs,aug-cc-pV5Z,library,recipes/Cs/ccECP/Cs.aug-cc-pV5Z.AutoAuxC.orca,66,S15 P13 D12 F7 G7 H5 I4 K3,k,4a93fe92a0f77d90
+Cs.aug-cc-pVDZ.AutoAuxC.orca,Cs,aug-cc-pVDZ,library,recipes/Cs/ccECP/Cs.aug-cc-pVDZ.AutoAuxC.orca,40,S13 P11 D10 F3 G3,g,7a9783f78d778717
+Cs.aug-cc-pVQZ.AutoAuxC.orca,Cs,aug-cc-pVQZ,library,recipes/Cs/ccECP/Cs.aug-cc-pVQZ.AutoAuxC.orca,58,S16 P12 D11 F6 G6 H4 I3,i,8f3673213da082bb
+Cs.aug-cc-pVTZ.AutoAuxC.orca,Cs,aug-cc-pVTZ,library,recipes/Cs/ccECP/Cs.aug-cc-pVTZ.AutoAuxC.orca,48,S14 P12 D10 F5 G4 H3,h,4ae27194bcf3d7be
+Cs.cc-pCV5Z.AutoAuxC.orca,Cs,cc-pCV5Z,library,recipes/Cs/ccECP/Cs.cc-pCV5Z.AutoAuxC.orca,76,S16 P15 D14 F8 G8 H6 I5 K4,k,c226e3263f38d824
+Cs.cc-pCVDZ.AutoAuxC.orca,Cs,cc-pCVDZ,library,recipes/Cs/ccECP/Cs.cc-pCVDZ.AutoAuxC.orca,42,S14 P12 D11 F3 G2,g,99aa2e49170f1792
+Cs.cc-pCVQZ.AutoAuxC.orca,Cs,cc-pCVQZ,library,recipes/Cs/ccECP/Cs.cc-pCVQZ.AutoAuxC.orca,64,S16 P14 D13 F7 G6 H5 I3,i,d465e47476067a93
+Cs.cc-pCVTZ.AutoAuxC.orca,Cs,cc-pCVTZ,library,recipes/Cs/ccECP/Cs.cc-pCVTZ.AutoAuxC.orca,55,S16 P14 D13 F5 G4 H3,h,3497a38bc1a79885
+Cs.cc-pV5Z.AutoAuxC.orca,Cs,cc-pV5Z,library,recipes/Cs/ccECP/Cs.cc-pV5Z.AutoAuxC.orca,59,S14 P12 D11 F6 G6 H4 I3 K3,k,ee177a24577c3477
+Cs.cc-pVDZ.AutoAuxC.orca,Cs,cc-pVDZ,library,recipes/Cs/ccECP/Cs.cc-pVDZ.AutoAuxC.orca,36,S12 P11 D10 F2 G1,g,e31b912b27869100
+Cs.cc-pVQZ.AutoAuxC.orca,Cs,cc-pVQZ,library,recipes/Cs/ccECP/Cs.cc-pVQZ.AutoAuxC.orca,51,S14 P12 D11 F5 G4 H3 I2,i,021948f834577444
+Cs.cc-pVTZ.AutoAuxC.orca,Cs,cc-pVTZ,library,recipes/Cs/ccECP/Cs.cc-pVTZ.AutoAuxC.orca,43,S13 P11 D10 F4 G3 H2,h,5fb8e13e35f6a38b
+Cu.aug-cc-pCV5Z.AutoAuxC.orca,Cu,aug-cc-pCV5Z,library,recipes/Cu/ccECP/Cu.aug-cc-pCV5Z.AutoAuxC.orca,93,S18 P16 D15 F14 G13 H7 I5 K5,k,d3cac9e13cbe287e
+Cu.aug-cc-pCVDZ.AutoAuxC.orca,Cu,aug-cc-pCVDZ,library,recipes/Cu/ccECP/Cu.aug-cc-pCVDZ.AutoAuxC.orca,76,S17 P15 D14 F13 G12 H5,h,7f3b07a2e825956e
+Cu.aug-cc-pCVQZ.AutoAuxC.orca,Cu,aug-cc-pCVQZ,library,recipes/Cu/ccECP/Cu.aug-cc-pCVQZ.AutoAuxC.orca,91,S18 P16 D15 F13 G13 H7 I5 K4,k,b48ab527ee2f43a5
+Cu.aug-cc-pCVTZ.AutoAuxC.orca,Cu,aug-cc-pCVTZ,library,recipes/Cu/ccECP/Cu.aug-cc-pCVTZ.AutoAuxC.orca,86,S18 P16 D14 F14 G13 H6 I5,i,9c1a21dfd5b48ca6
+Cu.aug-cc-pV5Z.AutoAuxC.orca,Cu,aug-cc-pV5Z,library,recipes/Cu/ccECP/Cu.aug-cc-pV5Z.AutoAuxC.orca,93,S18 P16 D15 F14 G13 H7 I5 K5,k,d3cac9e13cbe287e
+Cu.aug-cc-pVDZ.AutoAuxC.orca,Cu,aug-cc-pVDZ,library,recipes/Cu/ccECP/Cu.aug-cc-pVDZ.AutoAuxC.orca,68,S16 P14 D12 F11 G11 H4,h,430927918e89c2f5
+Cu.aug-cc-pVQZ.AutoAuxC.orca,Cu,aug-cc-pVQZ,library,recipes/Cu/ccECP/Cu.aug-cc-pVQZ.AutoAuxC.orca,87,S18 P15 D14 F13 G12 H6 I5 K4,k,59e3f36bdf2a3f39
+Cu.aug-cc-pVTZ.AutoAuxC.orca,Cu,aug-cc-pVTZ,library,recipes/Cu/ccECP/Cu.aug-cc-pVTZ.AutoAuxC.orca,79,S17 P15 D13 F13 G12 H5 I4,i,2bee1dfc44fb1810
+Cu.cc-pCV5Z.AutoAuxC.orca,Cu,cc-pCV5Z,library,recipes/Cu/ccECP/Cu.cc-pCV5Z.AutoAuxC.orca,85,S17 P15 D14 F13 G12 H6 I4 K4,k,4e7bc16bd53d22e1
+Cu.cc-pCVDZ.AutoAuxC.orca,Cu,cc-pCVDZ,library,recipes/Cu/ccECP/Cu.cc-pCVDZ.AutoAuxC.orca,69,S16 P14 D13 F12 G11 H3,h,1953b30482067103
+Cu.cc-pCVQZ.AutoAuxC.orca,Cu,cc-pCVQZ,library,recipes/Cu/ccECP/Cu.cc-pCVQZ.AutoAuxC.orca,80,S17 P15 D13 F12 G11 H5 I4 K3,k,dca3f75989420134
+Cu.cc-pCVTZ.AutoAuxC.orca,Cu,cc-pCVTZ,library,recipes/Cu/ccECP/Cu.cc-pCVTZ.AutoAuxC.orca,76,S17 P14 D13 F12 G12 H5 I3,i,ad2c7b1f8bf5d1f2
+Cu.cc-pV5Z.AutoAuxC.orca,Cu,cc-pV5Z,library,recipes/Cu/ccECP/Cu.cc-pV5Z.AutoAuxC.orca,84,S17 P15 D13 F13 G12 H6 I4 K4,k,f360ed9e9fd75a14
+Cu.cc-pVDZ.AutoAuxC.orca,Cu,cc-pVDZ,library,recipes/Cu/ccECP/Cu.cc-pVDZ.AutoAuxC.orca,58,S14 P12 D11 F10 G9 H2,h,c81a021d2d3493d4
+Cu.cc-pVQZ.AutoAuxC.orca,Cu,cc-pVQZ,library,recipes/Cu/ccECP/Cu.cc-pVQZ.AutoAuxC.orca,78,S16 P14 D13 F12 G11 H5 I4 K3,k,6e0f2d621f48b690
+Cu.cc-pVTZ.AutoAuxC.orca,Cu,cc-pVTZ,library,recipes/Cu/ccECP/Cu.cc-pVTZ.AutoAuxC.orca,69,S16 P13 D12 F11 G10 H4 I3,i,1d1c8f18921e364e
+Eu.aug-cc-pCVDZ.AutoAuxC.orca,Eu,aug-cc-pCVDZ,library,recipes/Eu/ccECP/Eu.aug-cc-pCVDZ.AutoAuxC.orca,107,S17 P17 D16 F16 G15 H14 I12,i,56ef3ce8b8ea0ca5
+Eu.aug-cc-pCVQZ.AutoAuxC.orca,Eu,aug-cc-pCVQZ,library,recipes/Eu/ccECP/Eu.aug-cc-pCVQZ.AutoAuxC.orca,110,S17 P16 D16 F16 G15 H13 I12 K5,k,f167b442d1e295c3
+Eu.aug-cc-pCVTZ.AutoAuxC.orca,Eu,aug-cc-pCVTZ,library,recipes/Eu/ccECP/Eu.aug-cc-pCVTZ.AutoAuxC.orca,107,S17 P16 D15 F15 G15 H13 I12 K4,k,9864b48c47083cba
+Eu.aug-cc-pVDZ.AutoAuxC.orca,Eu,aug-cc-pVDZ,library,recipes/Eu/ccECP/Eu.aug-cc-pVDZ.AutoAuxC.orca,97,S17 P15 D14 F14 G14 H12 I11,i,c55c55a9e5470496
+Eu.aug-cc-pVQZ.AutoAuxC.orca,Eu,aug-cc-pVQZ,library,recipes/Eu/ccECP/Eu.aug-cc-pVQZ.AutoAuxC.orca,108,S17 P16 D15 F15 G15 H13 I12 K5,k,284ee89b43f69c09
+Eu.aug-cc-pVTZ.AutoAuxC.orca,Eu,aug-cc-pVTZ,library,recipes/Eu/ccECP/Eu.aug-cc-pVTZ.AutoAuxC.orca,106,S17 P16 D15 F15 G14 H13 I12 K4,k,cb525f098d838453
+Eu.cc-pCVDZ.AutoAuxC.orca,Eu,cc-pCVDZ,library,recipes/Eu/ccECP/Eu.cc-pCVDZ.AutoAuxC.orca,96,S16 P15 D14 F14 G14 H12 I11,i,4883b7f14824a55a
+Eu.cc-pCVQZ.AutoAuxC.orca,Eu,cc-pCVQZ,library,recipes/Eu/ccECP/Eu.cc-pCVQZ.AutoAuxC.orca,101,S16 P15 D14 F14 G14 H12 I11 K5,k,69976ec5e3c08c2a
+Eu.cc-pCVTZ.AutoAuxC.orca,Eu,cc-pCVTZ,library,recipes/Eu/ccECP/Eu.cc-pCVTZ.AutoAuxC.orca,100,S16 P15 D14 F14 G14 H12 I11 K4,k,916dce0334f2fd3e
+Eu.cc-pVDZ.AutoAuxC.orca,Eu,cc-pVDZ,library,recipes/Eu/ccECP/Eu.cc-pVDZ.AutoAuxC.orca,83,S15 P13 D12 F12 G12 H10 I9,i,4dfa4c8148d63293
+Eu.cc-pVQZ.AutoAuxC.orca,Eu,cc-pVQZ,library,recipes/Eu/ccECP/Eu.cc-pVQZ.AutoAuxC.orca,95,S16 P14 D14 F13 G13 H11 I10 K4,k,867ef806cf1d7831
+Eu.cc-pVTZ.AutoAuxC.orca,Eu,cc-pVTZ,library,recipes/Eu/ccECP/Eu.cc-pVTZ.AutoAuxC.orca,93,S16 P14 D13 F13 G13 H11 I10 K3,k,7ae9c89c87d11d5b
+F.aug-cc-pV5Z.AutoAuxC.orca,F,aug-cc-pV5Z,library,recipes/F/ccECP/F.aug-cc-pV5Z.AutoAuxC.orca,58,S14 P12 D11 F6 G6 H5 I4,i,d1beea55fd8bc3e8
+F.aug-cc-pV6Z.AutoAuxC.orca,F,aug-cc-pV6Z,library,recipes/F/ccECP/F.aug-cc-pV6Z.AutoAuxC.orca,69,S14 P13 D13 F7 G7 H6 I5 K4,k,34153c9cb263f235
+F.aug-cc-pVDZ.AutoAuxC.orca,F,aug-cc-pVDZ,library,recipes/F/ccECP/F.aug-cc-pVDZ.AutoAuxC.orca,34,S12 P10 D9 F3,f,60eca8cb9d6e177a
+F.aug-cc-pVQZ.AutoAuxC.orca,F,aug-cc-pVQZ,library,recipes/F/ccECP/F.aug-cc-pVQZ.AutoAuxC.orca,52,S13 P12 D11 F6 G5 H5,h,9496f3f04cf6e9ee
+F.aug-cc-pVTZ.AutoAuxC.orca,F,aug-cc-pVTZ,library,recipes/F/ccECP/F.aug-cc-pVTZ.AutoAuxC.orca,43,S13 P11 D10 F5 G4,g,0e3b10710cf3cb98
+F.cc-pV5Z.AutoAuxC.orca,F,cc-pV5Z,library,recipes/F/ccECP/F.cc-pV5Z.AutoAuxC.orca,53,S13 P12 D11 F5 G5 H4 I3,i,cbcc7669cec1e6b3
+F.cc-pV6Z.AutoAuxC.orca,F,cc-pV6Z,library,recipes/F/ccECP/F.cc-pV6Z.AutoAuxC.orca,62,S13 P13 D12 F6 G6 H5 I4 K3,k,d8540567a8fba678
+F.cc-pVDZ.AutoAuxC.orca,F,cc-pVDZ,library,recipes/F/ccECP/F.cc-pVDZ.AutoAuxC.orca,33,S12 P10 D9 F2,f,65f1ea4fbdb29cdf
+F.cc-pVQZ.AutoAuxC.orca,F,cc-pVQZ,library,recipes/F/ccECP/F.cc-pVQZ.AutoAuxC.orca,48,S13 P12 D11 F5 G4 H3,h,bf94230bcb74afaa
+F.cc-pVTZ.AutoAuxC.orca,F,cc-pVTZ,library,recipes/F/ccECP/F.cc-pVTZ.AutoAuxC.orca,41,S13 P11 D10 F4 G3,g,323236b453d9b427
+Fe.aug-cc-pCV5Z.AutoAuxC.orca,Fe,aug-cc-pCV5Z,library,recipes/Fe/ccECP/Fe.aug-cc-pCV5Z.AutoAuxC.orca,92,S18 P16 D14 F14 G13 H7 I5 K5,k,066c6708496d974b
+Fe.aug-cc-pCVDZ.AutoAuxC.orca,Fe,aug-cc-pCVDZ,library,recipes/Fe/ccECP/Fe.aug-cc-pCVDZ.AutoAuxC.orca,76,S17 P15 D14 F13 G12 H5,h,2125df184a9994ab
+Fe.aug-cc-pCVQZ.AutoAuxC.orca,Fe,aug-cc-pCVQZ,library,recipes/Fe/ccECP/Fe.aug-cc-pCVQZ.AutoAuxC.orca,89,S18 P15 D14 F13 G12 H7 I5 K5,k,4fb7f79c6f30afbf
+Fe.aug-cc-pCVTZ.AutoAuxC.orca,Fe,aug-cc-pCVTZ,library,recipes/Fe/ccECP/Fe.aug-cc-pCVTZ.AutoAuxC.orca,83,S18 P15 D14 F13 G12 H6 I5,i,3842b5240119cf26
+Fe.aug-cc-pV5Z.AutoAuxC.orca,Fe,aug-cc-pV5Z,library,recipes/Fe/ccECP/Fe.aug-cc-pV5Z.AutoAuxC.orca,91,S18 P16 D14 F13 G13 H7 I5 K5,k,1ee89147adb1d678
+Fe.aug-cc-pVDZ.AutoAuxC.orca,Fe,aug-cc-pVDZ,library,recipes/Fe/ccECP/Fe.aug-cc-pVDZ.AutoAuxC.orca,65,S15 P13 D12 F11 G10 H4,h,3977c22a796bb9a8
+Fe.aug-cc-pVQZ.AutoAuxC.orca,Fe,aug-cc-pVQZ,library,recipes/Fe/ccECP/Fe.aug-cc-pVQZ.AutoAuxC.orca,86,S17 P15 D14 F13 G12 H6 I5 K4,k,42677461edbfeb86
+Fe.aug-cc-pVTZ.AutoAuxC.orca,Fe,aug-cc-pVTZ,library,recipes/Fe/ccECP/Fe.aug-cc-pVTZ.AutoAuxC.orca,76,S16 P14 D13 F12 G11 H6 I4,i,838e0f021b87be77
+Fe.cc-pCV5Z.AutoAuxC.orca,Fe,cc-pCV5Z,library,recipes/Fe/ccECP/Fe.cc-pCV5Z.AutoAuxC.orca,80,S16 P14 D13 F12 G11 H6 I4 K4,k,c8d193d9a0d34949
+Fe.cc-pCVDZ.AutoAuxC.orca,Fe,cc-pCVDZ,library,recipes/Fe/ccECP/Fe.cc-pCVDZ.AutoAuxC.orca,68,S16 P14 D12 F11 G11 H4,h,10cfba37a0242600
+Fe.cc-pCVQZ.AutoAuxC.orca,Fe,cc-pCVQZ,library,recipes/Fe/ccECP/Fe.cc-pCVQZ.AutoAuxC.orca,78,S16 P14 D13 F12 G11 H5 I4 K3,k,ef236d110977f1ec
+Fe.cc-pCVTZ.AutoAuxC.orca,Fe,cc-pCVTZ,library,recipes/Fe/ccECP/Fe.cc-pCVTZ.AutoAuxC.orca,74,S16 P14 D13 F12 G11 H5 I3,i,da72dcb95d700cc3
+Fe.cc-pV5Z.AutoAuxC.orca,Fe,cc-pV5Z,library,recipes/Fe/ccECP/Fe.cc-pV5Z.AutoAuxC.orca,80,S16 P14 D13 F12 G11 H6 I4 K4,k,c8d193d9a0d34949
+Fe.cc-pVDZ.AutoAuxC.orca,Fe,cc-pVDZ,library,recipes/Fe/ccECP/Fe.cc-pVDZ.AutoAuxC.orca,57,S14 P12 D10 F10 G9 H2,h,f60841ca7aadbe46
+Fe.cc-pVQZ.AutoAuxC.orca,Fe,cc-pVQZ,library,recipes/Fe/ccECP/Fe.cc-pVQZ.AutoAuxC.orca,77,S16 P14 D12 F12 G11 H5 I4 K3,k,4ee04dc82ac55d8b
+Fe.cc-pVTZ.AutoAuxC.orca,Fe,cc-pVTZ,library,recipes/Fe/ccECP/Fe.cc-pVTZ.AutoAuxC.orca,68,S15 P13 D12 F11 G10 H4 I3,i,63a4c0542fd929e0
+Ga.aug-cc-pV5Z.AutoAuxC.orca,Ga,aug-cc-pV5Z,library,recipes/Ga/ccECP/Ga.aug-cc-pV5Z.AutoAuxC.orca,60,S13 P12 D11 F6 G6 H5 I4 K3,k,f4b78de197b16c22
+Ga.aug-cc-pV6Z.AutoAuxC.orca,Ga,aug-cc-pV6Z,library,recipes/Ga/ccECP/Ga.aug-cc-pV6Z.AutoAuxC.orca,65,S14 P13 D12 F7 G6 H5 I4 K4,k,4d8af24e036efb18
+Ga.aug-cc-pVDZ.AutoAuxC.orca,Ga,aug-cc-pVDZ,library,recipes/Ga/ccECP/Ga.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,1581151b11b3d35c
+Ga.aug-cc-pVQZ.AutoAuxC.orca,Ga,aug-cc-pVQZ,library,recipes/Ga/ccECP/Ga.aug-cc-pVQZ.AutoAuxC.orca,48,S12 P10 D9 F5 G5 H4 I3,i,4f508a00007c1540
+Ga.aug-cc-pVTZ.AutoAuxC.orca,Ga,aug-cc-pVTZ,library,recipes/Ga/ccECP/Ga.aug-cc-pVTZ.AutoAuxC.orca,43,S12 P10 D9 F5 G4 H3,h,3751e49dd23323b9
+Ga.cc-pV5Z.AutoAuxC.orca,Ga,cc-pV5Z,library,recipes/Ga/ccECP/Ga.cc-pV5Z.AutoAuxC.orca,51,S12 P11 D10 F5 G4 H4 I3 K2,k,ff77337b2d332778
+Ga.cc-pV6Z.AutoAuxC.orca,Ga,cc-pV6Z,library,recipes/Ga/ccECP/Ga.cc-pV6Z.AutoAuxC.orca,55,S13 P11 D10 F6 G5 H4 I3 K3,k,f9b99fcf95b7e973
+Ga.cc-pVDZ.AutoAuxC.orca,Ga,cc-pVDZ,library,recipes/Ga/ccECP/Ga.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,fbbb443e225fd6ce
+Ga.cc-pVQZ.AutoAuxC.orca,Ga,cc-pVQZ,library,recipes/Ga/ccECP/Ga.cc-pVQZ.AutoAuxC.orca,43,S11 P10 D9 F4 G4 H3 I2,i,882d146adfe159b7
+Ga.cc-pVTZ.AutoAuxC.orca,Ga,cc-pVTZ,library,recipes/Ga/ccECP/Ga.cc-pVTZ.AutoAuxC.orca,37,S11 P9 D8 F4 G3 H2,h,f657d000f35147bd
+Gd.aug-cc-pCVDZ.AutoAuxC.orca,Gd,aug-cc-pCVDZ,library,recipes/Gd/ccECP/Gd.aug-cc-pCVDZ.AutoAuxC.orca,108,S17 P17 D16 F16 G15 H14 I13,i,fe8fe7657d7b16d1
+Gd.aug-cc-pCVQZ.AutoAuxC.orca,Gd,aug-cc-pCVQZ,library,recipes/Gd/ccECP/Gd.aug-cc-pCVQZ.AutoAuxC.orca,116,S17 P17 D16 F16 G16 H14 I14 K6,k,ee2db2e31f8be6ba
+Gd.aug-cc-pCVTZ.AutoAuxC.orca,Gd,aug-cc-pCVTZ,library,recipes/Gd/ccECP/Gd.aug-cc-pCVTZ.AutoAuxC.orca,113,S17 P17 D16 F16 G15 H14 I13 K5,k,ce1cd556b003fb56
+Gd.aug-cc-pVDZ.AutoAuxC.orca,Gd,aug-cc-pVDZ,library,recipes/Gd/ccECP/Gd.aug-cc-pVDZ.AutoAuxC.orca,98,S17 P15 D14 F14 G14 H12 I12,i,4aba8bac11473caf
+Gd.aug-cc-pVQZ.AutoAuxC.orca,Gd,aug-cc-pVQZ,library,recipes/Gd/ccECP/Gd.aug-cc-pVQZ.AutoAuxC.orca,112,S17 P16 D16 F15 G15 H14 I13 K6,k,4b2b8358481ef284
+Gd.aug-cc-pVTZ.AutoAuxC.orca,Gd,aug-cc-pVTZ,library,recipes/Gd/ccECP/Gd.aug-cc-pVTZ.AutoAuxC.orca,109,S17 P16 D15 F15 G15 H13 I13 K5,k,a293bb2a81cc0491
+Gd.cc-pCVDZ.AutoAuxC.orca,Gd,cc-pCVDZ,library,recipes/Gd/ccECP/Gd.cc-pCVDZ.AutoAuxC.orca,98,S16 P15 D14 F14 G14 H13 I12,i,67dccd63883501ff
+Gd.cc-pCVQZ.AutoAuxC.orca,Gd,cc-pCVQZ,library,recipes/Gd/ccECP/Gd.cc-pCVQZ.AutoAuxC.orca,103,S16 P15 D14 F14 G14 H13 I12 K5,k,3b176c678caaf215
+Gd.cc-pCVTZ.AutoAuxC.orca,Gd,cc-pCVTZ,library,recipes/Gd/ccECP/Gd.cc-pCVTZ.AutoAuxC.orca,102,S16 P15 D14 F14 G14 H13 I12 K4,k,6999bf9909acca8d
+Gd.cc-pVDZ.AutoAuxC.orca,Gd,cc-pVDZ,library,recipes/Gd/ccECP/Gd.cc-pVDZ.AutoAuxC.orca,86,S15 P13 D13 F12 G12 H11 I10,i,0bcbafb553ee6151
+Gd.cc-pVQZ.AutoAuxC.orca,Gd,cc-pVQZ,library,recipes/Gd/ccECP/Gd.cc-pVQZ.AutoAuxC.orca,101,S16 P15 D14 F14 G14 H12 I12 K4,k,0a74c160ebeb89e1
+Gd.cc-pVTZ.AutoAuxC.orca,Gd,cc-pVTZ,library,recipes/Gd/ccECP/Gd.cc-pVTZ.AutoAuxC.orca,96,S16 P14 D14 F13 G13 H12 I11 K3,k,4c83aff564e4a800
+Ge.aug-cc-pV5Z.AutoAuxC.orca,Ge,aug-cc-pV5Z,library,recipes/Ge/ccECP/Ge.aug-cc-pV5Z.AutoAuxC.orca,57,S13 P11 D10 F6 G5 H5 I4 K3,k,c589626122763cd5
+Ge.aug-cc-pV6Z.AutoAuxC.orca,Ge,aug-cc-pV6Z,library,recipes/Ge/ccECP/Ge.aug-cc-pV6Z.AutoAuxC.orca,65,S14 P13 D12 F7 G6 H5 I4 K4,k,6031259728b8b02e
+Ge.aug-cc-pVDZ.AutoAuxC.orca,Ge,aug-cc-pVDZ,library,recipes/Ge/ccECP/Ge.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,0b336459a37e9933
+Ge.aug-cc-pVQZ.AutoAuxC.orca,Ge,aug-cc-pVQZ,library,recipes/Ge/ccECP/Ge.aug-cc-pVQZ.AutoAuxC.orca,48,S12 P10 D9 F5 G5 H4 I3,i,2d5a141b88683040
+Ge.aug-cc-pVTZ.AutoAuxC.orca,Ge,aug-cc-pVTZ,library,recipes/Ge/ccECP/Ge.aug-cc-pVTZ.AutoAuxC.orca,43,S12 P10 D9 F5 G4 H3,h,9b1139eab562224a
+Ge.cc-pV5Z.AutoAuxC.orca,Ge,cc-pV5Z,library,recipes/Ge/ccECP/Ge.cc-pV5Z.AutoAuxC.orca,49,S12 P10 D9 F5 G4 H4 I3 K2,k,79a33a98a2907aeb
+Ge.cc-pV6Z.AutoAuxC.orca,Ge,cc-pV6Z,library,recipes/Ge/ccECP/Ge.cc-pV6Z.AutoAuxC.orca,55,S13 P11 D10 F6 G5 H4 I3 K3,k,d28f605d7aba7e5f
+Ge.cc-pVDZ.AutoAuxC.orca,Ge,cc-pVDZ,library,recipes/Ge/ccECP/Ge.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,62c50d813eed5424
+Ge.cc-pVQZ.AutoAuxC.orca,Ge,cc-pVQZ,library,recipes/Ge/ccECP/Ge.cc-pVQZ.AutoAuxC.orca,41,S11 P9 D8 F4 G4 H3 I2,i,faaa02a2c39ae9bc
+Ge.cc-pVTZ.AutoAuxC.orca,Ge,cc-pVTZ,library,recipes/Ge/ccECP/Ge.cc-pVTZ.AutoAuxC.orca,36,S11 P9 D8 F3 G3 H2,h,91d362ef35513862
+H.aug-cc-pV5Z.AutoAuxC.orca,H,aug-cc-pV5Z,library,recipes/H/ccECP/H.aug-cc-pV5Z.AutoAuxC.orca,43,S13 P8 D7 F6 G5 H4,h,af0fe5c5ad91a36a
+H.aug-cc-pV6Z.AutoAuxC.orca,H,aug-cc-pV6Z,library,recipes/H/ccECP/H.aug-cc-pV6Z.AutoAuxC.orca,51,S13 P9 D7 F7 G6 H5 I4,i,9a2a04fdebb3b06d
+H.aug-cc-pVDZ.AutoAuxC.orca,H,aug-cc-pVDZ,library,recipes/H/ccECP/H.aug-cc-pVDZ.AutoAuxC.orca,19,S12 P4 D3,d,bba060a613d8c8b4
+H.aug-cc-pVQZ.AutoAuxC.orca,H,aug-cc-pVQZ,library,recipes/H/ccECP/H.aug-cc-pVQZ.AutoAuxC.orca,35,S13 P7 D6 F5 G4,g,e061ad45f8f956e9
+H.aug-cc-pVTZ.AutoAuxC.orca,H,aug-cc-pVTZ,library,recipes/H/ccECP/H.aug-cc-pVTZ.AutoAuxC.orca,28,S13 P6 D5 F4,f,9d44837ff443a3db
+H.cc-pV5Z.AutoAuxC.orca,H,cc-pV5Z,library,recipes/H/ccECP/H.cc-pV5Z.AutoAuxC.orca,35,S12 P6 D5 F5 G4 H3,h,ccab81186cd8c04c
+H.cc-pV6Z.AutoAuxC.orca,H,cc-pV6Z,library,recipes/H/ccECP/H.cc-pV6Z.AutoAuxC.orca,44,S12 P8 D6 F6 G5 H4 I3,i,a1f3f8b6a28e90dd
+H.cc-pVDZ.AutoAuxC.orca,H,cc-pVDZ,library,recipes/H/ccECP/H.cc-pVDZ.AutoAuxC.orca,14,S11 P2 D1,d,ff3c925e47c0f407
+H.cc-pVQZ.AutoAuxC.orca,H,cc-pVQZ,library,recipes/H/ccECP/H.cc-pVQZ.AutoAuxC.orca,27,S12 P5 D4 F3 G3,g,e1a5b71866ae97a3
+H.cc-pVTZ.AutoAuxC.orca,H,cc-pVTZ,library,recipes/H/ccECP/H.cc-pVTZ.AutoAuxC.orca,21,S12 P4 D3 F2,f,98426c7972111678
+He.aug-cc-pV5Z.AutoAuxC.orca,He,aug-cc-pV5Z,library,recipes/He/ccECP/He.aug-cc-pV5Z.AutoAuxC.orca,44,S12 P8 D7 F6 G6 H5,h,c3a0f630078caf17
+He.aug-cc-pV6Z.AutoAuxC.orca,He,aug-cc-pV6Z,library,recipes/He/ccECP/He.aug-cc-pV6Z.AutoAuxC.orca,52,S13 P9 D7 F7 G6 H6 I4,i,8f0b678a607e4dea
+He.aug-cc-pVDZ.AutoAuxC.orca,He,aug-cc-pVDZ,library,recipes/He/ccECP/He.aug-cc-pVDZ.AutoAuxC.orca,19,S11 P4 D4,d,e340cddb93265d0a
+He.aug-cc-pVQZ.AutoAuxC.orca,He,aug-cc-pVQZ,library,recipes/He/ccECP/He.aug-cc-pVQZ.AutoAuxC.orca,35,S12 P7 D6 F5 G5,g,b6b9087b7a205a3e
+He.aug-cc-pVTZ.AutoAuxC.orca,He,aug-cc-pVTZ,library,recipes/He/ccECP/He.aug-cc-pVTZ.AutoAuxC.orca,27,S12 P6 D5 F4,f,a2355f5beb632dcd
+He.cc-pV5Z.AutoAuxC.orca,He,cc-pV5Z,library,recipes/He/ccECP/He.cc-pV5Z.AutoAuxC.orca,36,S11 P7 D5 F5 G4 H4,h,034ad33286a4e0ec
+He.cc-pV6Z.AutoAuxC.orca,He,cc-pV6Z,library,recipes/He/ccECP/He.cc-pV6Z.AutoAuxC.orca,43,S11 P8 D6 F6 G5 H4 I3,i,d55ae2dbefd697a2
+He.cc-pVDZ.AutoAuxC.orca,He,cc-pVDZ,library,recipes/He/ccECP/He.cc-pVDZ.AutoAuxC.orca,14,S11 P2 D1,d,7c26bffbf56f1f8e
+He.cc-pVQZ.AutoAuxC.orca,He,cc-pVQZ,library,recipes/He/ccECP/He.cc-pVQZ.AutoAuxC.orca,28,S11 P6 D4 F4 G3,g,4aef5e117e01c67c
+He.cc-pVTZ.AutoAuxC.orca,He,cc-pVTZ,library,recipes/He/ccECP/He.cc-pVTZ.AutoAuxC.orca,20,S11 P4 D3 F2,f,bf91d087bc23e7b0
+I.aug-cc-pV5Z.AutoAuxC.orca,I,aug-cc-pV5Z,library,recipes/I/ccECP/I.aug-cc-pV5Z.AutoAuxC.orca,57,S13 P11 D10 F6 G5 H5 I4 K3,k,ed07795b290d92fe
+I.aug-cc-pV6Z.AutoAuxC.orca,I,aug-cc-pV6Z,library,recipes/I/ccECP/I.aug-cc-pV6Z.AutoAuxC.orca,67,S15 P13 D11 F7 G6 H6 I5 K4,k,68c46c1052642730
+I.aug-cc-pVDZ.AutoAuxC.orca,I,aug-cc-pVDZ,library,recipes/I/ccECP/I.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,ed1bf683017b326c
+I.aug-cc-pVQZ.AutoAuxC.orca,I,aug-cc-pVQZ,library,recipes/I/ccECP/I.aug-cc-pVQZ.AutoAuxC.orca,51,S13 P11 D10 F5 G5 H4 I3,i,94173b8939dc4f64
+I.aug-cc-pVTZ.AutoAuxC.orca,I,aug-cc-pVTZ,library,recipes/I/ccECP/I.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P9 D8 F4 G4 H3,h,a385fc3c07820458
+I.cc-pV5Z.AutoAuxC.orca,I,cc-pV5Z,library,recipes/I/ccECP/I.cc-pV5Z.AutoAuxC.orca,52,S12 P11 D10 F5 G4 H4 I3 K3,k,af9eeac38699fef8
+I.cc-pV6Z.AutoAuxC.orca,I,cc-pV6Z,library,recipes/I/ccECP/I.cc-pV6Z.AutoAuxC.orca,60,S14 P12 D11 F6 G5 H5 I4 K3,k,df63e3d8bd82ff27
+I.cc-pVDZ.AutoAuxC.orca,I,cc-pVDZ,library,recipes/I/ccECP/I.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,895b95c864a95168
+I.cc-pVQZ.AutoAuxC.orca,I,cc-pVQZ,library,recipes/I/ccECP/I.cc-pVQZ.AutoAuxC.orca,45,S12 P10 D9 F4 G4 H3 I3,i,7fc5cea8861c991b
+I.cc-pVTZ.AutoAuxC.orca,I,cc-pVTZ,library,recipes/I/ccECP/I.cc-pVTZ.AutoAuxC.orca,36,S11 P9 D8 F3 G3 H2,h,2f80b3c18eec7167
+Ir.aug-cc-pCV5Z.AutoAuxC.orca,Ir,aug-cc-pCV5Z,library,recipes/Ir/ccECP/Ir.aug-cc-pCV5Z.AutoAuxC.orca,90,S16 P15 D14 F14 G14 H7 I5 K5,k,b9305c21268a7a43
+Ir.aug-cc-pCVDZ.AutoAuxC.orca,Ir,aug-cc-pCVDZ,library,recipes/Ir/ccECP/Ir.aug-cc-pCVDZ.AutoAuxC.orca,71,S15 P14 D13 F12 G12 H5,h,49c1739e9907842e
+Ir.aug-cc-pCVQZ.AutoAuxC.orca,Ir,aug-cc-pCVQZ,library,recipes/Ir/ccECP/Ir.aug-cc-pCVQZ.AutoAuxC.orca,84,S16 P14 D13 F13 G13 H6 I5 K4,k,437e7968dd6f8f6e
+Ir.aug-cc-pCVTZ.AutoAuxC.orca,Ir,aug-cc-pCVTZ,library,recipes/Ir/ccECP/Ir.aug-cc-pCVTZ.AutoAuxC.orca,79,S16 P14 D13 F13 G13 H6 I4,i,0533f16a5cb2aeb6
+Ir.aug-cc-pV5Z.AutoAuxC.orca,Ir,aug-cc-pV5Z,library,recipes/Ir/ccECP/Ir.aug-cc-pV5Z.AutoAuxC.orca,81,S15 P14 D13 F13 G12 H6 I4 K4,k,8b957d834b80f43c
+Ir.aug-cc-pVDZ.AutoAuxC.orca,Ir,aug-cc-pVDZ,library,recipes/Ir/ccECP/Ir.aug-cc-pVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G11 H3,h,3e2fc20684d5375e
+Ir.aug-cc-pVQZ.AutoAuxC.orca,Ir,aug-cc-pVQZ,library,recipes/Ir/ccECP/Ir.aug-cc-pVQZ.AutoAuxC.orca,77,S15 P13 D12 F12 G12 H5 I4 K4,k,bbdf11421ae8625f
+Ir.aug-cc-pVTZ.AutoAuxC.orca,Ir,aug-cc-pVTZ,library,recipes/Ir/ccECP/Ir.aug-cc-pVTZ.AutoAuxC.orca,70,S14 P13 D12 F12 G11 H5 I3,i,f62e918fdfbc5773
+Ir.cc-pCV5Z.AutoAuxC.orca,Ir,cc-pCV5Z,library,recipes/Ir/ccECP/Ir.cc-pCV5Z.AutoAuxC.orca,79,S15 P14 D12 F12 G12 H6 I4 K4,k,b0cd3f6c0769bcf4
+Ir.cc-pCVDZ.AutoAuxC.orca,Ir,cc-pCVDZ,library,recipes/Ir/ccECP/Ir.cc-pCVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G11 H3,h,b85fc5073e3c6dfa
+Ir.cc-pCVQZ.AutoAuxC.orca,Ir,cc-pCVQZ,library,recipes/Ir/ccECP/Ir.cc-pCVQZ.AutoAuxC.orca,74,S14 P13 D12 F12 G11 H5 I4 K3,k,3edafff6cb0611d7
+Ir.cc-pCVTZ.AutoAuxC.orca,Ir,cc-pCVTZ,library,recipes/Ir/ccECP/Ir.cc-pCVTZ.AutoAuxC.orca,70,S14 P13 D12 F12 G11 H5 I3,i,6444a6bae66ff7a7
+Ir.cc-pV5Z.AutoAuxC.orca,Ir,cc-pV5Z,library,recipes/Ir/ccECP/Ir.cc-pV5Z.AutoAuxC.orca,71,S14 P12 D11 F11 G11 H5 I4 K3,k,77ef89f5b9439722
+Ir.cc-pVDZ.AutoAuxC.orca,Ir,cc-pVDZ,library,recipes/Ir/ccECP/Ir.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,a36b5d6d4775e071
+Ir.cc-pVQZ.AutoAuxC.orca,Ir,cc-pVQZ,library,recipes/Ir/ccECP/Ir.cc-pVQZ.AutoAuxC.orca,66,S13 P11 D11 F11 G10 H4 I3 K3,k,613aea3e0a266e5f
+Ir.cc-pVTZ.AutoAuxC.orca,Ir,cc-pVTZ,library,recipes/Ir/ccECP/Ir.cc-pVTZ.AutoAuxC.orca,60,S13 P11 D10 F10 G10 H4 I2,i,ce9095f9ea7af2e6
+K.aug-cc-pCV5Z.AutoAuxC.orca,K,aug-cc-pCV5Z,library,recipes/K/ccECP/K.aug-cc-pCV5Z.AutoAuxC.orca,90,S17 P17 D16 F11 G10 H8 I6 K5,k,c5e807f3eb2573c6
+K.aug-cc-pCV6Z.AutoAuxC.orca,K,aug-cc-pCV6Z,library,recipes/K/ccECP/K.aug-cc-pCV6Z.AutoAuxC.orca,95,S17 P17 D17 F11 G11 H9 I7 K6,k,c37295446c5789c0
+K.aug-cc-pCVDZ.AutoAuxC.orca,K,aug-cc-pCVDZ,library,recipes/K/ccECP/K.aug-cc-pCVDZ.AutoAuxC.orca,58,S15 P14 D13 F8 G8,g,c48f8a3431337800
+K.aug-cc-pCVQZ.AutoAuxC.orca,K,aug-cc-pCVQZ,library,recipes/K/ccECP/K.aug-cc-pCVQZ.AutoAuxC.orca,84,S17 P16 D15 F10 G10 H9 I7,i,d3c7bc65dd843605
+K.aug-cc-pCVTZ.AutoAuxC.orca,K,aug-cc-pCVTZ,library,recipes/K/ccECP/K.aug-cc-pCVTZ.AutoAuxC.orca,70,S16 P15 D14 F9 G9 H7,h,2d47177174bd2eb6
+K.aug-cc-pV5Z.AutoAuxC.orca,K,aug-cc-pV5Z,library,recipes/K/ccECP/K.aug-cc-pV5Z.AutoAuxC.orca,66,S15 P13 D12 F7 G7 H5 I4 K3,k,7e45eb4e7e6ee6f8
+K.aug-cc-pV6Z.AutoAuxC.orca,K,aug-cc-pV6Z,library,recipes/K/ccECP/K.aug-cc-pV6Z.AutoAuxC.orca,70,S15 P13 D12 F8 G8 H6 I4 K4,k,1ee3c1c4eb3fb043
+K.aug-cc-pVDZ.AutoAuxC.orca,K,aug-cc-pVDZ,library,recipes/K/ccECP/K.aug-cc-pVDZ.AutoAuxC.orca,46,S14 P12 D11 F6 G3,g,cfdcf690284cd506
+K.aug-cc-pVQZ.AutoAuxC.orca,K,aug-cc-pVQZ,library,recipes/K/ccECP/K.aug-cc-pVQZ.AutoAuxC.orca,64,S15 P13 D12 F7 G7 H6 I4,i,46cbca3a27fbe632
+K.aug-cc-pVTZ.AutoAuxC.orca,K,aug-cc-pVTZ,library,recipes/K/ccECP/K.aug-cc-pVTZ.AutoAuxC.orca,56,S14 P13 D12 F7 G7 H3,h,84ce7c22efc1a90e
+K.cc-pCV5Z.AutoAuxC.orca,K,cc-pCV5Z,library,recipes/K/ccECP/K.cc-pCV5Z.AutoAuxC.orca,85,S16 P16 D15 F10 G10 H7 I6 K5,k,e23c34826ce81c3e
+K.cc-pCV6Z.AutoAuxC.orca,K,cc-pCV6Z,library,recipes/K/ccECP/K.cc-pCV6Z.AutoAuxC.orca,90,S16 P16 D16 F11 G11 H8 I6 K6,k,0b13b2f612f9cae0
+K.cc-pCVDZ.AutoAuxC.orca,K,cc-pCVDZ,library,recipes/K/ccECP/K.cc-pCVDZ.AutoAuxC.orca,56,S15 P13 D12 F8 G8,g,0645d1ef67962d8e
+K.cc-pCVQZ.AutoAuxC.orca,K,cc-pCVQZ,library,recipes/K/ccECP/K.cc-pCVQZ.AutoAuxC.orca,78,S16 P15 D15 F9 G9 H8 I6,i,5ec626165dc41836
+K.cc-pCVTZ.AutoAuxC.orca,K,cc-pCVTZ,library,recipes/K/ccECP/K.cc-pCVTZ.AutoAuxC.orca,67,S16 P14 D13 F9 G9 H6,h,e3d15e2e1e2d196f
+K.cc-pV5Z.AutoAuxC.orca,K,cc-pV5Z,library,recipes/K/ccECP/K.cc-pV5Z.AutoAuxC.orca,60,S14 P12 D11 F7 G7 H4 I3 K2,k,c176e660b7f9c8d6
+K.cc-pV6Z.AutoAuxC.orca,K,cc-pV6Z,library,recipes/K/ccECP/K.cc-pV6Z.AutoAuxC.orca,63,S14 P12 D11 F7 G7 H5 I4 K3,k,395f7c536793ca68
+K.cc-pVDZ.AutoAuxC.orca,K,cc-pVDZ,library,recipes/K/ccECP/K.cc-pVDZ.AutoAuxC.orca,46,S14 P12 D11 F6 G3,g,08f33367f84a374e
+K.cc-pVQZ.AutoAuxC.orca,K,cc-pVQZ,library,recipes/K/ccECP/K.cc-pVQZ.AutoAuxC.orca,59,S14 P12 D11 F6 G6 H6 I4,i,2aba275b8265aea7
+K.cc-pVTZ.AutoAuxC.orca,K,cc-pVTZ,library,recipes/K/ccECP/K.cc-pVTZ.AutoAuxC.orca,51,S14 P12 D11 F6 G6 H2,h,8ea41812a9cc8d6b
+Kr.aug-cc-pV5Z.AutoAuxC.orca,Kr,aug-cc-pV5Z,library,recipes/Kr/ccECP/Kr.aug-cc-pV5Z.AutoAuxC.orca,61,S13 P12 D11 F6 G6 H5 I4 K4,k,8726c6f545aa334c
+Kr.aug-cc-pV6Z.AutoAuxC.orca,Kr,aug-cc-pV6Z,library,recipes/Kr/ccECP/Kr.aug-cc-pV6Z.AutoAuxC.orca,62,S14 P12 D11 F6 G6 H5 I4 K4,k,0ec8957e788ccb5b
+Kr.aug-cc-pVDZ.AutoAuxC.orca,Kr,aug-cc-pVDZ,library,recipes/Kr/ccECP/Kr.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P8 D8 F3 G3,g,02a7e7f35bc4d6ce
+Kr.aug-cc-pVQZ.AutoAuxC.orca,Kr,aug-cc-pVQZ,library,recipes/Kr/ccECP/Kr.aug-cc-pVQZ.AutoAuxC.orca,48,S12 P10 D9 F5 G5 H4 I3,i,54c22ba2f50b67ba
+Kr.aug-cc-pVTZ.AutoAuxC.orca,Kr,aug-cc-pVTZ,library,recipes/Kr/ccECP/Kr.aug-cc-pVTZ.AutoAuxC.orca,45,S13 P10 D10 F5 G4 H3,h,b8777497c38a359a
+Kr.cc-pV5Z.AutoAuxC.orca,Kr,cc-pV5Z,library,recipes/Kr/ccECP/Kr.cc-pV5Z.AutoAuxC.orca,54,S13 P11 D10 F5 G5 H4 I3 K3,k,e4654590da27936d
+Kr.cc-pV6Z.AutoAuxC.orca,Kr,cc-pV6Z,library,recipes/Kr/ccECP/Kr.cc-pV6Z.AutoAuxC.orca,54,S13 P11 D10 F5 G5 H4 I3 K3,k,943ddcad38051e14
+Kr.cc-pVDZ.AutoAuxC.orca,Kr,cc-pVDZ,library,recipes/Kr/ccECP/Kr.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,3cd0ecc190123b76
+Kr.cc-pVQZ.AutoAuxC.orca,Kr,cc-pVQZ,library,recipes/Kr/ccECP/Kr.cc-pVQZ.AutoAuxC.orca,40,S11 P9 D8 F4 G3 H3 I2,i,a1a346b93e40a044
+Kr.cc-pVTZ.AutoAuxC.orca,Kr,cc-pVTZ,library,recipes/Kr/ccECP/Kr.cc-pVTZ.AutoAuxC.orca,39,S12 P9 D9 F4 G3 H2,h,22637eb58e314387
+La.aug-cc-pCVDZ.AutoAuxC.orca,La,aug-cc-pCVDZ,library,recipes/La/ccECP/La.aug-cc-pCVDZ.AutoAuxC.orca,114,S19 P17 D16 F16 G16 H15 I15,i,fb7e056ab544ae73
+La.aug-cc-pCVQZ.AutoAuxC.orca,La,aug-cc-pCVQZ,library,recipes/La/ccECP/La.aug-cc-pCVQZ.AutoAuxC.orca,119,S19 P17 D16 F16 G16 H15 I15 K5,k,f8ced5adfd07be98
+La.aug-cc-pCVTZ.AutoAuxC.orca,La,aug-cc-pCVTZ,library,recipes/La/ccECP/La.aug-cc-pCVTZ.AutoAuxC.orca,112,S18 P16 D15 F15 G15 H15 I14 K4,k,f5c002a2503cca57
+La.aug-cc-pVDZ.AutoAuxC.orca,La,aug-cc-pVDZ,library,recipes/La/ccECP/La.aug-cc-pVDZ.AutoAuxC.orca,100,S17 P15 D14 F14 G14 H13 I13,i,17b72d5d672dd842
+La.aug-cc-pVQZ.AutoAuxC.orca,La,aug-cc-pVQZ,library,recipes/La/ccECP/La.aug-cc-pVQZ.AutoAuxC.orca,118,S19 P17 D16 F16 G16 H15 I15 K4,k,610b87d3eee4b664
+La.aug-cc-pVTZ.AutoAuxC.orca,La,aug-cc-pVTZ,library,recipes/La/ccECP/La.aug-cc-pVTZ.AutoAuxC.orca,112,S18 P16 D15 F15 G15 H15 I14 K4,k,d0f24a6c3682d064
+La.cc-pCVDZ.AutoAuxC.orca,La,cc-pCVDZ,library,recipes/La/ccECP/La.cc-pCVDZ.AutoAuxC.orca,100,S17 P15 D14 F14 G14 H13 I13,i,2838a37afe6a2834
+La.cc-pCVQZ.AutoAuxC.orca,La,cc-pCVQZ,library,recipes/La/ccECP/La.cc-pCVQZ.AutoAuxC.orca,105,S17 P15 D14 F14 G14 H14 I13 K4,k,1592c8cbeb78f9e4
+La.cc-pCVTZ.AutoAuxC.orca,La,cc-pCVTZ,library,recipes/La/ccECP/La.cc-pCVTZ.AutoAuxC.orca,104,S17 P15 D14 F14 G14 H13 I13 K4,k,759d06c949b58238
+La.cc-pVDZ.AutoAuxC.orca,La,cc-pVDZ,library,recipes/La/ccECP/La.cc-pVDZ.AutoAuxC.orca,92,S15 P14 D13 F13 G13 H12 I12,i,90bc956b35463dea
+La.cc-pVQZ.AutoAuxC.orca,La,cc-pVQZ,library,recipes/La/ccECP/La.cc-pVQZ.AutoAuxC.orca,105,S17 P15 D14 F14 G14 H14 I13 K4,k,045e7294237f8c10
+La.cc-pVTZ.AutoAuxC.orca,La,cc-pVTZ,library,recipes/La/ccECP/La.cc-pVTZ.AutoAuxC.orca,103,S17 P15 D14 F14 G14 H13 I13 K3,k,0754a898dec2bc57
+Li.aug-cc-pV5Z.AutoAuxC.orca,Li,aug-cc-pV5Z,library,recipes/Li/ccECP/Li.aug-cc-pV5Z.AutoAuxC.orca,47,S14 P8 D7 F7 G6 H5,h,e75a5a31e5fbba0b
+Li.aug-cc-pVDZ.AutoAuxC.orca,Li,aug-cc-pVDZ,library,recipes/Li/ccECP/Li.aug-cc-pVDZ.AutoAuxC.orca,22,S10 P5 D4 F3,f,5e7e146380771275
+Li.aug-cc-pVQZ.AutoAuxC.orca,Li,aug-cc-pVQZ,library,recipes/Li/ccECP/Li.aug-cc-pVQZ.AutoAuxC.orca,42,S13 P7 D6 F6 G6 H4,h,0bc6e80dc292124b
+Li.aug-cc-pVTZ.AutoAuxC.orca,Li,aug-cc-pVTZ,library,recipes/Li/ccECP/Li.aug-cc-pVTZ.AutoAuxC.orca,30,S11 P6 D5 F4 G4,g,fc7b6a302db703eb
+Li.cc-pV5Z.AutoAuxC.orca,Li,cc-pV5Z,library,recipes/Li/ccECP/Li.cc-pV5Z.AutoAuxC.orca,44,S14 P8 D7 F6 G5 H4,h,10edc6e6f5d6c248
+Li.cc-pVDZ.AutoAuxC.orca,Li,cc-pVDZ,library,recipes/Li/ccECP/Li.cc-pVDZ.AutoAuxC.orca,21,S10 P5 D4 F2,f,d7f34ff940a21413
+Li.cc-pVQZ.AutoAuxC.orca,Li,cc-pVQZ,library,recipes/Li/ccECP/Li.cc-pVQZ.AutoAuxC.orca,38,S13 P6 D6 F5 G5 H3,h,5d296998c68df5b9
+Li.cc-pVTZ.AutoAuxC.orca,Li,cc-pVTZ,library,recipes/Li/ccECP/Li.cc-pVTZ.AutoAuxC.orca,27,S11 P5 D5 F3 G3,g,e169959780cd7123
+Mg.aug-cc-pV5Z.AutoAuxC.orca,Mg,aug-cc-pV5Z,library,recipes/Mg/ccECP/Mg.aug-cc-pV5Z.AutoAuxC.orca,51,S15 P9 D8 F6 G5 H4 I4,i,a286278235d90aa8
+Mg.aug-cc-pV6Z.AutoAuxC.orca,Mg,aug-cc-pV6Z,library,recipes/Mg/ccECP/Mg.aug-cc-pV6Z.AutoAuxC.orca,56,S15 P8 D7 F7 G6 H5 I4 K4,k,7e477c7ab4c623aa
+Mg.aug-cc-pVDZ.AutoAuxC.orca,Mg,aug-cc-pVDZ,library,recipes/Mg/ccECP/Mg.aug-cc-pVDZ.AutoAuxC.orca,23,S11 P5 D4 F3,f,42e8022f868e946b
+Mg.aug-cc-pVQZ.AutoAuxC.orca,Mg,aug-cc-pVQZ,library,recipes/Mg/ccECP/Mg.aug-cc-pVQZ.AutoAuxC.orca,37,S12 P6 D6 F5 G4 H4,h,83c48c9ce5947d40
+Mg.aug-cc-pVTZ.AutoAuxC.orca,Mg,aug-cc-pVTZ,library,recipes/Mg/ccECP/Mg.aug-cc-pVTZ.AutoAuxC.orca,29,S12 P5 D4 F4 G4,g,8b928a79a110af09
+Mg.cc-pV5Z.AutoAuxC.orca,Mg,cc-pV5Z,library,recipes/Mg/ccECP/Mg.cc-pV5Z.AutoAuxC.orca,45,S14 P7 D7 F5 G5 H4 I3,i,9e28635f7211ac6b
+Mg.cc-pV6Z.AutoAuxC.orca,Mg,cc-pV6Z,library,recipes/Mg/ccECP/Mg.cc-pV6Z.AutoAuxC.orca,49,S14 P7 D7 F6 G5 H4 I3 K3,k,ffb865eadd5e89fb
+Mg.cc-pVDZ.AutoAuxC.orca,Mg,cc-pVDZ,library,recipes/Mg/ccECP/Mg.cc-pVDZ.AutoAuxC.orca,20,S10 P4 D4 F2,f,6b48a032cf5cede3
+Mg.cc-pVQZ.AutoAuxC.orca,Mg,cc-pVQZ,library,recipes/Mg/ccECP/Mg.cc-pVQZ.AutoAuxC.orca,31,S11 P5 D5 F4 G3 H3,h,6663623e198ecb55
+Mg.cc-pVTZ.AutoAuxC.orca,Mg,cc-pVTZ,library,recipes/Mg/ccECP/Mg.cc-pVTZ.AutoAuxC.orca,25,S10 P5 D4 F3 G3,g,256fd3d7ad6ffc97
+Mn.aug-cc-pCV5Z.AutoAuxC.orca,Mn,aug-cc-pCV5Z,library,recipes/Mn/ccECP/Mn.aug-cc-pCV5Z.AutoAuxC.orca,91,S17 P16 D14 F14 G13 H7 I5 K5,k,6aa507b69fd51a86
+Mn.aug-cc-pCVDZ.AutoAuxC.orca,Mn,aug-cc-pCVDZ,library,recipes/Mn/ccECP/Mn.aug-cc-pCVDZ.AutoAuxC.orca,75,S17 P15 D13 F13 G12 H5,h,88140a9a83e5fede
+Mn.aug-cc-pCVQZ.AutoAuxC.orca,Mn,aug-cc-pCVQZ,library,recipes/Mn/ccECP/Mn.aug-cc-pCVQZ.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,aa77bd0126ed7932
+Mn.aug-cc-pCVTZ.AutoAuxC.orca,Mn,aug-cc-pCVTZ,library,recipes/Mn/ccECP/Mn.aug-cc-pCVTZ.AutoAuxC.orca,83,S17 P15 D14 F13 G13 H6 I5,i,8c13462f6943c8d7
+Mn.aug-cc-pV5Z.AutoAuxC.orca,Mn,aug-cc-pV5Z,library,recipes/Mn/ccECP/Mn.aug-cc-pV5Z.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,5aa938459b7129aa
+Mn.aug-cc-pVDZ.AutoAuxC.orca,Mn,aug-cc-pVDZ,library,recipes/Mn/ccECP/Mn.aug-cc-pVDZ.AutoAuxC.orca,64,S15 P13 D11 F11 G10 H4,h,983da457a09a2d0e
+Mn.aug-cc-pVQZ.AutoAuxC.orca,Mn,aug-cc-pVQZ,library,recipes/Mn/ccECP/Mn.aug-cc-pVQZ.AutoAuxC.orca,85,S17 P15 D13 F13 G12 H6 I5 K4,k,117dde17a79054eb
+Mn.aug-cc-pVTZ.AutoAuxC.orca,Mn,aug-cc-pVTZ,library,recipes/Mn/ccECP/Mn.aug-cc-pVTZ.AutoAuxC.orca,76,S16 P14 D13 F12 G11 H6 I4,i,97e7f2440ec438bf
+Mn.cc-pCV5Z.AutoAuxC.orca,Mn,cc-pCV5Z,library,recipes/Mn/ccECP/Mn.cc-pCV5Z.AutoAuxC.orca,80,S16 P14 D13 F12 G11 H6 I4 K4,k,c4bb3d8c6b280f9f
+Mn.cc-pCVDZ.AutoAuxC.orca,Mn,cc-pCVDZ,library,recipes/Mn/ccECP/Mn.cc-pCVDZ.AutoAuxC.orca,66,S15 P13 D12 F11 G11 H4,h,167ff60f93f90006
+Mn.cc-pCVQZ.AutoAuxC.orca,Mn,cc-pCVQZ,library,recipes/Mn/ccECP/Mn.cc-pCVQZ.AutoAuxC.orca,78,S16 P14 D13 F12 G11 H5 I4 K3,k,1f3fd3361dd497e1
+Mn.cc-pCVTZ.AutoAuxC.orca,Mn,cc-pCVTZ,library,recipes/Mn/ccECP/Mn.cc-pCVTZ.AutoAuxC.orca,75,S16 P14 D13 F12 G11 H5 I4,i,5204fb3f8d953a1b
+Mn.cc-pV5Z.AutoAuxC.orca,Mn,cc-pV5Z,library,recipes/Mn/ccECP/Mn.cc-pV5Z.AutoAuxC.orca,80,S16 P14 D13 F12 G11 H6 I4 K4,k,c4bb3d8c6b280f9f
+Mn.cc-pVDZ.AutoAuxC.orca,Mn,cc-pVDZ,library,recipes/Mn/ccECP/Mn.cc-pVDZ.AutoAuxC.orca,54,S13 P11 D10 F9 G9 H2,h,3113b26cfcda5553
+Mn.cc-pVQZ.AutoAuxC.orca,Mn,cc-pVQZ,library,recipes/Mn/ccECP/Mn.cc-pVQZ.AutoAuxC.orca,74,S15 P13 D12 F11 G11 H5 I4 K3,k,2d1daf5a39326e3f
+Mn.cc-pVTZ.AutoAuxC.orca,Mn,cc-pVTZ,library,recipes/Mn/ccECP/Mn.cc-pVTZ.AutoAuxC.orca,67,S15 P13 D11 F11 G10 H4 I3,i,1194394f3aba2380
+Mo.aug-cc-pCV5Z.AutoAuxC.orca,Mo,aug-cc-pCV5Z,library,recipes/Mo/ccECP/Mo.aug-cc-pCV5Z.AutoAuxC.orca,91,S16 P15 D14 F14 G14 H7 I6 K5,k,99e89f32ec433483
+Mo.aug-cc-pCVDZ.AutoAuxC.orca,Mo,aug-cc-pCVDZ,library,recipes/Mo/ccECP/Mo.aug-cc-pCVDZ.AutoAuxC.orca,69,S15 P13 D12 F12 G12 H5,h,813d23c43becec54
+Mo.aug-cc-pCVQZ.AutoAuxC.orca,Mo,aug-cc-pCVQZ,library,recipes/Mo/ccECP/Mo.aug-cc-pCVQZ.AutoAuxC.orca,87,S16 P14 D14 F14 G13 H7 I5 K4,k,7fa4b2a6d5bfe1fa
+Mo.aug-cc-pCVTZ.AutoAuxC.orca,Mo,aug-cc-pCVTZ,library,recipes/Mo/ccECP/Mo.aug-cc-pCVTZ.AutoAuxC.orca,79,S16 P14 D13 F13 G13 H6 I4,i,332c9089fc984319
+Mo.aug-cc-pV5Z.AutoAuxC.orca,Mo,aug-cc-pV5Z,library,recipes/Mo/ccECP/Mo.aug-cc-pV5Z.AutoAuxC.orca,89,S16 P15 D14 F14 G13 H7 I5 K5,k,c674bca1eb061e10
+Mo.aug-cc-pVDZ.AutoAuxC.orca,Mo,aug-cc-pVDZ,library,recipes/Mo/ccECP/Mo.aug-cc-pVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G10 H4,h,16e1dff9130c0f06
+Mo.aug-cc-pVQZ.AutoAuxC.orca,Mo,aug-cc-pVQZ,library,recipes/Mo/ccECP/Mo.aug-cc-pVQZ.AutoAuxC.orca,82,S15 P14 D13 F13 G12 H6 I5 K4,k,6472361c67f24312
+Mo.aug-cc-pVTZ.AutoAuxC.orca,Mo,aug-cc-pVTZ,library,recipes/Mo/ccECP/Mo.aug-cc-pVTZ.AutoAuxC.orca,71,S14 P13 D12 F12 G11 H5 I4,i,4300ca044bf9fe7d
+Mo.cc-pCV5Z.AutoAuxC.orca,Mo,cc-pCV5Z,library,recipes/Mo/ccECP/Mo.cc-pCV5Z.AutoAuxC.orca,82,S15 P14 D13 F13 G12 H6 I5 K4,k,a043b7fcbbd16ab4
+Mo.cc-pCVDZ.AutoAuxC.orca,Mo,cc-pCVDZ,library,recipes/Mo/ccECP/Mo.cc-pCVDZ.AutoAuxC.orca,63,S14 P12 D11 F11 G11 H4,h,5254a8165facd148
+Mo.cc-pCVQZ.AutoAuxC.orca,Mo,cc-pCVQZ,library,recipes/Mo/ccECP/Mo.cc-pCVQZ.AutoAuxC.orca,78,S15 P13 D12 F12 G12 H6 I4 K4,k,e15da497eafd49c4
+Mo.cc-pCVTZ.AutoAuxC.orca,Mo,cc-pCVTZ,library,recipes/Mo/ccECP/Mo.cc-pCVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G11 H5 I3,i,a71618b7d780fed2
+Mo.cc-pV5Z.AutoAuxC.orca,Mo,cc-pV5Z,library,recipes/Mo/ccECP/Mo.cc-pV5Z.AutoAuxC.orca,78,S15 P13 D12 F12 G12 H6 I4 K4,k,70d04dcfdab87031
+Mo.cc-pVDZ.AutoAuxC.orca,Mo,cc-pVDZ,library,recipes/Mo/ccECP/Mo.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,721d680b3b26124f
+Mo.cc-pVQZ.AutoAuxC.orca,Mo,cc-pVQZ,library,recipes/Mo/ccECP/Mo.cc-pVQZ.AutoAuxC.orca,71,S14 P12 D11 F11 G11 H5 I4 K3,k,99d431665e768211
+Mo.cc-pVTZ.AutoAuxC.orca,Mo,cc-pVTZ,library,recipes/Mo/ccECP/Mo.cc-pVTZ.AutoAuxC.orca,61,S13 P11 D10 F10 G10 H4 I3,i,59b599900e5e034d
+N.aug-cc-pV5Z.AutoAuxC.orca,N,aug-cc-pV5Z,library,recipes/N/ccECP/N.aug-cc-pV5Z.AutoAuxC.orca,56,S13 P12 D11 F6 G5 H5 I4,i,7e355cd11106d11e
+N.aug-cc-pV6Z.AutoAuxC.orca,N,aug-cc-pV6Z,library,recipes/N/ccECP/N.aug-cc-pV6Z.AutoAuxC.orca,67,S13 P13 D12 F7 G7 H6 I5 K4,k,3012a09dcc1ffdd8
+N.aug-cc-pVDZ.AutoAuxC.orca,N,aug-cc-pVDZ,library,recipes/N/ccECP/N.aug-cc-pVDZ.AutoAuxC.orca,31,S11 P9 D8 F3,f,513f7d244247c2a8
+N.aug-cc-pVQZ.AutoAuxC.orca,N,aug-cc-pVQZ,library,recipes/N/ccECP/N.aug-cc-pVQZ.AutoAuxC.orca,52,S13 P12 D11 F6 G5 H5,h,b14969532fe21ddc
+N.aug-cc-pVTZ.AutoAuxC.orca,N,aug-cc-pVTZ,library,recipes/N/ccECP/N.aug-cc-pVTZ.AutoAuxC.orca,40,S12 P10 D9 F5 G4,g,df4a5f1d05c00052
+N.cc-pV5Z.AutoAuxC.orca,N,cc-pV5Z,library,recipes/N/ccECP/N.cc-pV5Z.AutoAuxC.orca,49,S12 P11 D10 F5 G4 H4 I3,i,70a00c8be3fc840f
+N.cc-pV6Z.AutoAuxC.orca,N,cc-pV6Z,library,recipes/N/ccECP/N.cc-pV6Z.AutoAuxC.orca,59,S12 P12 D11 F6 G6 H5 I4 K3,k,3f845b2a0d263f1b
+N.cc-pVDZ.AutoAuxC.orca,N,cc-pVDZ,library,recipes/N/ccECP/N.cc-pVDZ.AutoAuxC.orca,30,S11 P9 D8 F2,f,832e2fa41fac0371
+N.cc-pVQZ.AutoAuxC.orca,N,cc-pVQZ,library,recipes/N/ccECP/N.cc-pVQZ.AutoAuxC.orca,45,S12 P11 D10 F5 G4 H3,h,886c0bf10b5ab99e
+N.cc-pVTZ.AutoAuxC.orca,N,cc-pVTZ,library,recipes/N/ccECP/N.cc-pVTZ.AutoAuxC.orca,38,S12 P10 D9 F4 G3,g,ee78be5a39bb9610
+Na.aug-cc-pV5Z.AutoAuxC.orca,Na,aug-cc-pV5Z,library,recipes/Na/ccECP/Na.aug-cc-pV5Z.AutoAuxC.orca,48,S14 P8 D7 F6 G5 H4 I4,i,52522769b17bf783
+Na.aug-cc-pVDZ.AutoAuxC.orca,Na,aug-cc-pVDZ,library,recipes/Na/ccECP/Na.aug-cc-pVDZ.AutoAuxC.orca,24,S11 P5 D5 F3,f,878f2aa156c1ca68
+Na.aug-cc-pVQZ.AutoAuxC.orca,Na,aug-cc-pVQZ,library,recipes/Na/ccECP/Na.aug-cc-pVQZ.AutoAuxC.orca,35,S12 P6 D6 F4 G4 H3,h,21c35251847e28df
+Na.aug-cc-pVTZ.AutoAuxC.orca,Na,aug-cc-pVTZ,library,recipes/Na/ccECP/Na.aug-cc-pVTZ.AutoAuxC.orca,35,S13 P7 D6 F5 G4,g,b5d519252dc69f48
+Na.cc-pV5Z.AutoAuxC.orca,Na,cc-pV5Z,library,recipes/Na/ccECP/Na.cc-pV5Z.AutoAuxC.orca,43,S13 P7 D7 F5 G4 H4 I3,i,a4f171d4027a61f0
+Na.cc-pVDZ.AutoAuxC.orca,Na,cc-pVDZ,library,recipes/Na/ccECP/Na.cc-pVDZ.AutoAuxC.orca,23,S11 P5 D5 F2,f,4f9b4a4418462b88
+Na.cc-pVQZ.AutoAuxC.orca,Na,cc-pVQZ,library,recipes/Na/ccECP/Na.cc-pVQZ.AutoAuxC.orca,34,S12 P6 D6 F4 G3 H3,h,984beb1c0420ff9a
+Na.cc-pVTZ.AutoAuxC.orca,Na,cc-pVTZ,library,recipes/Na/ccECP/Na.cc-pVTZ.AutoAuxC.orca,33,S14 P7 D6 F4 G2,g,d176422ce911536b
+Nb.aug-cc-pCV5Z.AutoAuxC.orca,Nb,aug-cc-pCV5Z,library,recipes/Nb/ccECP/Nb.aug-cc-pCV5Z.AutoAuxC.orca,92,S17 P15 D14 F14 G14 H7 I6 K5,k,456b5c22bfe2d7fa
+Nb.aug-cc-pCVDZ.AutoAuxC.orca,Nb,aug-cc-pCVDZ,library,recipes/Nb/ccECP/Nb.aug-cc-pCVDZ.AutoAuxC.orca,69,S15 P13 D12 F12 G12 H5,h,4ba7d9033f6878fd
+Nb.aug-cc-pCVQZ.AutoAuxC.orca,Nb,aug-cc-pCVQZ,library,recipes/Nb/ccECP/Nb.aug-cc-pCVQZ.AutoAuxC.orca,85,S16 P14 D13 F13 G13 H7 I5 K4,k,94d6b6a460394fcc
+Nb.aug-cc-pCVTZ.AutoAuxC.orca,Nb,aug-cc-pCVTZ,library,recipes/Nb/ccECP/Nb.aug-cc-pCVTZ.AutoAuxC.orca,78,S16 P14 D13 F13 G12 H6 I4,i,384a8d204e4a39d4
+Nb.aug-cc-pV5Z.AutoAuxC.orca,Nb,aug-cc-pV5Z,library,recipes/Nb/ccECP/Nb.aug-cc-pV5Z.AutoAuxC.orca,86,S16 P14 D13 F13 G13 H7 I5 K5,k,f64629c7bb31218b
+Nb.aug-cc-pVDZ.AutoAuxC.orca,Nb,aug-cc-pVDZ,library,recipes/Nb/ccECP/Nb.aug-cc-pVDZ.AutoAuxC.orca,60,S13 P12 D11 F10 G10 H4,h,9dfafe4ebda7e63c
+Nb.aug-cc-pVQZ.AutoAuxC.orca,Nb,aug-cc-pVQZ,library,recipes/Nb/ccECP/Nb.aug-cc-pVQZ.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,24aab3e6a879af2c
+Nb.aug-cc-pVTZ.AutoAuxC.orca,Nb,aug-cc-pVTZ,library,recipes/Nb/ccECP/Nb.aug-cc-pVTZ.AutoAuxC.orca,68,S14 P12 D11 F11 G11 H5 I4,i,9b7adf7658c79b5f
+Nb.cc-pCV5Z.AutoAuxC.orca,Nb,cc-pCV5Z,library,recipes/Nb/ccECP/Nb.cc-pCV5Z.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,0f38a1cd22cacd25
+Nb.cc-pCVDZ.AutoAuxC.orca,Nb,cc-pCVDZ,library,recipes/Nb/ccECP/Nb.cc-pCVDZ.AutoAuxC.orca,61,S13 P12 D11 F11 G10 H4,h,3c7f7031efa021dc
+Nb.cc-pCVQZ.AutoAuxC.orca,Nb,cc-pCVQZ,library,recipes/Nb/ccECP/Nb.cc-pCVQZ.AutoAuxC.orca,76,S15 P13 D12 F12 G11 H5 I4 K4,k,a913537f42e18cca
+Nb.cc-pCVTZ.AutoAuxC.orca,Nb,cc-pCVTZ,library,recipes/Nb/ccECP/Nb.cc-pCVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G11 H5 I3,i,748418a1678c43e9
+Nb.cc-pV5Z.AutoAuxC.orca,Nb,cc-pV5Z,library,recipes/Nb/ccECP/Nb.cc-pV5Z.AutoAuxC.orca,78,S15 P13 D12 F12 G12 H6 I4 K4,k,ffe3d0b39f10db36
+Nb.cc-pVDZ.AutoAuxC.orca,Nb,cc-pVDZ,library,recipes/Nb/ccECP/Nb.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,9c85489e8dbb0d14
+Nb.cc-pVQZ.AutoAuxC.orca,Nb,cc-pVQZ,library,recipes/Nb/ccECP/Nb.cc-pVQZ.AutoAuxC.orca,71,S14 P12 D11 F11 G11 H5 I4 K3,k,36df92ed0e0e1882
+Nb.cc-pVTZ.AutoAuxC.orca,Nb,cc-pVTZ,library,recipes/Nb/ccECP/Nb.cc-pVTZ.AutoAuxC.orca,61,S13 P11 D10 F10 G10 H4 I3,i,e853a21269f64f4c
+Ne.cc-pV5Z.AutoAuxC.orca,Ne,cc-pV5Z,library,recipes/Ne/ccECP/Ne.cc-pV5Z.AutoAuxC.orca,55,S13 P12 D12 F6 G5 H4 I3,i,a27f775d917abb5d
+Ne.cc-pV6Z.AutoAuxC.orca,Ne,cc-pV6Z,library,recipes/Ne/ccECP/Ne.cc-pV6Z.AutoAuxC.orca,62,S13 P12 D12 F6 G6 H5 I4 K4,k,e247f42986f4a7b1
+Ne.cc-pVDZ.AutoAuxC.orca,Ne,cc-pVDZ,library,recipes/Ne/ccECP/Ne.cc-pVDZ.AutoAuxC.orca,33,S12 P10 D9 F2,f,9e56ae59ae22fa6e
+Ne.cc-pVQZ.AutoAuxC.orca,Ne,cc-pVQZ,library,recipes/Ne/ccECP/Ne.cc-pVQZ.AutoAuxC.orca,48,S13 P12 D11 F5 G4 H3,h,12166dbe7caf6dd6
+Ne.cc-pVTZ.AutoAuxC.orca,Ne,cc-pVTZ,library,recipes/Ne/ccECP/Ne.cc-pVTZ.AutoAuxC.orca,41,S13 P11 D10 F4 G3,g,8f339ce4148fe78d
+Ni.aug-cc-pCV5Z.AutoAuxC.orca,Ni,aug-cc-pCV5Z,library,recipes/Ni/ccECP/Ni.aug-cc-pCV5Z.AutoAuxC.orca,93,S18 P16 D15 F14 G13 H7 I5 K5,k,42ab48b908d2ab56
+Ni.aug-cc-pCVDZ.AutoAuxC.orca,Ni,aug-cc-pCVDZ,library,recipes/Ni/ccECP/Ni.aug-cc-pCVDZ.AutoAuxC.orca,76,S17 P15 D14 F13 G12 H5,h,88d3bdd840a1edc1
+Ni.aug-cc-pCVQZ.AutoAuxC.orca,Ni,aug-cc-pCVQZ,library,recipes/Ni/ccECP/Ni.aug-cc-pCVQZ.AutoAuxC.orca,90,S18 P16 D14 F13 G13 H7 I5 K4,k,b35e2ad6a8555300
+Ni.aug-cc-pCVTZ.AutoAuxC.orca,Ni,aug-cc-pCVTZ,library,recipes/Ni/ccECP/Ni.aug-cc-pCVTZ.AutoAuxC.orca,85,S18 P16 D14 F13 G13 H6 I5,i,e873edfe224f7d8b
+Ni.aug-cc-pV5Z.AutoAuxC.orca,Ni,aug-cc-pV5Z,library,recipes/Ni/ccECP/Ni.aug-cc-pV5Z.AutoAuxC.orca,93,S18 P16 D15 F14 G13 H7 I5 K5,k,42ab48b908d2ab56
+Ni.aug-cc-pVDZ.AutoAuxC.orca,Ni,aug-cc-pVDZ,library,recipes/Ni/ccECP/Ni.aug-cc-pVDZ.AutoAuxC.orca,65,S15 P13 D12 F11 G10 H4,h,b693555966ca128a
+Ni.aug-cc-pVQZ.AutoAuxC.orca,Ni,aug-cc-pVQZ,library,recipes/Ni/ccECP/Ni.aug-cc-pVQZ.AutoAuxC.orca,86,S17 P15 D14 F13 G12 H6 I5 K4,k,713e9d61a841f8f4
+Ni.aug-cc-pVTZ.AutoAuxC.orca,Ni,aug-cc-pVTZ,library,recipes/Ni/ccECP/Ni.aug-cc-pVTZ.AutoAuxC.orca,76,S17 P14 D13 F12 G11 H5 I4,i,964f6f1e58f05c8d
+Ni.cc-pCV5Z.AutoAuxC.orca,Ni,cc-pCV5Z,library,recipes/Ni/ccECP/Ni.cc-pCV5Z.AutoAuxC.orca,82,S16 P15 D13 F12 G12 H6 I4 K4,k,016cebb3e5767520
+Ni.cc-pCVDZ.AutoAuxC.orca,Ni,cc-pCVDZ,library,recipes/Ni/ccECP/Ni.cc-pCVDZ.AutoAuxC.orca,70,S16 P14 D13 F12 G11 H4,h,a2650ec02b0ac3f7
+Ni.cc-pCVQZ.AutoAuxC.orca,Ni,cc-pCVQZ,library,recipes/Ni/ccECP/Ni.cc-pCVQZ.AutoAuxC.orca,78,S16 P14 D13 F12 G11 H5 I4 K3,k,34c66f34cccf1930
+Ni.cc-pCVTZ.AutoAuxC.orca,Ni,cc-pCVTZ,library,recipes/Ni/ccECP/Ni.cc-pCVTZ.AutoAuxC.orca,74,S16 P14 D13 F12 G11 H5 I3,i,002e1f9758c82c19
+Ni.cc-pV5Z.AutoAuxC.orca,Ni,cc-pV5Z,library,recipes/Ni/ccECP/Ni.cc-pV5Z.AutoAuxC.orca,82,S16 P15 D13 F12 G12 H6 I4 K4,k,016cebb3e5767520
+Ni.cc-pVDZ.AutoAuxC.orca,Ni,cc-pVDZ,library,recipes/Ni/ccECP/Ni.cc-pVDZ.AutoAuxC.orca,58,S14 P12 D11 F10 G9 H2,h,9f25d8d65877ae62
+Ni.cc-pVQZ.AutoAuxC.orca,Ni,cc-pVQZ,library,recipes/Ni/ccECP/Ni.cc-pVQZ.AutoAuxC.orca,78,S16 P14 D13 F12 G11 H5 I4 K3,k,34c66f34cccf1930
+Ni.cc-pVTZ.AutoAuxC.orca,Ni,cc-pVTZ,library,recipes/Ni/ccECP/Ni.cc-pVTZ.AutoAuxC.orca,68,S15 P13 D12 F11 G10 H4 I3,i,30f571eb12f8c75f
+O.aug-cc-pV5Z.AutoAuxC.orca,O,aug-cc-pV5Z,library,recipes/O/ccECP/O.aug-cc-pV5Z.AutoAuxC.orca,57,S13 P12 D11 F6 G6 H5 I4,i,51dcdd407d808639
+O.aug-cc-pV6Z.AutoAuxC.orca,O,aug-cc-pV6Z,library,recipes/O/ccECP/O.aug-cc-pV6Z.AutoAuxC.orca,69,S14 P13 D13 F7 G7 H6 I5 K4,k,0264bb69d9e41e37
+O.aug-cc-pVDZ.AutoAuxC.orca,O,aug-cc-pVDZ,library,recipes/O/ccECP/O.aug-cc-pVDZ.AutoAuxC.orca,31,S11 P9 D8 F3,f,69e5ccfa3d2f0212
+O.aug-cc-pVQZ.AutoAuxC.orca,O,aug-cc-pVQZ,library,recipes/O/ccECP/O.aug-cc-pVQZ.AutoAuxC.orca,52,S13 P12 D11 F6 G5 H5,h,9af4bf852c3e8253
+O.aug-cc-pVTZ.AutoAuxC.orca,O,aug-cc-pVTZ,library,recipes/O/ccECP/O.aug-cc-pVTZ.AutoAuxC.orca,43,S13 P11 D10 F5 G4,g,0eeb7ce60376c3d8
+O.cc-pV5Z.AutoAuxC.orca,O,cc-pV5Z,library,recipes/O/ccECP/O.cc-pV5Z.AutoAuxC.orca,53,S13 P12 D11 F5 G5 H4 I3,i,144b634db1463be1
+O.cc-pV6Z.AutoAuxC.orca,O,cc-pV6Z,library,recipes/O/ccECP/O.cc-pV6Z.AutoAuxC.orca,62,S13 P12 D12 F6 G6 H5 I4 K4,k,cd5b96533aa78cc0
+O.cc-pVDZ.AutoAuxC.orca,O,cc-pVDZ,library,recipes/O/ccECP/O.cc-pVDZ.AutoAuxC.orca,30,S11 P9 D8 F2,f,540e1f338f8f3352
+O.cc-pVQZ.AutoAuxC.orca,O,cc-pVQZ,library,recipes/O/ccECP/O.cc-pVQZ.AutoAuxC.orca,46,S13 P11 D10 F5 G4 H3,h,8d7055e1b6bf81a3
+O.cc-pVTZ.AutoAuxC.orca,O,cc-pVTZ,library,recipes/O/ccECP/O.cc-pVTZ.AutoAuxC.orca,40,S12 P11 D10 F4 G3,g,10dc1f7cdf924a00
+P.aug-cc-pV5Z.AutoAuxC.orca,P,aug-cc-pV5Z,library,recipes/P/ccECP/P.aug-cc-pV5Z.AutoAuxC.orca,55,S11 P11 D11 F7 G6 H5 I4,i,dc0286fb93435c62
+P.aug-cc-pV6Z.AutoAuxC.orca,P,aug-cc-pV6Z,library,recipes/P/ccECP/P.aug-cc-pV6Z.AutoAuxC.orca,60,S11 P11 D11 F7 G7 H5 I4 K4,k,2b8bae75b00f7979
+P.aug-cc-pVDZ.AutoAuxC.orca,P,aug-cc-pVDZ,library,recipes/P/ccECP/P.aug-cc-pVDZ.AutoAuxC.orca,30,S10 P9 D8 F3,f,e68bf3aca06200e0
+P.aug-cc-pVQZ.AutoAuxC.orca,P,aug-cc-pVQZ,library,recipes/P/ccECP/P.aug-cc-pVQZ.AutoAuxC.orca,46,S10 P10 D10 F6 G5 H5,h,9f9df15e110633f3
+P.aug-cc-pVTZ.AutoAuxC.orca,P,aug-cc-pVTZ,library,recipes/P/ccECP/P.aug-cc-pVTZ.AutoAuxC.orca,38,S10 P10 D9 F5 G4,g,c50dc54198bbe127
+P.cc-pV5Z.AutoAuxC.orca,P,cc-pV5Z,library,recipes/P/ccECP/P.cc-pV5Z.AutoAuxC.orca,48,S10 P10 D10 F6 G5 H4 I3,i,ad695cfbfea370ae
+P.cc-pV6Z.AutoAuxC.orca,P,cc-pV6Z,library,recipes/P/ccECP/P.cc-pV6Z.AutoAuxC.orca,54,S10 P10 D10 F6 G6 H5 I4 K3,k,6c473b6fd210f01e
+P.cc-pVDZ.AutoAuxC.orca,P,cc-pVDZ,library,recipes/P/ccECP/P.cc-pVDZ.AutoAuxC.orca,29,S10 P9 D8 F2,f,611dcd919b130bcf
+P.cc-pVQZ.AutoAuxC.orca,P,cc-pVQZ,library,recipes/P/ccECP/P.cc-pVQZ.AutoAuxC.orca,42,S10 P10 D10 F5 G4 H3,h,3ca82fc8bf6e7e71
+P.cc-pVTZ.AutoAuxC.orca,P,cc-pVTZ,library,recipes/P/ccECP/P.cc-pVTZ.AutoAuxC.orca,36,S10 P10 D9 F4 G3,g,227d65a6a08a587a
+Pb.aug-cc-pV5Z.AutoAuxC.orca,Pb,aug-cc-pV5Z,library,recipes/Pb/ccECP/Pb.aug-cc-pV5Z.AutoAuxC.orca,66,S13 P13 D12 F7 G7 H6 I5 K3,k,c50f2c48424ed1f0
+Pb.aug-cc-pVDZ.AutoAuxC.orca,Pb,aug-cc-pVDZ,library,recipes/Pb/ccECP/Pb.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,d5100cda8fc59fcc
+Pb.aug-cc-pVQZ.AutoAuxC.orca,Pb,aug-cc-pVQZ,library,recipes/Pb/ccECP/Pb.aug-cc-pVQZ.AutoAuxC.orca,54,S13 P12 D10 F6 G5 H5 I3,i,b3b9ef2352c2ae72
+Pb.aug-cc-pVTZ.AutoAuxC.orca,Pb,aug-cc-pVTZ,library,recipes/Pb/ccECP/Pb.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P9 D8 F4 G4 H3,h,a44155d46192c732
+Pb.cc-pV5Z.AutoAuxC.orca,Pb,cc-pV5Z,library,recipes/Pb/ccECP/Pb.cc-pV5Z.AutoAuxC.orca,59,S12 P12 D12 F6 G6 H5 I4 K2,k,641542cf8bb359b9
+Pb.cc-pVDZ.AutoAuxC.orca,Pb,cc-pVDZ,library,recipes/Pb/ccECP/Pb.cc-pVDZ.AutoAuxC.orca,27,S9 P8 D7 F2 G1,g,517352879e85bffc
+Pb.cc-pVQZ.AutoAuxC.orca,Pb,cc-pVQZ,library,recipes/Pb/ccECP/Pb.cc-pVQZ.AutoAuxC.orca,47,S12 P11 D10 F5 G4 H3 I2,i,f6ece2caa179ac82
+Pb.cc-pVTZ.AutoAuxC.orca,Pb,cc-pVTZ,library,recipes/Pb/ccECP/Pb.cc-pVTZ.AutoAuxC.orca,35,S11 P9 D7 F3 G3 H2,h,785a37374993dcd6
+Pd.aug-cc-pCV5Z.AutoAuxC.orca,Pd,aug-cc-pCV5Z,library,recipes/Pd/ccECP/Pd.aug-cc-pCV5Z.AutoAuxC.orca,99,S18 P17 D16 F16 G15 H7 I5 K5,k,239d06cb9df53f8e
+Pd.aug-cc-pCVDZ.AutoAuxC.orca,Pd,aug-cc-pCVDZ,library,recipes/Pd/ccECP/Pd.aug-cc-pCVDZ.AutoAuxC.orca,79,S17 P15 D14 F14 G14 H5,h,d8f5ebc61a7355c5
+Pd.aug-cc-pCVQZ.AutoAuxC.orca,Pd,aug-cc-pCVQZ,library,recipes/Pd/ccECP/Pd.aug-cc-pCVQZ.AutoAuxC.orca,95,S18 P16 D15 F15 G15 H7 I5 K4,k,d0ccf2ef8d016c34
+Pd.aug-cc-pCVTZ.AutoAuxC.orca,Pd,aug-cc-pCVTZ,library,recipes/Pd/ccECP/Pd.aug-cc-pCVTZ.AutoAuxC.orca,84,S17 P15 D14 F14 G14 H6 I4,i,238695314f42cf6d
+Pd.aug-cc-pV5Z.AutoAuxC.orca,Pd,aug-cc-pV5Z,library,recipes/Pd/ccECP/Pd.aug-cc-pV5Z.AutoAuxC.orca,95,S18 P16 D15 F15 G15 H7 I5 K4,k,44b2927a518149d2
+Pd.aug-cc-pVDZ.AutoAuxC.orca,Pd,aug-cc-pVDZ,library,recipes/Pd/ccECP/Pd.aug-cc-pVDZ.AutoAuxC.orca,68,S15 P13 D12 F12 G12 H4,h,eef8a836a812509c
+Pd.aug-cc-pVQZ.AutoAuxC.orca,Pd,aug-cc-pVQZ,library,recipes/Pd/ccECP/Pd.aug-cc-pVQZ.AutoAuxC.orca,89,S17 P15 D14 F14 G14 H6 I5 K4,k,12623abd9e55101d
+Pd.aug-cc-pVTZ.AutoAuxC.orca,Pd,aug-cc-pVTZ,library,recipes/Pd/ccECP/Pd.aug-cc-pVTZ.AutoAuxC.orca,78,S16 P14 D13 F13 G13 H5 I4,i,94fae1098139497f
+Pd.cc-pCV5Z.AutoAuxC.orca,Pd,cc-pCV5Z,library,recipes/Pd/ccECP/Pd.cc-pCV5Z.AutoAuxC.orca,89,S17 P15 D14 F14 G14 H6 I5 K4,k,3656d354a9f26c70
+Pd.cc-pCVDZ.AutoAuxC.orca,Pd,cc-pCVDZ,library,recipes/Pd/ccECP/Pd.cc-pCVDZ.AutoAuxC.orca,70,S15 P13 D13 F13 G12 H4,h,045f3c8c5e8ad946
+Pd.cc-pCVQZ.AutoAuxC.orca,Pd,cc-pCVQZ,library,recipes/Pd/ccECP/Pd.cc-pCVQZ.AutoAuxC.orca,81,S16 P14 D13 F13 G13 H5 I4 K3,k,8ff06a5350097af0
+Pd.cc-pCVTZ.AutoAuxC.orca,Pd,cc-pCVTZ,library,recipes/Pd/ccECP/Pd.cc-pCVTZ.AutoAuxC.orca,77,S16 P14 D13 F13 G13 H5 I3,i,e43c9bf90b078392
+Pd.cc-pV5Z.AutoAuxC.orca,Pd,cc-pV5Z,library,recipes/Pd/ccECP/Pd.cc-pV5Z.AutoAuxC.orca,83,S16 P14 D13 F13 G13 H6 I4 K4,k,4629ea41bf5ed0d8
+Pd.cc-pVDZ.AutoAuxC.orca,Pd,cc-pVDZ,library,recipes/Pd/ccECP/Pd.cc-pVDZ.AutoAuxC.orca,59,S13 P12 D11 F11 G10 H2,h,adec43488d7e9750
+Pd.cc-pVQZ.AutoAuxC.orca,Pd,cc-pVQZ,library,recipes/Pd/ccECP/Pd.cc-pVQZ.AutoAuxC.orca,79,S15 P14 D13 F13 G12 H5 I4 K3,k,dfcd34b8504fd4bc
+Pd.cc-pVTZ.AutoAuxC.orca,Pd,cc-pVTZ,library,recipes/Pd/ccECP/Pd.cc-pVTZ.AutoAuxC.orca,71,S15 P13 D12 F12 G12 H4 I3,i,e40e7faa7d1e6857
+Pt.aug-cc-pCV5Z.AutoAuxC.orca,Pt,aug-cc-pCV5Z,library,recipes/Pt/ccECP/Pt.aug-cc-pCV5Z.AutoAuxC.orca,90,S16 P15 D14 F14 G14 H7 I5 K5,k,d02e885935641c6e
+Pt.aug-cc-pCVDZ.AutoAuxC.orca,Pt,aug-cc-pCVDZ,library,recipes/Pt/ccECP/Pt.aug-cc-pCVDZ.AutoAuxC.orca,69,S15 P13 D13 F12 G12 H4,h,92a34634b18a8cfc
+Pt.aug-cc-pCVQZ.AutoAuxC.orca,Pt,aug-cc-pCVQZ,library,recipes/Pt/ccECP/Pt.aug-cc-pCVQZ.AutoAuxC.orca,84,S16 P14 D13 F13 G13 H6 I5 K4,k,9cc6f391dc5d1d5b
+Pt.aug-cc-pCVTZ.AutoAuxC.orca,Pt,aug-cc-pCVTZ,library,recipes/Pt/ccECP/Pt.aug-cc-pCVTZ.AutoAuxC.orca,79,S16 P14 D13 F13 G13 H6 I4,i,d0937932bdeb7fea
+Pt.aug-cc-pV5Z.AutoAuxC.orca,Pt,aug-cc-pV5Z,library,recipes/Pt/ccECP/Pt.aug-cc-pV5Z.AutoAuxC.orca,81,S15 P14 D13 F13 G12 H6 I4 K4,k,2436cc2af6784012
+Pt.aug-cc-pVDZ.AutoAuxC.orca,Pt,aug-cc-pVDZ,library,recipes/Pt/ccECP/Pt.aug-cc-pVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G11 H3,h,7369b85fbd30e3d3
+Pt.aug-cc-pVQZ.AutoAuxC.orca,Pt,aug-cc-pVQZ,library,recipes/Pt/ccECP/Pt.aug-cc-pVQZ.AutoAuxC.orca,76,S15 P13 D12 F12 G12 H5 I4 K3,k,6d3cf5e2730fe955
+Pt.aug-cc-pVTZ.AutoAuxC.orca,Pt,aug-cc-pVTZ,library,recipes/Pt/ccECP/Pt.aug-cc-pVTZ.AutoAuxC.orca,70,S14 P13 D12 F12 G11 H5 I3,i,3cacc0dd06933c29
+Pt.cc-pCV5Z.AutoAuxC.orca,Pt,cc-pCV5Z,library,recipes/Pt/ccECP/Pt.cc-pCV5Z.AutoAuxC.orca,81,S15 P14 D13 F13 G12 H6 I4 K4,k,eb78421a7ac8a9f9
+Pt.cc-pCVDZ.AutoAuxC.orca,Pt,cc-pCVDZ,library,recipes/Pt/ccECP/Pt.cc-pCVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G11 H3,h,1834c07f328c4fad
+Pt.cc-pCVQZ.AutoAuxC.orca,Pt,cc-pCVQZ,library,recipes/Pt/ccECP/Pt.cc-pCVQZ.AutoAuxC.orca,76,S15 P13 D12 F12 G12 H5 I4 K3,k,ca09fc265f7c1d91
+Pt.cc-pCVTZ.AutoAuxC.orca,Pt,cc-pCVTZ,library,recipes/Pt/ccECP/Pt.cc-pCVTZ.AutoAuxC.orca,69,S14 P13 D12 F12 G11 H4 I3,i,1bbbf599462ac325
+Pt.cc-pV5Z.AutoAuxC.orca,Pt,cc-pV5Z,library,recipes/Pt/ccECP/Pt.cc-pV5Z.AutoAuxC.orca,71,S14 P12 D11 F11 G11 H5 I4 K3,k,6f9df324c7b6cb42
+Pt.cc-pVDZ.AutoAuxC.orca,Pt,cc-pVDZ,library,recipes/Pt/ccECP/Pt.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,92bba59fb1792667
+Pt.cc-pVQZ.AutoAuxC.orca,Pt,cc-pVQZ,library,recipes/Pt/ccECP/Pt.cc-pVQZ.AutoAuxC.orca,67,S13 P12 D11 F11 G10 H4 I3 K3,k,c116b349f3d2e145
+Pt.cc-pVTZ.AutoAuxC.orca,Pt,cc-pVTZ,library,recipes/Pt/ccECP/Pt.cc-pVTZ.AutoAuxC.orca,61,S13 P11 D10 F10 G10 H4 I3,i,dd68bc77348e655e
+Rb.aug-cc-pCV5Z.AutoAuxC.orca,Rb,aug-cc-pCV5Z,library,recipes/Rb/ccECP/Rb.aug-cc-pCV5Z.AutoAuxC.orca,77,S16 P16 D15 F8 G7 H6 I5 K4,k,6494e762b665509b
+Rb.aug-cc-pCV6Z.AutoAuxC.orca,Rb,aug-cc-pCV6Z,library,recipes/Rb/ccECP/Rb.aug-cc-pCV6Z.AutoAuxC.orca,84,S18 P16 D16 F9 G8 H7 I5 K5,k,fc6b0be5ac96c1bb
+Rb.aug-cc-pCVDZ.AutoAuxC.orca,Rb,aug-cc-pCVDZ,library,recipes/Rb/ccECP/Rb.aug-cc-pCVDZ.AutoAuxC.orca,44,S14 P12 D11 F4 G3,g,42df015f34ffccb7
+Rb.aug-cc-pCVQZ.AutoAuxC.orca,Rb,aug-cc-pCVQZ,library,recipes/Rb/ccECP/Rb.aug-cc-pCVQZ.AutoAuxC.orca,71,S18 P16 D15 F7 G6 H5 I4,i,2c0d2beb12af2a3c
+Rb.aug-cc-pCVTZ.AutoAuxC.orca,Rb,aug-cc-pCVTZ,library,recipes/Rb/ccECP/Rb.aug-cc-pCVTZ.AutoAuxC.orca,58,S16 P14 D13 F6 G5 H4,h,9e5aab1fd2ecf6ea
+Rb.aug-cc-pV5Z.AutoAuxC.orca,Rb,aug-cc-pV5Z,library,recipes/Rb/ccECP/Rb.aug-cc-pV5Z.AutoAuxC.orca,68,S16 P14 D13 F6 G6 H5 I4 K4,k,fdd768d509d7e66f
+Rb.aug-cc-pV6Z.AutoAuxC.orca,Rb,aug-cc-pV6Z,library,recipes/Rb/ccECP/Rb.aug-cc-pV6Z.AutoAuxC.orca,72,S18 P15 D13 F7 G6 H5 I4 K4,k,6c216a2b3b319aa2
+Rb.aug-cc-pVDZ.AutoAuxC.orca,Rb,aug-cc-pVDZ,library,recipes/Rb/ccECP/Rb.aug-cc-pVDZ.AutoAuxC.orca,42,S14 P12 D10 F3 G3,g,7b7d0ea7f737b984
+Rb.aug-cc-pVQZ.AutoAuxC.orca,Rb,aug-cc-pVQZ,library,recipes/Rb/ccECP/Rb.aug-cc-pVQZ.AutoAuxC.orca,61,S17 P14 D13 F5 G5 H4 I3,i,17b6d09394d4027a
+Rb.aug-cc-pVTZ.AutoAuxC.orca,Rb,aug-cc-pVTZ,library,recipes/Rb/ccECP/Rb.aug-cc-pVTZ.AutoAuxC.orca,50,S15 P12 D11 F5 G4 H3,h,6874b3684a3ae43e
+Rb.cc-pCV5Z.AutoAuxC.orca,Rb,cc-pCV5Z,library,recipes/Rb/ccECP/Rb.cc-pCV5Z.AutoAuxC.orca,72,S16 P16 D15 F7 G6 H5 I4 K3,k,388a2520003b8356
+Rb.cc-pCV6Z.AutoAuxC.orca,Rb,cc-pCV6Z,library,recipes/Rb/ccECP/Rb.cc-pCV6Z.AutoAuxC.orca,78,S16 P16 D16 F8 G7 H6 I5 K4,k,20bd77fb2538c451
+Rb.cc-pCVDZ.AutoAuxC.orca,Rb,cc-pCVDZ,library,recipes/Rb/ccECP/Rb.cc-pCVDZ.AutoAuxC.orca,42,S14 P12 D11 F3 G2,g,bbd70a3457f71418
+Rb.cc-pCVQZ.AutoAuxC.orca,Rb,cc-pCVQZ,library,recipes/Rb/ccECP/Rb.cc-pCVQZ.AutoAuxC.orca,62,S16 P15 D13 F6 G5 H4 I3,i,d2d2c5fdc4c5670e
+Rb.cc-pCVTZ.AutoAuxC.orca,Rb,cc-pCVTZ,library,recipes/Rb/ccECP/Rb.cc-pCVTZ.AutoAuxC.orca,55,S16 P14 D13 F5 G4 H3,h,5120aaacfa54028a
+Rb.cc-pV5Z.AutoAuxC.orca,Rb,cc-pV5Z,library,recipes/Rb/ccECP/Rb.cc-pV5Z.AutoAuxC.orca,63,S16 P14 D13 F5 G5 H4 I3 K3,k,13aadd05157a6e78
+Rb.cc-pV6Z.AutoAuxC.orca,Rb,cc-pV6Z,library,recipes/Rb/ccECP/Rb.cc-pV6Z.AutoAuxC.orca,64,S16 P14 D13 F6 G5 H4 I3 K3,k,0d002846f70aeeda
+Rb.cc-pVDZ.AutoAuxC.orca,Rb,cc-pVDZ,library,recipes/Rb/ccECP/Rb.cc-pVDZ.AutoAuxC.orca,37,S13 P11 D10 F2 G1,g,5cf700df0d536f89
+Rb.cc-pVQZ.AutoAuxC.orca,Rb,cc-pVQZ,library,recipes/Rb/ccECP/Rb.cc-pVQZ.AutoAuxC.orca,52,S15 P13 D12 F4 G3 H3 I2,i,328f7d7db59eb6f3
+Rb.cc-pVTZ.AutoAuxC.orca,Rb,cc-pVTZ,library,recipes/Rb/ccECP/Rb.cc-pVTZ.AutoAuxC.orca,46,S14 P12 D11 F4 G3 H2,h,cd935c23fde96ffd
+Re.aug-cc-pCV5Z.AutoAuxC.orca,Re,aug-cc-pCV5Z,library,recipes/Re/ccECP/Re.aug-cc-pCV5Z.AutoAuxC.orca,91,S17 P15 D14 F14 G14 H7 I5 K5,k,63c601f25ce319d9
+Re.aug-cc-pCVDZ.AutoAuxC.orca,Re,aug-cc-pCVDZ,library,recipes/Re/ccECP/Re.aug-cc-pCVDZ.AutoAuxC.orca,69,S15 P13 D12 F12 G12 H5,h,e7b085f56e6ba97e
+Re.aug-cc-pCVQZ.AutoAuxC.orca,Re,aug-cc-pCVQZ,library,recipes/Re/ccECP/Re.aug-cc-pCVQZ.AutoAuxC.orca,84,S16 P14 D13 F13 G13 H6 I5 K4,k,360d14462146af64
+Re.aug-cc-pCVTZ.AutoAuxC.orca,Re,aug-cc-pCVTZ,library,recipes/Re/ccECP/Re.aug-cc-pCVTZ.AutoAuxC.orca,79,S16 P14 D13 F13 G13 H6 I4,i,b2adaa5220ef913a
+Re.aug-cc-pV5Z.AutoAuxC.orca,Re,aug-cc-pV5Z,library,recipes/Re/ccECP/Re.aug-cc-pV5Z.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,adb1255c12add94b
+Re.aug-cc-pVDZ.AutoAuxC.orca,Re,aug-cc-pVDZ,library,recipes/Re/ccECP/Re.aug-cc-pVDZ.AutoAuxC.orca,61,S14 P12 D11 F11 G10 H3,h,8f34f41d30fc80b0
+Re.aug-cc-pVQZ.AutoAuxC.orca,Re,aug-cc-pVQZ,library,recipes/Re/ccECP/Re.aug-cc-pVQZ.AutoAuxC.orca,78,S15 P13 D12 F12 G12 H6 I4 K4,k,4e48b0db7595c25e
+Re.aug-cc-pVTZ.AutoAuxC.orca,Re,aug-cc-pVTZ,library,recipes/Re/ccECP/Re.aug-cc-pVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G11 H5 I3,i,92f66ae4d99c931f
+Re.cc-pCV5Z.AutoAuxC.orca,Re,cc-pCV5Z,library,recipes/Re/ccECP/Re.cc-pCV5Z.AutoAuxC.orca,80,S15 P14 D13 F12 G12 H6 I4 K4,k,3cfac3a879887c8d
+Re.cc-pCVDZ.AutoAuxC.orca,Re,cc-pCVDZ,library,recipes/Re/ccECP/Re.cc-pCVDZ.AutoAuxC.orca,61,S14 P12 D11 F11 G10 H3,h,da6191819d1eae76
+Re.cc-pCVQZ.AutoAuxC.orca,Re,cc-pCVQZ,library,recipes/Re/ccECP/Re.cc-pCVQZ.AutoAuxC.orca,74,S14 P13 D12 F12 G11 H5 I4 K3,k,51bbc3d7b526b6fa
+Re.cc-pCVTZ.AutoAuxC.orca,Re,cc-pCVTZ,library,recipes/Re/ccECP/Re.cc-pCVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G11 H5 I3,i,c4f8a8d77cd7cc79
+Re.cc-pV5Z.AutoAuxC.orca,Re,cc-pV5Z,library,recipes/Re/ccECP/Re.cc-pV5Z.AutoAuxC.orca,71,S14 P12 D11 F11 G11 H5 I4 K3,k,2eb58ec49f17d164
+Re.cc-pVDZ.AutoAuxC.orca,Re,cc-pVDZ,library,recipes/Re/ccECP/Re.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,51e0d961c0265029
+Re.cc-pVQZ.AutoAuxC.orca,Re,cc-pVQZ,library,recipes/Re/ccECP/Re.cc-pVQZ.AutoAuxC.orca,64,S13 P11 D10 F10 G10 H4 I3 K3,k,e4a8c95f30dcfbb9
+Re.cc-pVTZ.AutoAuxC.orca,Re,cc-pVTZ,library,recipes/Re/ccECP/Re.cc-pVTZ.AutoAuxC.orca,61,S13 P11 D10 F10 G10 H4 I3,i,06d17c98ce3d2060
+Rh.aug-cc-pCV5Z.AutoAuxC.orca,Rh,aug-cc-pCV5Z,library,recipes/Rh/ccECP/Rh.aug-cc-pCV5Z.AutoAuxC.orca,95,S17 P16 D15 F15 G15 H7 I5 K5,k,88ccae8dc5f0857a
+Rh.aug-cc-pCVDZ.AutoAuxC.orca,Rh,aug-cc-pCVDZ,library,recipes/Rh/ccECP/Rh.aug-cc-pCVDZ.AutoAuxC.orca,74,S16 P14 D13 F13 G13 H5,h,5d3812ebc0e38404
+Rh.aug-cc-pCVQZ.AutoAuxC.orca,Rh,aug-cc-pCVQZ,library,recipes/Rh/ccECP/Rh.aug-cc-pCVQZ.AutoAuxC.orca,90,S17 P15 D14 F14 G14 H7 I5 K4,k,fcb01739f42a706f
+Rh.aug-cc-pCVTZ.AutoAuxC.orca,Rh,aug-cc-pCVTZ,library,recipes/Rh/ccECP/Rh.aug-cc-pCVTZ.AutoAuxC.orca,83,S16 P15 D14 F14 G14 H6 I4,i,75ac3458ee0a129e
+Rh.aug-cc-pV5Z.AutoAuxC.orca,Rh,aug-cc-pV5Z,library,recipes/Rh/ccECP/Rh.aug-cc-pV5Z.AutoAuxC.orca,91,S17 P15 D14 F14 G14 H7 I5 K5,k,0848882bb32979be
+Rh.aug-cc-pVDZ.AutoAuxC.orca,Rh,aug-cc-pVDZ,library,recipes/Rh/ccECP/Rh.aug-cc-pVDZ.AutoAuxC.orca,63,S14 P12 D11 F11 G11 H4,h,c3c75df755228da0
+Rh.aug-cc-pVQZ.AutoAuxC.orca,Rh,aug-cc-pVQZ,library,recipes/Rh/ccECP/Rh.aug-cc-pVQZ.AutoAuxC.orca,83,S16 P14 D13 F13 G13 H6 I4 K4,k,e93b47ea180ed8e2
+Rh.aug-cc-pVTZ.AutoAuxC.orca,Rh,aug-cc-pVTZ,library,recipes/Rh/ccECP/Rh.aug-cc-pVTZ.AutoAuxC.orca,76,S15 P14 D13 F13 G12 H5 I4,i,188cf5112a1f3f48
+Rh.cc-pCV5Z.AutoAuxC.orca,Rh,cc-pCV5Z,library,recipes/Rh/ccECP/Rh.cc-pCV5Z.AutoAuxC.orca,83,S15 P14 D13 F13 G13 H6 I5 K4,k,26312a7fa1fcb3c8
+Rh.cc-pCVDZ.AutoAuxC.orca,Rh,cc-pCVDZ,library,recipes/Rh/ccECP/Rh.cc-pCVDZ.AutoAuxC.orca,68,S15 P13 D12 F12 G12 H4,h,1136f9d6af4a4619
+Rh.cc-pCVQZ.AutoAuxC.orca,Rh,cc-pCVQZ,library,recipes/Rh/ccECP/Rh.cc-pCVQZ.AutoAuxC.orca,80,S15 P14 D13 F13 G13 H5 I4 K3,k,9afb1541c4d1475f
+Rh.cc-pCVTZ.AutoAuxC.orca,Rh,cc-pCVTZ,library,recipes/Rh/ccECP/Rh.cc-pCVTZ.AutoAuxC.orca,72,S15 P13 D12 F12 G12 H5 I3,i,fad95b3517f48d73
+Rh.cc-pV5Z.AutoAuxC.orca,Rh,cc-pV5Z,library,recipes/Rh/ccECP/Rh.cc-pV5Z.AutoAuxC.orca,82,S15 P14 D13 F13 G13 H6 I4 K4,k,00528770e33e3733
+Rh.cc-pVDZ.AutoAuxC.orca,Rh,cc-pVDZ,library,recipes/Rh/ccECP/Rh.cc-pVDZ.AutoAuxC.orca,56,S13 P11 D10 F10 G10 H2,h,74c8c49b8d895ffc
+Rh.cc-pVQZ.AutoAuxC.orca,Rh,cc-pVQZ,library,recipes/Rh/ccECP/Rh.cc-pVQZ.AutoAuxC.orca,76,S15 P13 D12 F12 G12 H5 I4 K3,k,9159047912bdebe6
+Rh.cc-pVTZ.AutoAuxC.orca,Rh,cc-pVTZ,library,recipes/Rh/ccECP/Rh.cc-pVTZ.AutoAuxC.orca,66,S14 P12 D11 F11 G11 H4 I3,i,2b343f1935d4de18
+Ru.aug-cc-pCV5Z.AutoAuxC.orca,Ru,aug-cc-pCV5Z,library,recipes/Ru/ccECP/Ru.aug-cc-pCV5Z.AutoAuxC.orca,95,S17 P16 D15 F15 G15 H7 I5 K5,k,4e96d0520a76b8de
+Ru.aug-cc-pCVDZ.AutoAuxC.orca,Ru,aug-cc-pCVDZ,library,recipes/Ru/ccECP/Ru.aug-cc-pCVDZ.AutoAuxC.orca,74,S16 P14 D13 F13 G13 H5,h,a5b89d986952bf6d
+Ru.aug-cc-pCVQZ.AutoAuxC.orca,Ru,aug-cc-pCVQZ,library,recipes/Ru/ccECP/Ru.aug-cc-pCVQZ.AutoAuxC.orca,89,S17 P15 D14 F14 G14 H6 I5 K4,k,397e8739936b04dd
+Ru.aug-cc-pCVTZ.AutoAuxC.orca,Ru,aug-cc-pCVTZ,library,recipes/Ru/ccECP/Ru.aug-cc-pCVTZ.AutoAuxC.orca,82,S16 P15 D14 F14 G13 H6 I4,i,59053b2e29620992
+Ru.aug-cc-pV5Z.AutoAuxC.orca,Ru,aug-cc-pV5Z,library,recipes/Ru/ccECP/Ru.aug-cc-pV5Z.AutoAuxC.orca,88,S16 P15 D14 F14 G13 H7 I5 K4,k,8e7f1011b11e5dc1
+Ru.aug-cc-pVDZ.AutoAuxC.orca,Ru,aug-cc-pVDZ,library,recipes/Ru/ccECP/Ru.aug-cc-pVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G11 H3,h,7a3079390d3451e0
+Ru.aug-cc-pVQZ.AutoAuxC.orca,Ru,aug-cc-pVQZ,library,recipes/Ru/ccECP/Ru.aug-cc-pVQZ.AutoAuxC.orca,83,S16 P14 D13 F13 G13 H6 I4 K4,k,2eafcc4d0ffec8c1
+Ru.aug-cc-pVTZ.AutoAuxC.orca,Ru,aug-cc-pVTZ,library,recipes/Ru/ccECP/Ru.aug-cc-pVTZ.AutoAuxC.orca,72,S15 P13 D12 F12 G12 H5 I3,i,7dffb832c598d454
+Ru.cc-pCV5Z.AutoAuxC.orca,Ru,cc-pCV5Z,library,recipes/Ru/ccECP/Ru.cc-pCV5Z.AutoAuxC.orca,83,S15 P14 D13 F13 G13 H6 I5 K4,k,cd6bfe05a41274a0
+Ru.cc-pCVDZ.AutoAuxC.orca,Ru,cc-pCVDZ,library,recipes/Ru/ccECP/Ru.cc-pCVDZ.AutoAuxC.orca,63,S14 P12 D11 F11 G11 H4,h,f430c4e15702f087
+Ru.cc-pCVQZ.AutoAuxC.orca,Ru,cc-pCVQZ,library,recipes/Ru/ccECP/Ru.cc-pCVQZ.AutoAuxC.orca,76,S15 P13 D12 F12 G12 H5 I4 K3,k,a2f0bc055cc8e4a5
+Ru.cc-pCVTZ.AutoAuxC.orca,Ru,cc-pCVTZ,library,recipes/Ru/ccECP/Ru.cc-pCVTZ.AutoAuxC.orca,72,S15 P13 D12 F12 G12 H5 I3,i,9c7bcccad3a23420
+Ru.cc-pV5Z.AutoAuxC.orca,Ru,cc-pV5Z,library,recipes/Ru/ccECP/Ru.cc-pV5Z.AutoAuxC.orca,77,S15 P13 D12 F12 G12 H5 I4 K4,k,367a2cc2942de1d4
+Ru.cc-pVDZ.AutoAuxC.orca,Ru,cc-pVDZ,library,recipes/Ru/ccECP/Ru.cc-pVDZ.AutoAuxC.orca,54,S12 P11 D10 F10 G9 H2,h,f95fe2ab26030e9c
+Ru.cc-pVQZ.AutoAuxC.orca,Ru,cc-pVQZ,library,recipes/Ru/ccECP/Ru.cc-pVQZ.AutoAuxC.orca,72,S14 P12 D12 F12 G11 H5 I3 K3,k,2ab5deb77ddb5cc8
+Ru.cc-pVTZ.AutoAuxC.orca,Ru,cc-pVTZ,library,recipes/Ru/ccECP/Ru.cc-pVTZ.AutoAuxC.orca,66,S14 P12 D11 F11 G11 H4 I3,i,7923c447d1ac0ff9
+S.aug-cc-pV5Z.AutoAuxC.orca,S,aug-cc-pV5Z,library,recipes/S/ccECP/S.aug-cc-pV5Z.AutoAuxC.orca,53,S11 P11 D10 F6 G6 H5 I4,i,372ebe0366ac74a8
+S.aug-cc-pV6Z.AutoAuxC.orca,S,aug-cc-pV6Z,library,recipes/S/ccECP/S.aug-cc-pV6Z.AutoAuxC.orca,61,S12 P11 D11 F7 G6 H6 I4 K4,k,ee24d66e2ab21710
+S.aug-cc-pVDZ.AutoAuxC.orca,S,aug-cc-pVDZ,library,recipes/S/ccECP/S.aug-cc-pVDZ.AutoAuxC.orca,31,S11 P9 D8 F3,f,54d8d9ff0535fba7
+S.aug-cc-pVQZ.AutoAuxC.orca,S,aug-cc-pVQZ,library,recipes/S/ccECP/S.aug-cc-pVQZ.AutoAuxC.orca,47,S11 P11 D10 F6 G5 H4,h,4128ae51c47ce9ba
+S.aug-cc-pVTZ.AutoAuxC.orca,S,aug-cc-pVTZ,library,recipes/S/ccECP/S.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P10 D9 F5 G4,g,2e244b233e48f007
+S.cc-pV5Z.AutoAuxC.orca,S,cc-pV5Z,library,recipes/S/ccECP/S.cc-pV5Z.AutoAuxC.orca,50,S11 P11 D10 F6 G5 H4 I3,i,d75d9ce251d4a5d4
+S.cc-pV6Z.AutoAuxC.orca,S,cc-pV6Z,library,recipes/S/ccECP/S.cc-pV6Z.AutoAuxC.orca,56,S11 P11 D10 F6 G6 H5 I4 K3,k,49e5d0a336c3157e
+S.cc-pVDZ.AutoAuxC.orca,S,cc-pVDZ,library,recipes/S/ccECP/S.cc-pVDZ.AutoAuxC.orca,30,S11 P9 D8 F2,f,73148fe4435fa047
+S.cc-pVQZ.AutoAuxC.orca,S,cc-pVQZ,library,recipes/S/ccECP/S.cc-pVQZ.AutoAuxC.orca,44,S11 P11 D10 F5 G4 H3,h,3a7c2df5374a5cc4
+S.cc-pVTZ.AutoAuxC.orca,S,cc-pVTZ,library,recipes/S/ccECP/S.cc-pVTZ.AutoAuxC.orca,37,S11 P10 D9 F4 G3,g,5e7724b82a0f136c
+Sb.aug-cc-pV5Z.AutoAuxC.orca,Sb,aug-cc-pV5Z,library,recipes/Sb/ccECP/Sb.aug-cc-pV5Z.AutoAuxC.orca,57,S13 P11 D10 F6 G5 H5 I4 K3,k,b3dd5ec80f59a8ed
+Sb.aug-cc-pV6Z.AutoAuxC.orca,Sb,aug-cc-pV6Z,library,recipes/Sb/ccECP/Sb.aug-cc-pV6Z.AutoAuxC.orca,63,S14 P12 D11 F7 G6 H5 I4 K4,k,13eb265f65961e6e
+Sb.aug-cc-pVDZ.AutoAuxC.orca,Sb,aug-cc-pVDZ,library,recipes/Sb/ccECP/Sb.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,9d89574f2a3f6049
+Sb.aug-cc-pVQZ.AutoAuxC.orca,Sb,aug-cc-pVQZ,library,recipes/Sb/ccECP/Sb.aug-cc-pVQZ.AutoAuxC.orca,50,S12 P11 D10 F5 G5 H4 I3,i,a4c18af3d243441d
+Sb.aug-cc-pVTZ.AutoAuxC.orca,Sb,aug-cc-pVTZ,library,recipes/Sb/ccECP/Sb.aug-cc-pVTZ.AutoAuxC.orca,44,S12 P10 D9 F5 G5 H3,h,979577188a892a37
+Sb.cc-pV5Z.AutoAuxC.orca,Sb,cc-pV5Z,library,recipes/Sb/ccECP/Sb.cc-pV5Z.AutoAuxC.orca,52,S12 P11 D10 F5 G4 H4 I3 K3,k,deac36b8786d0418
+Sb.cc-pV6Z.AutoAuxC.orca,Sb,cc-pV6Z,library,recipes/Sb/ccECP/Sb.cc-pV6Z.AutoAuxC.orca,55,S13 P11 D10 F6 G5 H4 I3 K3,k,cbd61261f294793f
+Sb.cc-pVDZ.AutoAuxC.orca,Sb,cc-pVDZ,library,recipes/Sb/ccECP/Sb.cc-pVDZ.AutoAuxC.orca,27,S9 P8 D7 F2 G1,g,15b17ab5ad1adeae
+Sb.cc-pVQZ.AutoAuxC.orca,Sb,cc-pVQZ,library,recipes/Sb/ccECP/Sb.cc-pVQZ.AutoAuxC.orca,45,S12 P10 D9 F4 G4 H3 I3,i,113d4125ab374df3
+Sb.cc-pVTZ.AutoAuxC.orca,Sb,cc-pVTZ,library,recipes/Sb/ccECP/Sb.cc-pVTZ.AutoAuxC.orca,41,S12 P10 D9 F4 G4 H2,h,1331af2f4e4c33f9
+Sc.aug-cc-pCV5Z.AutoAuxC.orca,Sc,aug-cc-pCV5Z,library,recipes/Sc/ccECP/Sc.aug-cc-pCV5Z.AutoAuxC.orca,94,S17 P15 D14 F14 G14 H8 I6 K6,k,c4c6607fea29114a
+Sc.aug-cc-pCVDZ.AutoAuxC.orca,Sc,aug-cc-pCVDZ,library,recipes/Sc/ccECP/Sc.aug-cc-pCVDZ.AutoAuxC.orca,80,S17 P15 D14 F14 G14 H6,h,96e9bc68cabf5766
+Sc.aug-cc-pCVQZ.AutoAuxC.orca,Sc,aug-cc-pCVQZ,library,recipes/Sc/ccECP/Sc.aug-cc-pCVQZ.AutoAuxC.orca,93,S17 P15 D14 F14 G14 H8 I6 K5,k,1dc6ce4325006ef3
+Sc.aug-cc-pCVTZ.AutoAuxC.orca,Sc,aug-cc-pCVTZ,library,recipes/Sc/ccECP/Sc.aug-cc-pCVTZ.AutoAuxC.orca,83,S16 P15 D14 F13 G13 H7 I5,i,4f0d7f11ee571286
+Sc.aug-cc-pV5Z.AutoAuxC.orca,Sc,aug-cc-pV5Z,library,recipes/Sc/ccECP/Sc.aug-cc-pV5Z.AutoAuxC.orca,87,S16 P14 D13 F13 G13 H7 I6 K5,k,d2cc27b4d3b1c46a
+Sc.aug-cc-pVDZ.AutoAuxC.orca,Sc,aug-cc-pVDZ,library,recipes/Sc/ccECP/Sc.aug-cc-pVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G10 H4,h,db30e08046993921
+Sc.aug-cc-pVQZ.AutoAuxC.orca,Sc,aug-cc-pVQZ,library,recipes/Sc/ccECP/Sc.aug-cc-pVQZ.AutoAuxC.orca,90,S16 P15 D14 F14 G13 H7 I6 K5,k,17d46e69d8c402b8
+Sc.aug-cc-pVTZ.AutoAuxC.orca,Sc,aug-cc-pVTZ,library,recipes/Sc/ccECP/Sc.aug-cc-pVTZ.AutoAuxC.orca,69,S14 P12 D11 F11 G11 H6 I4,i,e139f8ddaf02a944
+Sc.cc-pCV5Z.AutoAuxC.orca,Sc,cc-pCV5Z,library,recipes/Sc/ccECP/Sc.cc-pCV5Z.AutoAuxC.orca,84,S15 P14 D13 F13 G12 H7 I5 K5,k,229c10269bb27be5
+Sc.cc-pCVDZ.AutoAuxC.orca,Sc,cc-pCVDZ,library,recipes/Sc/ccECP/Sc.cc-pCVDZ.AutoAuxC.orca,73,S15 P14 D13 F13 G13 H5,h,636c36099def67b7
+Sc.cc-pCVQZ.AutoAuxC.orca,Sc,cc-pCVQZ,library,recipes/Sc/ccECP/Sc.cc-pCVQZ.AutoAuxC.orca,81,S15 P14 D13 F12 G12 H6 I5 K4,k,14352d3c7275ea3b
+Sc.cc-pCVTZ.AutoAuxC.orca,Sc,cc-pCVTZ,library,recipes/Sc/ccECP/Sc.cc-pCVTZ.AutoAuxC.orca,73,S15 P13 D12 F12 G12 H5 I4,i,d259c1d75827c2e2
+Sc.cc-pV5Z.AutoAuxC.orca,Sc,cc-pV5Z,library,recipes/Sc/ccECP/Sc.cc-pV5Z.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,6b6d6c9d8dad1c9a
+Sc.cc-pVDZ.AutoAuxC.orca,Sc,cc-pVDZ,library,recipes/Sc/ccECP/Sc.cc-pVDZ.AutoAuxC.orca,54,S13 P11 D10 F9 G9 H2,h,830128267d1b5916
+Sc.cc-pVQZ.AutoAuxC.orca,Sc,cc-pVQZ,library,recipes/Sc/ccECP/Sc.cc-pVQZ.AutoAuxC.orca,78,S15 P13 D12 F12 G12 H6 I4 K4,k,1a088e41fccfd58e
+Sc.cc-pVTZ.AutoAuxC.orca,Sc,cc-pVTZ,library,recipes/Sc/ccECP/Sc.cc-pVTZ.AutoAuxC.orca,61,S13 P11 D10 F10 G10 H4 I3,i,c752c8b759194a49
+Se.aug-cc-pV5Z.AutoAuxC.orca,Se,aug-cc-pV5Z,library,recipes/Se/ccECP/Se.aug-cc-pV5Z.AutoAuxC.orca,61,S13 P12 D11 F6 G6 H5 I4 K4,k,07421e55c3e75998
+Se.aug-cc-pV6Z.AutoAuxC.orca,Se,aug-cc-pV6Z,library,recipes/Se/ccECP/Se.aug-cc-pV6Z.AutoAuxC.orca,62,S14 P12 D11 F6 G6 H5 I4 K4,k,dcc53c116b494063
+Se.aug-cc-pVDZ.AutoAuxC.orca,Se,aug-cc-pVDZ,library,recipes/Se/ccECP/Se.aug-cc-pVDZ.AutoAuxC.orca,34,S11 P9 D8 F3 G3,g,6ad2e373fd2abf99
+Se.aug-cc-pVQZ.AutoAuxC.orca,Se,aug-cc-pVQZ,library,recipes/Se/ccECP/Se.aug-cc-pVQZ.AutoAuxC.orca,51,S13 P11 D10 F5 G5 H4 I3,i,dbdd653fbf77a16d
+Se.aug-cc-pVTZ.AutoAuxC.orca,Se,aug-cc-pVTZ,library,recipes/Se/ccECP/Se.aug-cc-pVTZ.AutoAuxC.orca,42,S12 P10 D9 F4 G4 H3,h,729da5f7867a143d
+Se.cc-pV5Z.AutoAuxC.orca,Se,cc-pV5Z,library,recipes/Se/ccECP/Se.cc-pV5Z.AutoAuxC.orca,52,S12 P10 D10 F5 G5 H4 I3 K3,k,a157e54e61e18486
+Se.cc-pV6Z.AutoAuxC.orca,Se,cc-pV6Z,library,recipes/Se/ccECP/Se.cc-pV6Z.AutoAuxC.orca,54,S13 P11 D10 F5 G5 H4 I3 K3,k,ceeb5353f046b1f5
+Se.cc-pVDZ.AutoAuxC.orca,Se,cc-pVDZ,library,recipes/Se/ccECP/Se.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,d52c8a861f323791
+Se.cc-pVQZ.AutoAuxC.orca,Se,cc-pVQZ,library,recipes/Se/ccECP/Se.cc-pVQZ.AutoAuxC.orca,45,S12 P10 D9 F4 G4 H3 I3,i,80981664d1d2b5ed
+Se.cc-pVTZ.AutoAuxC.orca,Se,cc-pVTZ,library,recipes/Se/ccECP/Se.cc-pVTZ.AutoAuxC.orca,36,S11 P9 D8 F3 G3 H2,h,76b11a374a9c49da
+Si.aug-cc-pV5Z.AutoAuxC.orca,Si,aug-cc-pV5Z,library,recipes/Si/ccECP/Si.aug-cc-pV5Z.AutoAuxC.orca,54,S11 P11 D10 F7 G6 H5 I4,i,bc7679ff2164d914
+Si.aug-cc-pV6Z.AutoAuxC.orca,Si,aug-cc-pV6Z,library,recipes/Si/ccECP/Si.aug-cc-pV6Z.AutoAuxC.orca,63,S12 P12 D11 F7 G7 H6 I4 K4,k,02c793f2d99254ee
+Si.aug-cc-pVDZ.AutoAuxC.orca,Si,aug-cc-pVDZ,library,recipes/Si/ccECP/Si.aug-cc-pVDZ.AutoAuxC.orca,31,S11 P9 D8 F3,f,e1fd28e6c07b8c34
+Si.aug-cc-pVQZ.AutoAuxC.orca,Si,aug-cc-pVQZ,library,recipes/Si/ccECP/Si.aug-cc-pVQZ.AutoAuxC.orca,49,S12 P11 D10 F6 G5 H5,h,2a3eb24b49a714a9
+Si.aug-cc-pVTZ.AutoAuxC.orca,Si,aug-cc-pVTZ,library,recipes/Si/ccECP/Si.aug-cc-pVTZ.AutoAuxC.orca,40,S12 P10 D9 F5 G4,g,ae4c3633496087a7
+Si.cc-pV5Z.AutoAuxC.orca,Si,cc-pV5Z,library,recipes/Si/ccECP/Si.cc-pV5Z.AutoAuxC.orca,50,S11 P11 D10 F6 G5 H4 I3,i,3464944d821bc251
+Si.cc-pV6Z.AutoAuxC.orca,Si,cc-pV6Z,library,recipes/Si/ccECP/Si.cc-pV6Z.AutoAuxC.orca,56,S11 P11 D10 F6 G6 H5 I4 K3,k,7891ef61546c0e6e
+Si.cc-pVDZ.AutoAuxC.orca,Si,cc-pVDZ,library,recipes/Si/ccECP/Si.cc-pVDZ.AutoAuxC.orca,30,S11 P9 D8 F2,f,e5952c31bbc8cba1
+Si.cc-pVQZ.AutoAuxC.orca,Si,cc-pVQZ,library,recipes/Si/ccECP/Si.cc-pVQZ.AutoAuxC.orca,44,S11 P11 D10 F5 G4 H3,h,40f615d4b16e13de
+Si.cc-pVTZ.AutoAuxC.orca,Si,cc-pVTZ,library,recipes/Si/ccECP/Si.cc-pVTZ.AutoAuxC.orca,37,S11 P10 D9 F4 G3,g,1c51d377b15d015d
+Sn.aug-cc-pV5Z.AutoAuxC.orca,Sn,aug-cc-pV5Z,library,recipes/Sn/ccECP/Sn.aug-cc-pV5Z.AutoAuxC.orca,68,S13 P13 D12 F8 G7 H7 I5 K3,k,fed4c362d9761788
+Sn.aug-cc-pV6Z.AutoAuxC.orca,Sn,aug-cc-pV6Z,library,recipes/Sn/ccECP/Sn.aug-cc-pV6Z.AutoAuxC.orca,82,S14 P14 D14 F9 G9 H9 I7 K6,k,a33f44e744ecb04e
+Sn.aug-cc-pVDZ.AutoAuxC.orca,Sn,aug-cc-pVDZ,library,recipes/Sn/ccECP/Sn.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,f09e70a8e089ab96
+Sn.aug-cc-pVQZ.AutoAuxC.orca,Sn,aug-cc-pVQZ,library,recipes/Sn/ccECP/Sn.aug-cc-pVQZ.AutoAuxC.orca,55,S13 P12 D11 F6 G5 H5 I3,i,d3176239e2dc8d18
+Sn.aug-cc-pVTZ.AutoAuxC.orca,Sn,aug-cc-pVTZ,library,recipes/Sn/ccECP/Sn.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P9 D8 F4 G4 H3,h,cf3097f672d5a8fb
+Sn.cc-pV5Z.AutoAuxC.orca,Sn,cc-pV5Z,library,recipes/Sn/ccECP/Sn.cc-pV5Z.AutoAuxC.orca,62,S13 P12 D12 F7 G6 H6 I4 K2,k,a7b7cf704f7913c0
+Sn.cc-pV6Z.AutoAuxC.orca,Sn,cc-pV6Z,library,recipes/Sn/ccECP/Sn.cc-pV6Z.AutoAuxC.orca,75,S13 P13 D13 F9 G8 H7 I6 K6,k,fd3db75873ba1d8a
+Sn.cc-pVDZ.AutoAuxC.orca,Sn,cc-pVDZ,library,recipes/Sn/ccECP/Sn.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,913453e9d6389b97
+Sn.cc-pVQZ.AutoAuxC.orca,Sn,cc-pVQZ,library,recipes/Sn/ccECP/Sn.cc-pVQZ.AutoAuxC.orca,50,S13 P11 D10 F5 G4 H4 I3,i,c5579beede34fb9e
+Sn.cc-pVTZ.AutoAuxC.orca,Sn,cc-pVTZ,library,recipes/Sn/ccECP/Sn.cc-pVTZ.AutoAuxC.orca,36,S11 P9 D8 F3 G3 H2,h,d5baafaa96aeac03
+Ta.aug-cc-pCV5Z.AutoAuxC.orca,Ta,aug-cc-pCV5Z,library,recipes/Ta/ccECP/Ta.aug-cc-pCV5Z.AutoAuxC.orca,91,S17 P15 D14 F14 G13 H7 I6 K5,k,8fae00069fe3705f
+Ta.aug-cc-pCVDZ.AutoAuxC.orca,Ta,aug-cc-pCVDZ,library,recipes/Ta/ccECP/Ta.aug-cc-pCVDZ.AutoAuxC.orca,72,S16 P14 D13 F12 G12 H5,h,f742e0dfcda5cee4
+Ta.aug-cc-pCVQZ.AutoAuxC.orca,Ta,aug-cc-pCVQZ,library,recipes/Ta/ccECP/Ta.aug-cc-pCVQZ.AutoAuxC.orca,85,S16 P14 D13 F13 G13 H7 I5 K4,k,484c70ffcd08b65f
+Ta.aug-cc-pCVTZ.AutoAuxC.orca,Ta,aug-cc-pCVTZ,library,recipes/Ta/ccECP/Ta.aug-cc-pCVTZ.AutoAuxC.orca,79,S16 P14 D13 F13 G13 H6 I4,i,d15481d025daf44c
+Ta.aug-cc-pV5Z.AutoAuxC.orca,Ta,aug-cc-pV5Z,library,recipes/Ta/ccECP/Ta.aug-cc-pV5Z.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,e935a02d06e68366
+Ta.aug-cc-pVDZ.AutoAuxC.orca,Ta,aug-cc-pVDZ,library,recipes/Ta/ccECP/Ta.aug-cc-pVDZ.AutoAuxC.orca,61,S14 P12 D11 F10 G10 H4,h,71c65043f9174753
+Ta.aug-cc-pVQZ.AutoAuxC.orca,Ta,aug-cc-pVQZ,library,recipes/Ta/ccECP/Ta.aug-cc-pVQZ.AutoAuxC.orca,74,S14 P12 D12 F11 G11 H6 I4 K4,k,66ce1642ab54db63
+Ta.aug-cc-pVTZ.AutoAuxC.orca,Ta,aug-cc-pVTZ,library,recipes/Ta/ccECP/Ta.aug-cc-pVTZ.AutoAuxC.orca,68,S14 P12 D11 F11 G11 H5 I4,i,feb9ba9ecab829e0
+Ta.cc-pCV5Z.AutoAuxC.orca,Ta,cc-pCV5Z,library,recipes/Ta/ccECP/Ta.cc-pCV5Z.AutoAuxC.orca,81,S15 P14 D13 F12 G12 H6 I5 K4,k,10186ea58c08702c
+Ta.cc-pCVDZ.AutoAuxC.orca,Ta,cc-pCVDZ,library,recipes/Ta/ccECP/Ta.cc-pCVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G10 H4,h,64a3e6e562ec1ed2
+Ta.cc-pCVQZ.AutoAuxC.orca,Ta,cc-pCVQZ,library,recipes/Ta/ccECP/Ta.cc-pCVQZ.AutoAuxC.orca,74,S14 P12 D12 F12 G11 H5 I4 K4,k,6c3006e2c777f52a
+Ta.cc-pCVTZ.AutoAuxC.orca,Ta,cc-pCVTZ,library,recipes/Ta/ccECP/Ta.cc-pCVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G11 H5 I3,i,2fd1c3c84dd34cf0
+Ta.cc-pV5Z.AutoAuxC.orca,Ta,cc-pV5Z,library,recipes/Ta/ccECP/Ta.cc-pV5Z.AutoAuxC.orca,67,S13 P11 D11 F10 G10 H5 I4 K3,k,8bdb5c1e737b7428
+Ta.cc-pVDZ.AutoAuxC.orca,Ta,cc-pVDZ,library,recipes/Ta/ccECP/Ta.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,3fa062884ccd02ca
+Ta.cc-pVQZ.AutoAuxC.orca,Ta,cc-pVQZ,library,recipes/Ta/ccECP/Ta.cc-pVQZ.AutoAuxC.orca,64,S13 P11 D10 F10 G10 H4 I3 K3,k,1abc9c2faa602290
+Ta.cc-pVTZ.AutoAuxC.orca,Ta,cc-pVTZ,library,recipes/Ta/ccECP/Ta.cc-pVTZ.AutoAuxC.orca,56,S12 P10 D9 F9 G9 H4 I3,i,3f10a07e6fa0554f
+Tb.aug-cc-pCVDZ.AutoAuxC.orca,Tb,aug-cc-pCVDZ,library,recipes/Tb/ccECP/Tb.aug-cc-pCVDZ.AutoAuxC.orca,109,S17 P17 D16 F16 G16 H14 I13,i,ac869a7ee8c61576
+Tb.aug-cc-pCVQZ.AutoAuxC.orca,Tb,aug-cc-pCVQZ,library,recipes/Tb/ccECP/Tb.aug-cc-pCVQZ.AutoAuxC.orca,115,S17 P17 D16 F16 G16 H14 I13 K6,k,5c25c23684e19069
+Tb.aug-cc-pCVTZ.AutoAuxC.orca,Tb,aug-cc-pCVTZ,library,recipes/Tb/ccECP/Tb.aug-cc-pCVTZ.AutoAuxC.orca,113,S17 P17 D16 F16 G15 H14 I13 K5,k,334bbe6a25f480a9
+Tb.aug-cc-pVDZ.AutoAuxC.orca,Tb,aug-cc-pVDZ,library,recipes/Tb/ccECP/Tb.aug-cc-pVDZ.AutoAuxC.orca,99,S17 P15 D14 F14 G14 H13 I12,i,433b57ba2a582cc0
+Tb.aug-cc-pVQZ.AutoAuxC.orca,Tb,aug-cc-pVQZ,library,recipes/Tb/ccECP/Tb.aug-cc-pVQZ.AutoAuxC.orca,111,S17 P16 D15 F15 G15 H14 I13 K6,k,fd66e204f52e3a96
+Tb.aug-cc-pVTZ.AutoAuxC.orca,Tb,aug-cc-pVTZ,library,recipes/Tb/ccECP/Tb.aug-cc-pVTZ.AutoAuxC.orca,109,S17 P16 D15 F15 G15 H13 I13 K5,k,58da0a38cb6c3ad8
+Tb.cc-pCVDZ.AutoAuxC.orca,Tb,cc-pCVDZ,library,recipes/Tb/ccECP/Tb.cc-pCVDZ.AutoAuxC.orca,98,S16 P15 D14 F14 G14 H13 I12,i,03de0c051f6a153c
+Tb.cc-pCVQZ.AutoAuxC.orca,Tb,cc-pCVQZ,library,recipes/Tb/ccECP/Tb.cc-pCVQZ.AutoAuxC.orca,103,S16 P15 D14 F14 G14 H13 I12 K5,k,6f799d433f663d3a
+Tb.cc-pCVTZ.AutoAuxC.orca,Tb,cc-pCVTZ,library,recipes/Tb/ccECP/Tb.cc-pCVTZ.AutoAuxC.orca,102,S16 P15 D14 F14 G14 H13 I12 K4,k,f819f6daf21e491c
+Tb.cc-pVDZ.AutoAuxC.orca,Tb,cc-pVDZ,library,recipes/Tb/ccECP/Tb.cc-pVDZ.AutoAuxC.orca,88,S15 P14 D13 F13 G12 H11 I10,i,148fdfe580c1276a
+Tb.cc-pVQZ.AutoAuxC.orca,Tb,cc-pVQZ,library,recipes/Tb/ccECP/Tb.cc-pVQZ.AutoAuxC.orca,100,S16 P15 D14 F14 G14 H12 I11 K4,k,63a78283e03e1be8
+Tb.cc-pVTZ.AutoAuxC.orca,Tb,cc-pVTZ,library,recipes/Tb/ccECP/Tb.cc-pVTZ.AutoAuxC.orca,98,S16 P15 D14 F14 G13 H12 I11 K3,k,3a26390cc20859ac
+Te.aug-cc-pV5Z.AutoAuxC.orca,Te,aug-cc-pV5Z,library,recipes/Te/ccECP/Te.aug-cc-pV5Z.AutoAuxC.orca,57,S13 P11 D10 F6 G5 H5 I4 K3,k,bdc92c6b522d7359
+Te.aug-cc-pV6Z.AutoAuxC.orca,Te,aug-cc-pV6Z,library,recipes/Te/ccECP/Te.aug-cc-pV6Z.AutoAuxC.orca,62,S14 P12 D11 F6 G6 H5 I4 K4,k,3039a44159f55b88
+Te.aug-cc-pVDZ.AutoAuxC.orca,Te,aug-cc-pVDZ,library,recipes/Te/ccECP/Te.aug-cc-pVDZ.AutoAuxC.orca,33,S11 P9 D7 F3 G3,g,7c12d86c6c469267
+Te.aug-cc-pVQZ.AutoAuxC.orca,Te,aug-cc-pVQZ,library,recipes/Te/ccECP/Te.aug-cc-pVQZ.AutoAuxC.orca,50,S12 P11 D10 F5 G5 H4 I3,i,23d17e58cf311fe0
+Te.aug-cc-pVTZ.AutoAuxC.orca,Te,aug-cc-pVTZ,library,recipes/Te/ccECP/Te.aug-cc-pVTZ.AutoAuxC.orca,39,S11 P9 D8 F4 G4 H3,h,c204b488d4ea3110
+Te.cc-pV5Z.AutoAuxC.orca,Te,cc-pV5Z,library,recipes/Te/ccECP/Te.cc-pV5Z.AutoAuxC.orca,52,S12 P11 D10 F5 G4 H4 I3 K3,k,e0488740473402c2
+Te.cc-pV6Z.AutoAuxC.orca,Te,cc-pV6Z,library,recipes/Te/ccECP/Te.cc-pV6Z.AutoAuxC.orca,54,S13 P11 D10 F5 G5 H4 I3 K3,k,440d89690110d50a
+Te.cc-pVDZ.AutoAuxC.orca,Te,cc-pVDZ,library,recipes/Te/ccECP/Te.cc-pVDZ.AutoAuxC.orca,28,S10 P8 D7 F2 G1,g,559073f618f723ef
+Te.cc-pVQZ.AutoAuxC.orca,Te,cc-pVQZ,library,recipes/Te/ccECP/Te.cc-pVQZ.AutoAuxC.orca,45,S12 P10 D9 F4 G4 H3 I3,i,2690a1c6768b9094
+Te.cc-pVTZ.AutoAuxC.orca,Te,cc-pVTZ,library,recipes/Te/ccECP/Te.cc-pVTZ.AutoAuxC.orca,36,S11 P9 D8 F3 G3 H2,h,1e6c55fe03c0a469
+Ti.aug-cc-pCV5Z.AutoAuxC.orca,Ti,aug-cc-pCV5Z,library,recipes/Ti/ccECP/Ti.aug-cc-pCV5Z.AutoAuxC.orca,91,S17 P15 D14 F14 G13 H7 I6 K5,k,6b4215d39c1d833a
+Ti.aug-cc-pCVDZ.AutoAuxC.orca,Ti,aug-cc-pCVDZ,library,recipes/Ti/ccECP/Ti.aug-cc-pCVDZ.AutoAuxC.orca,80,S17 P15 D14 F14 G14 H6,h,ad1af5eca70b9b0f
+Ti.aug-cc-pCVQZ.AutoAuxC.orca,Ti,aug-cc-pCVQZ,library,recipes/Ti/ccECP/Ti.aug-cc-pCVQZ.AutoAuxC.orca,90,S17 P15 D14 F14 G13 H7 I5 K5,k,8fed283b521c35ec
+Ti.aug-cc-pCVTZ.AutoAuxC.orca,Ti,aug-cc-pCVTZ,library,recipes/Ti/ccECP/Ti.aug-cc-pCVTZ.AutoAuxC.orca,86,S17 P15 D14 F14 G14 H7 I5,i,29757ea0ec4e8dc1
+Ti.aug-cc-pV5Z.AutoAuxC.orca,Ti,aug-cc-pV5Z,library,recipes/Ti/ccECP/Ti.aug-cc-pV5Z.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,93519ea5bf94f22d
+Ti.aug-cc-pVDZ.AutoAuxC.orca,Ti,aug-cc-pVDZ,library,recipes/Ti/ccECP/Ti.aug-cc-pVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G10 H4,h,511da5d9b812b37f
+Ti.aug-cc-pVQZ.AutoAuxC.orca,Ti,aug-cc-pVQZ,library,recipes/Ti/ccECP/Ti.aug-cc-pVQZ.AutoAuxC.orca,84,S16 P14 D13 F13 G12 H7 I5 K4,k,a862ec0e0b03431d
+Ti.aug-cc-pVTZ.AutoAuxC.orca,Ti,aug-cc-pVTZ,library,recipes/Ti/ccECP/Ti.aug-cc-pVTZ.AutoAuxC.orca,73,S15 P13 D12 F12 G11 H6 I4,i,f24e93be2dead3b4
+Ti.cc-pCV5Z.AutoAuxC.orca,Ti,cc-pCV5Z,library,recipes/Ti/ccECP/Ti.cc-pCV5Z.AutoAuxC.orca,82,S16 P14 D13 F12 G12 H6 I5 K4,k,98a968f9b9b45d76
+Ti.cc-pCVDZ.AutoAuxC.orca,Ti,cc-pCVDZ,library,recipes/Ti/ccECP/Ti.cc-pCVDZ.AutoAuxC.orca,73,S16 P14 D13 F13 G12 H5,h,0ebb232aa8842ae0
+Ti.cc-pCVQZ.AutoAuxC.orca,Ti,cc-pCVQZ,library,recipes/Ti/ccECP/Ti.cc-pCVQZ.AutoAuxC.orca,81,S16 P14 D13 F12 G12 H6 I4 K4,k,7f7123a5d6699ea5
+Ti.cc-pCVTZ.AutoAuxC.orca,Ti,cc-pCVTZ,library,recipes/Ti/ccECP/Ti.cc-pCVTZ.AutoAuxC.orca,78,S16 P14 D13 F13 G13 H5 I4,i,8c5dc052e0271d35
+Ti.cc-pV5Z.AutoAuxC.orca,Ti,cc-pV5Z,library,recipes/Ti/ccECP/Ti.cc-pV5Z.AutoAuxC.orca,78,S15 P13 D12 F12 G12 H6 I4 K4,k,2890c941ccbaf7bc
+Ti.cc-pVDZ.AutoAuxC.orca,Ti,cc-pVDZ,library,recipes/Ti/ccECP/Ti.cc-pVDZ.AutoAuxC.orca,55,S13 P11 D10 F10 G9 H2,h,246ecbdfcc6fe4b8
+Ti.cc-pVQZ.AutoAuxC.orca,Ti,cc-pVQZ,library,recipes/Ti/ccECP/Ti.cc-pVQZ.AutoAuxC.orca,74,S15 P13 D12 F11 G11 H5 I4 K3,k,a708218e758136ef
+Ti.cc-pVTZ.AutoAuxC.orca,Ti,cc-pVTZ,library,recipes/Ti/ccECP/Ti.cc-pVTZ.AutoAuxC.orca,64,S14 P12 D11 F10 G10 H4 I3,i,fcd6bba983d225ca
+V.aug-cc-pCV5Z.AutoAuxC.orca,V,aug-cc-pCV5Z,library,recipes/V/ccECP/V.aug-cc-pCV5Z.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,5fffdbebfdd3d373
+V.aug-cc-pCVDZ.AutoAuxC.orca,V,aug-cc-pCVDZ,library,recipes/V/ccECP/V.aug-cc-pCVDZ.AutoAuxC.orca,73,S16 P14 D13 F13 G12 H5,h,876aaefd35d2b2a4
+V.aug-cc-pCVQZ.AutoAuxC.orca,V,aug-cc-pCVQZ,library,recipes/V/ccECP/V.aug-cc-pCVQZ.AutoAuxC.orca,88,S17 P15 D14 F13 G13 H7 I5 K4,k,561f90adecd6a573
+V.aug-cc-pCVTZ.AutoAuxC.orca,V,aug-cc-pCVTZ,library,recipes/V/ccECP/V.aug-cc-pCVTZ.AutoAuxC.orca,82,S17 P15 D14 F13 G12 H6 I5,i,6aa02c44ba51b82e
+V.aug-cc-pV5Z.AutoAuxC.orca,V,aug-cc-pV5Z,library,recipes/V/ccECP/V.aug-cc-pV5Z.AutoAuxC.orca,89,S17 P15 D14 F13 G13 H7 I5 K5,k,5fffdbebfdd3d373
+V.aug-cc-pVDZ.AutoAuxC.orca,V,aug-cc-pVDZ,library,recipes/V/ccECP/V.aug-cc-pVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G10 H4,h,647dc3ca05b8b9ec
+V.aug-cc-pVQZ.AutoAuxC.orca,V,aug-cc-pVQZ,library,recipes/V/ccECP/V.aug-cc-pVQZ.AutoAuxC.orca,82,S16 P14 D13 F12 G12 H6 I5 K4,k,7bb354c51a80778b
+V.aug-cc-pVTZ.AutoAuxC.orca,V,aug-cc-pVTZ,library,recipes/V/ccECP/V.aug-cc-pVTZ.AutoAuxC.orca,75,S16 P14 D12 F12 G11 H6 I4,i,690324f033e152d6
+V.cc-pCV5Z.AutoAuxC.orca,V,cc-pCV5Z,library,recipes/V/ccECP/V.cc-pCV5Z.AutoAuxC.orca,79,S16 P14 D12 F12 G11 H6 I4 K4,k,d40cec360c99b20b
+V.cc-pCVDZ.AutoAuxC.orca,V,cc-pCVDZ,library,recipes/V/ccECP/V.cc-pCVDZ.AutoAuxC.orca,66,S15 P13 D12 F11 G11 H4,h,bd890c515a157038
+V.cc-pCVQZ.AutoAuxC.orca,V,cc-pCVQZ,library,recipes/V/ccECP/V.cc-pCVQZ.AutoAuxC.orca,79,S16 P14 D13 F12 G11 H6 I4 K3,k,338e3d358723618b
+V.cc-pCVTZ.AutoAuxC.orca,V,cc-pCVTZ,library,recipes/V/ccECP/V.cc-pCVTZ.AutoAuxC.orca,73,S16 P14 D12 F12 G11 H5 I3,i,26a42e5c80bad960
+V.cc-pV5Z.AutoAuxC.orca,V,cc-pV5Z,library,recipes/V/ccECP/V.cc-pV5Z.AutoAuxC.orca,79,S16 P14 D12 F12 G11 H6 I4 K4,k,d40cec360c99b20b
+V.cc-pVDZ.AutoAuxC.orca,V,cc-pVDZ,library,recipes/V/ccECP/V.cc-pVDZ.AutoAuxC.orca,54,S13 P11 D10 F9 G9 H2,h,9ddd76f095e6d9ad
+V.cc-pVQZ.AutoAuxC.orca,V,cc-pVQZ,library,recipes/V/ccECP/V.cc-pVQZ.AutoAuxC.orca,74,S15 P13 D12 F11 G11 H5 I4 K3,k,3db30e63c35e9252
+V.cc-pVTZ.AutoAuxC.orca,V,cc-pVTZ,library,recipes/V/ccECP/V.cc-pVTZ.AutoAuxC.orca,65,S14 P12 D11 F11 G10 H4 I3,i,9c40b826170e8359
+W.aug-cc-pCV5Z.AutoAuxC.orca,W,aug-cc-pCV5Z,library,recipes/W/ccECP/W.aug-cc-pCV5Z.AutoAuxC.orca,90,S16 P15 D14 F14 G14 H7 I5 K5,k,7fcc3607052e74b6
+W.aug-cc-pCVDZ.AutoAuxC.orca,W,aug-cc-pCVDZ,library,recipes/W/ccECP/W.aug-cc-pCVDZ.AutoAuxC.orca,71,S15 P14 D13 F12 G12 H5,h,ad8add0b9d56db24
+W.aug-cc-pCVQZ.AutoAuxC.orca,W,aug-cc-pCVQZ,library,recipes/W/ccECP/W.aug-cc-pCVQZ.AutoAuxC.orca,84,S16 P14 D13 F13 G13 H6 I5 K4,k,d117938b42635af6
+W.aug-cc-pCVTZ.AutoAuxC.orca,W,aug-cc-pCVTZ,library,recipes/W/ccECP/W.aug-cc-pCVTZ.AutoAuxC.orca,79,S16 P14 D13 F13 G13 H6 I4,i,7ff0878f0f3f06ef
+W.aug-cc-pV5Z.AutoAuxC.orca,W,aug-cc-pV5Z,library,recipes/W/ccECP/W.aug-cc-pV5Z.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,9225258f959f6a23
+W.aug-cc-pVDZ.AutoAuxC.orca,W,aug-cc-pVDZ,library,recipes/W/ccECP/W.aug-cc-pVDZ.AutoAuxC.orca,61,S14 P12 D11 F11 G10 H3,h,f8b2e39b2c944717
+W.aug-cc-pVQZ.AutoAuxC.orca,W,aug-cc-pVQZ,library,recipes/W/ccECP/W.aug-cc-pVQZ.AutoAuxC.orca,76,S14 P13 D12 F12 G11 H6 I4 K4,k,0c91ca369d7d55a5
+W.aug-cc-pVTZ.AutoAuxC.orca,W,aug-cc-pVTZ,library,recipes/W/ccECP/W.aug-cc-pVTZ.AutoAuxC.orca,68,S14 P12 D11 F11 G11 H5 I4,i,560352754da4c42d
+W.cc-pCV5Z.AutoAuxC.orca,W,cc-pCV5Z,library,recipes/W/ccECP/W.cc-pCV5Z.AutoAuxC.orca,80,S15 P14 D13 F12 G12 H6 I4 K4,k,2d9f1c8998fb144a
+W.cc-pCVDZ.AutoAuxC.orca,W,cc-pCVDZ,library,recipes/W/ccECP/W.cc-pCVDZ.AutoAuxC.orca,62,S14 P12 D11 F11 G11 H3,h,5b5b7515fbf7b748
+W.cc-pCVQZ.AutoAuxC.orca,W,cc-pCVQZ,library,recipes/W/ccECP/W.cc-pCVQZ.AutoAuxC.orca,74,S14 P13 D12 F12 G11 H5 I4 K3,k,0b0f9cbee156c972
+W.cc-pCVTZ.AutoAuxC.orca,W,cc-pCVTZ,library,recipes/W/ccECP/W.cc-pCVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G11 H5 I3,i,ea5e98495ae32011
+W.cc-pV5Z.AutoAuxC.orca,W,cc-pV5Z,library,recipes/W/ccECP/W.cc-pV5Z.AutoAuxC.orca,69,S13 P12 D11 F11 G10 H5 I4 K3,k,f535c60692905cc1
+W.cc-pVDZ.AutoAuxC.orca,W,cc-pVDZ,library,recipes/W/ccECP/W.cc-pVDZ.AutoAuxC.orca,51,S12 P10 D9 F9 G9 H2,h,cec17c581eb7aad1
+W.cc-pVQZ.AutoAuxC.orca,W,cc-pVQZ,library,recipes/W/ccECP/W.cc-pVQZ.AutoAuxC.orca,64,S13 P11 D10 F10 G10 H4 I3 K3,k,75022f74ac18fe3d
+W.cc-pVTZ.AutoAuxC.orca,W,cc-pVTZ,library,recipes/W/ccECP/W.cc-pVTZ.AutoAuxC.orca,59,S12 P11 D10 F10 G9 H4 I3,i,f5247ad444d22727
+Y.aug-cc-pCV5Z.AutoAuxC.orca,Y,aug-cc-pCV5Z,library,recipes/Y/ccECP/Y.aug-cc-pCV5Z.AutoAuxC.orca,87,S16 P14 D13 F13 G13 H7 I6 K5,k,15731aca73f455ba
+Y.aug-cc-pCVDZ.AutoAuxC.orca,Y,aug-cc-pCVDZ,library,recipes/Y/ccECP/Y.aug-cc-pCVDZ.AutoAuxC.orca,67,S14 P13 D12 F11 G11 H6,h,be2800b928947a37
+Y.aug-cc-pCVQZ.AutoAuxC.orca,Y,aug-cc-pCVQZ,library,recipes/Y/ccECP/Y.aug-cc-pCVQZ.AutoAuxC.orca,86,S16 P14 D13 F13 G13 H7 I5 K5,k,4f0d9d4b3b02bfc2
+Y.aug-cc-pCVTZ.AutoAuxC.orca,Y,aug-cc-pCVTZ,library,recipes/Y/ccECP/Y.aug-cc-pCVTZ.AutoAuxC.orca,75,S15 P13 D12 F12 G12 H6 I5,i,bd707c4acac09d69
+Y.aug-cc-pV5Z.AutoAuxC.orca,Y,aug-cc-pV5Z,library,recipes/Y/ccECP/Y.aug-cc-pV5Z.AutoAuxC.orca,81,S15 P13 D12 F12 G12 H7 I5 K5,k,25fe208f866d0b52
+Y.aug-cc-pVDZ.AutoAuxC.orca,Y,aug-cc-pVDZ,library,recipes/Y/ccECP/Y.aug-cc-pVDZ.AutoAuxC.orca,57,S13 P11 D10 F10 G9 H4,h,dc58e7deb6560e21
+Y.aug-cc-pVQZ.AutoAuxC.orca,Y,aug-cc-pVQZ,library,recipes/Y/ccECP/Y.aug-cc-pVQZ.AutoAuxC.orca,74,S14 P12 D11 F11 G11 H6 I5 K4,k,af8aec042087ddad
+Y.aug-cc-pVTZ.AutoAuxC.orca,Y,aug-cc-pVTZ,library,recipes/Y/ccECP/Y.aug-cc-pVTZ.AutoAuxC.orca,63,S13 P11 D10 F10 G10 H5 I4,i,67ca0c139b4271da
+Y.cc-pCV5Z.AutoAuxC.orca,Y,cc-pCV5Z,library,recipes/Y/ccECP/Y.cc-pCV5Z.AutoAuxC.orca,75,S14 P12 D12 F11 G11 H6 I5 K4,k,7dbb0175b40422cb
+Y.cc-pCVDZ.AutoAuxC.orca,Y,cc-pCVDZ,library,recipes/Y/ccECP/Y.cc-pCVDZ.AutoAuxC.orca,58,S13 P11 D10 F10 G10 H4,h,d3e0b230a02b8967
+Y.cc-pCVQZ.AutoAuxC.orca,Y,cc-pCVQZ,library,recipes/Y/ccECP/Y.cc-pCVQZ.AutoAuxC.orca,75,S15 P13 D11 F11 G11 H6 I4 K4,k,85acc3e4689a0ce2
+Y.cc-pCVTZ.AutoAuxC.orca,Y,cc-pCVTZ,library,recipes/Y/ccECP/Y.cc-pCVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G10 H5 I4,i,2175506c0a4ec0e0
+Y.cc-pV5Z.AutoAuxC.orca,Y,cc-pV5Z,library,recipes/Y/ccECP/Y.cc-pV5Z.AutoAuxC.orca,72,S14 P12 D11 F11 G10 H6 I4 K4,k,44390ca2abd9da3c
+Y.cc-pVDZ.AutoAuxC.orca,Y,cc-pVDZ,library,recipes/Y/ccECP/Y.cc-pVDZ.AutoAuxC.orca,49,S12 P10 D9 F8 G8 H2,h,f6c65a9c2805d667
+Y.cc-pVQZ.AutoAuxC.orca,Y,cc-pVQZ,library,recipes/Y/ccECP/Y.cc-pVQZ.AutoAuxC.orca,65,S13 P11 D10 F10 G9 H5 I4 K3,k,0bac32ecbf730055
+Y.cc-pVTZ.AutoAuxC.orca,Y,cc-pVTZ,library,recipes/Y/ccECP/Y.cc-pVTZ.AutoAuxC.orca,55,S12 P10 D9 F9 G8 H4 I3,i,f91d56e99df8d5eb
+Zn.aug-cc-pCV5Z.AutoAuxC.orca,Zn,aug-cc-pCV5Z,library,recipes/Zn/ccECP/Zn.aug-cc-pCV5Z.AutoAuxC.orca,93,S18 P16 D15 F14 G13 H7 I5 K5,k,0540a70e2e51e140
+Zn.aug-cc-pCVDZ.AutoAuxC.orca,Zn,aug-cc-pCVDZ,library,recipes/Zn/ccECP/Zn.aug-cc-pCVDZ.AutoAuxC.orca,76,S17 P15 D14 F13 G12 H5,h,220ee308e654f19c
+Zn.aug-cc-pCVQZ.AutoAuxC.orca,Zn,aug-cc-pCVQZ,library,recipes/Zn/ccECP/Zn.aug-cc-pCVQZ.AutoAuxC.orca,88,S18 P16 D14 F13 G12 H6 I5 K4,k,a2bb3575d2378f57
+Zn.aug-cc-pCVTZ.AutoAuxC.orca,Zn,aug-cc-pCVTZ,library,recipes/Zn/ccECP/Zn.aug-cc-pCVTZ.AutoAuxC.orca,85,S18 P16 D14 F13 G13 H6 I5,i,52710e1ab102a7b9
+Zn.aug-cc-pV5Z.AutoAuxC.orca,Zn,aug-cc-pV5Z,library,recipes/Zn/ccECP/Zn.aug-cc-pV5Z.AutoAuxC.orca,93,S18 P16 D15 F14 G13 H7 I5 K5,k,0540a70e2e51e140
+Zn.aug-cc-pVDZ.AutoAuxC.orca,Zn,aug-cc-pVDZ,library,recipes/Zn/ccECP/Zn.aug-cc-pVDZ.AutoAuxC.orca,66,S16 P13 D12 F11 G10 H4,h,70bcdb8da882a4ba
+Zn.aug-cc-pVQZ.AutoAuxC.orca,Zn,aug-cc-pVQZ,library,recipes/Zn/ccECP/Zn.aug-cc-pVQZ.AutoAuxC.orca,87,S18 P15 D14 F13 G12 H6 I5 K4,k,a0efc583029a27c2
+Zn.aug-cc-pVTZ.AutoAuxC.orca,Zn,aug-cc-pVTZ,library,recipes/Zn/ccECP/Zn.aug-cc-pVTZ.AutoAuxC.orca,77,S17 P15 D13 F12 G11 H5 I4,i,da13305e713985f1
+Zn.cc-pCV5Z.AutoAuxC.orca,Zn,cc-pCV5Z,library,recipes/Zn/ccECP/Zn.cc-pCV5Z.AutoAuxC.orca,82,S17 P15 D13 F12 G11 H6 I4 K4,k,d91cff3e4af78086
+Zn.cc-pCVDZ.AutoAuxC.orca,Zn,cc-pCVDZ,library,recipes/Zn/ccECP/Zn.cc-pCVDZ.AutoAuxC.orca,70,S16 P14 D13 F12 G11 H4,h,527a79ecbaaed645
+Zn.cc-pCVQZ.AutoAuxC.orca,Zn,cc-pCVQZ,library,recipes/Zn/ccECP/Zn.cc-pCVQZ.AutoAuxC.orca,79,S17 P14 D13 F12 G11 H5 I4 K3,k,6aa2a8d687b685ae
+Zn.cc-pCVTZ.AutoAuxC.orca,Zn,cc-pCVTZ,library,recipes/Zn/ccECP/Zn.cc-pCVTZ.AutoAuxC.orca,75,S17 P14 D13 F12 G11 H5 I3,i,36a05114f3b6a14e
+Zn.cc-pV5Z.AutoAuxC.orca,Zn,cc-pV5Z,library,recipes/Zn/ccECP/Zn.cc-pV5Z.AutoAuxC.orca,82,S17 P15 D13 F12 G11 H6 I4 K4,k,d91cff3e4af78086
+Zn.cc-pVDZ.AutoAuxC.orca,Zn,cc-pVDZ,library,recipes/Zn/ccECP/Zn.cc-pVDZ.AutoAuxC.orca,58,S14 P12 D11 F10 G9 H2,h,b8dd24ee97d980ad
+Zn.cc-pVQZ.AutoAuxC.orca,Zn,cc-pVQZ,library,recipes/Zn/ccECP/Zn.cc-pVQZ.AutoAuxC.orca,78,S16 P14 D13 F12 G11 H5 I4 K3,k,a4148a997f51c505
+Zn.cc-pVTZ.AutoAuxC.orca,Zn,cc-pVTZ,library,recipes/Zn/ccECP/Zn.cc-pVTZ.AutoAuxC.orca,69,S16 P13 D12 F11 G10 H4 I3,i,232493726e3032d4
+Zr.aug-cc-pCV5Z.AutoAuxC.orca,Zr,aug-cc-pCV5Z,library,recipes/Zr/ccECP/Zr.aug-cc-pCV5Z.AutoAuxC.orca,90,S16 P15 D14 F14 G13 H7 I6 K5,k,7d60c3f80b78a988
+Zr.aug-cc-pCVDZ.AutoAuxC.orca,Zr,aug-cc-pCVDZ,library,recipes/Zr/ccECP/Zr.aug-cc-pCVDZ.AutoAuxC.orca,68,S15 P13 D12 F12 G11 H5,h,aba87c39e23636ec
+Zr.aug-cc-pCVQZ.AutoAuxC.orca,Zr,aug-cc-pCVQZ,library,recipes/Zr/ccECP/Zr.aug-cc-pCVQZ.AutoAuxC.orca,86,S16 P14 D13 F13 G13 H7 I5 K5,k,6bd1d146e4650ac4
+Zr.aug-cc-pCVTZ.AutoAuxC.orca,Zr,aug-cc-pCVTZ,library,recipes/Zr/ccECP/Zr.aug-cc-pCVTZ.AutoAuxC.orca,77,S15 P14 D13 F12 G12 H6 I5,i,bf31b1d600c98023
+Zr.aug-cc-pV5Z.AutoAuxC.orca,Zr,aug-cc-pV5Z,library,recipes/Zr/ccECP/Zr.aug-cc-pV5Z.AutoAuxC.orca,86,S16 P14 D13 F13 G13 H7 I5 K5,k,4a6d3a90f1f4ab17
+Zr.aug-cc-pVDZ.AutoAuxC.orca,Zr,aug-cc-pVDZ,library,recipes/Zr/ccECP/Zr.aug-cc-pVDZ.AutoAuxC.orca,60,S13 P12 D11 F10 G10 H4,h,1f544d3e4ed42edf
+Zr.aug-cc-pVQZ.AutoAuxC.orca,Zr,aug-cc-pVQZ,library,recipes/Zr/ccECP/Zr.aug-cc-pVQZ.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,31c624c0a3fab4ca
+Zr.aug-cc-pVTZ.AutoAuxC.orca,Zr,aug-cc-pVTZ,library,recipes/Zr/ccECP/Zr.aug-cc-pVTZ.AutoAuxC.orca,68,S14 P12 D11 F11 G11 H5 I4,i,8589d3b57272c2d3
+Zr.cc-pCV5Z.AutoAuxC.orca,Zr,cc-pCV5Z,library,recipes/Zr/ccECP/Zr.cc-pCV5Z.AutoAuxC.orca,79,S15 P13 D12 F12 G12 H6 I5 K4,k,38f4ed05f9d74f77
+Zr.cc-pCVDZ.AutoAuxC.orca,Zr,cc-pCVDZ,library,recipes/Zr/ccECP/Zr.cc-pCVDZ.AutoAuxC.orca,58,S13 P11 D10 F10 G10 H4,h,a36c1eaa684bba5b
+Zr.cc-pCVQZ.AutoAuxC.orca,Zr,cc-pCVQZ,library,recipes/Zr/ccECP/Zr.cc-pCVQZ.AutoAuxC.orca,72,S14 P12 D11 F11 G11 H5 I4 K4,k,5effd62b23a33b94
+Zr.cc-pCVTZ.AutoAuxC.orca,Zr,cc-pCVTZ,library,recipes/Zr/ccECP/Zr.cc-pCVTZ.AutoAuxC.orca,67,S14 P12 D11 F11 G11 H5 I3,i,55dd820e77b67eb3
+Zr.cc-pV5Z.AutoAuxC.orca,Zr,cc-pV5Z,library,recipes/Zr/ccECP/Zr.cc-pV5Z.AutoAuxC.orca,73,S14 P12 D11 F11 G11 H6 I4 K4,k,b769e3497f0a382c
+Zr.cc-pVDZ.AutoAuxC.orca,Zr,cc-pVDZ,library,recipes/Zr/ccECP/Zr.cc-pVDZ.AutoAuxC.orca,50,S12 P10 D9 F9 G8 H2,h,bcd66141ca8968b7
+Zr.cc-pVQZ.AutoAuxC.orca,Zr,cc-pVQZ,library,recipes/Zr/ccECP/Zr.cc-pVQZ.AutoAuxC.orca,66,S13 P11 D10 F10 G10 H5 I4 K3,k,d76a0f82aa11cb79
+Zr.cc-pVTZ.AutoAuxC.orca,Zr,cc-pVTZ,library,recipes/Zr/ccECP/Zr.cc-pVTZ.AutoAuxC.orca,56,S12 P10 D9 F9 G9 H4 I3,i,8e518ada2f6845b8

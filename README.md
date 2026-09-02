@@ -611,6 +611,38 @@ as the orbital sets, so there is no second numerical code path. Only the source
 wrapper differs: two lines at the top (`# ...` and `NewAuxCGTO <El>`) and a
 terminating `end;`.
 
+### Regenerating the auxiliary sets
+
+`generate_orca_autoauxc.py` produces them from scratch. Run it from the
+library's `recipes` directory:
+
+```
+python3 generate_orca_autoauxc.py --orca /path/to/orca
+```
+
+It walks every `recipes/<El>/<recipe>` directory whose recipe name contains
+`ccECP`, identifies the ECP GAMESS file from its `Element-name GEN ncore lmax`
+header, treats the remaining `*.gamess` files as orbital bases, and runs ORCA
+with `! NoIter PrintBasis` purely as a basis parser and AutoAux generator. No
+SCF or MP2 step is involved, so the multiplicity it writes is a formal
+singlet/doublet and no ground-state configuration is implied; AutoAux derives
+the fitting set from the orbital basis, not from a density.
+
+Checked against the library: regenerating N `cc-pV{D,T,Q,5}Z` and
+`aug-cc-pV{D,T}Z` reproduces the shipped `.AutoAuxC.orca` files
+byte-for-byte. The 8 locally generated B and C sets are likewise reproduced
+byte-for-byte by this script, even though it chooses a different multiplicity
+than the run that first produced them, which confirms the multiplicity has no
+effect here.
+
+`autoauxc_generated/` holds all **841** auxiliary sources in one place so the
+conversion can be driven by `--extra-aux` alone: 833 copied from the library
+and the 8 generated locally. `autoauxc_generated/MANIFEST.csv` records the
+origin, composition and a SHA-256 prefix for each, so which file came from
+where stays explicit. The library's other `ccECP_*` recipe families carry a
+further 232 AutoAuxC files; those are outside the canonical-ccECP scope of
+this conversion and are not included.
+
 Every AutoAux function is a single uncontracted primitive with coefficient
 exactly 1, so each angular momentum becomes an identity coefficient matrix.
 That is how MRCC stores its own `*-RI` entries, so the layout needs no special
